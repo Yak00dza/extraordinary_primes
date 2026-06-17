@@ -1,7 +1,7 @@
 from math import sqrt
 from math import log
 from math import ceil
-
+from flint import *
 import sys
 
 sys.setrecursionlimit(50000)
@@ -13,36 +13,48 @@ def is_prime(n):
 
     return True
 
-FACTORIALS = {0: 1, 1: 1} 
-def factorial(n):
-    global FACTORIALS
-    if n in FACTORIALS:
-        return FACTORIALS[n]
-    FACTORIALS[n] = n * factorial(n-1)
-    return FACTORIALS[n]
-
 def is_ordinary(p, A, B):
-    coeff = 0
-    h = (p-1) // 2
+    F = fmpz_mod_ctx(p)
 
-    lower = ceil(h - h/2)
-    upper = (p - 1)//3 + 1
+    A = F(A)
+    B = F(B)
+
+    h = (p - 1) // 2
+
+    lower = ceil(h - h / 2)
+    upper = (p - 1) // 3 + 1
+
+    coeff = F(0)
+
     for k in range(lower, upper):
-        l = int(p - 1 - 3*k)
-        M = (factorial(h) // (factorial(h - k -l) * factorial(l) * factorial(k))) % p
-        coeff += (M * pow(A, l, p) * pow(B, h - k -l, p)) % p 
+        l = p - 1 - 3 * k
+        if l < 0:
+            continue
 
-        return coeff != 0
+        num = fmpz.fac_ui(h)
+        den = fmpz.fac_ui(h - k - l) * fmpz.fac_ui(l) * fmpz.fac_ui(k)
+
+        M = (num // den) % p
+        M = F(M)
+
+        coeff += M * (A ** l) * (B ** (h - k - l))
+
+    return coeff != 0
+
 
 def list_ordinary_primes(A, B, top_limit=1000):
-    primes_total = 1
     result = []
+    primes_total = 0
+
     for p in range(3, top_limit):
-        if not is_prime(p):
+        if not fmpz(p).is_prime():
             continue
+
         primes_total += 1
+
         if is_ordinary(p, A, B):
             result.append(p)
+
     return result, primes_total
 
 def has_complex_multiplication(A, B, oprimes, primes_total):

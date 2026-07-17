@@ -3,6 +3,7 @@ from math import log
 from math import ceil
 from flint import *
 import sys
+import os
 
 sys.setrecursionlimit(50000)
 
@@ -19,25 +20,48 @@ def is_ordinary(p, A, B):
     A = F(A)
     B = F(B)
 
+    if A == 0 or B == 0:
+        return False
+
     h = (p - 1) // 2
 
-    lower = ceil(h - h / 2)
+    lower = (h + 1) // 2          # ceil(h/2)
     upper = (p - 1) // 3 + 1
 
-    coeff = F(0)
+    if lower >= upper:
+        return False
 
-    for k in range(lower, upper):
-        l = p - 1 - 3 * k
-        if l < 0:
-            continue
+    k = lower
+    l = 2*h - 3*k
+    m = 2*k - h
 
-        num = fmpz.fac_ui(h)
-        den = fmpz.fac_ui(h - k - l) * fmpz.fac_ui(l) * fmpz.fac_ui(k)
+    num = fmpz.fac_ui(h)
+    den = (
+        fmpz.fac_ui(k)
+        * fmpz.fac_ui(l)
+        * fmpz.fac_ui(m)
+    )
 
-        M = (num // den) % p
-        M = F(M)
+    T = F((num // den) % p)
+    T *= A**l
+    T *= B**m
 
-        coeff += M * (A ** l) * (B ** (h - k - l))
+    coeff = T
+
+    A3inv = (A**3).inverse()
+    B2 = B*B
+
+    for k in range(lower, upper - 1):
+        l = 2*h - 3*k
+        m = 2*k - h
+
+        T *= F(l*(l-1)*(l-2))
+        T *= B2
+
+        T *= F((k+1)*(m+1)*(m+2)).inverse()
+        T *= A3inv
+
+        coeff += T
 
     return coeff != 0
 
@@ -64,16 +88,33 @@ def has_complex_multiplication(A, B, oprimes, primes_total):
 
 
 def main():
-    A = int(input('A: ')) 
-    B = int(input('B: '))
-    top_limit = int(input('Upper bound: '))
+    DEPTH = int(1e7)
 
-    oprimes, primes_total = list_ordinary_primes(A, B, top_limit)
-    print(f'Found {len(oprimes)} ordinary primes out of {primes_total} primes less than {top_limit}.')
-    if has_complex_multiplication(A, B, oprimes, top_limit):
-        print('Based on the ensity, the curve is expected to have complex multiplication')
-    else:
-        print('Based on the ensity, the curve is expected to NOT have complex multiplication')
+    curves = []
+    with open('curves.txt', 'r') as f:
+        for line in f:
+            s1, s2 = line.split(',')
+            A, B = map(lambda x: int(x.split('=')[1]), (s1, s2))
+            curves.append((A, B))
+
+    out_dir = 'ordinary_primes'
+    os.makedirs(out_dir, exist_ok=True)
+
+    p = fmpz(3)
+    while p < DEPTH:
+        if not is_prime(p):
+            p += 1
+            continue
+
+        for A, B in curves:
+            if is_ordinary(p, A, B):
+                filename = f'{out_dir}/A={A}_B={B}.txt'
+                with open(filename, 'a') as f:
+                    f.write(f'{p}\n')
+        
+        p += 1
+
+
     
 
 if __name__ == '__main__':

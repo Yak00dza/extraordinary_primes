@@ -2,48 +2,102 @@ from math import ceil
 from flint import *
 from flint import fmpz_mod_mat as matrix
 
-from ordinary import list_ordinary_primes
+from datetime import datetime
 
 Z = fmpz
 
 def compute_d(p, A, B):
-    def d(i):
-        r = (p - 1) // 2
-        if i < 0 or i > 3*r + 3:
-            return 0
+    r = (p - 1) // 2
+    n = r + 1
+    def d_raw(i):
+        lower = max(0, (i - n + 1) // 2)   # ceil((i-n)/2)
+        upper = min(n + 1, i // 3 + 1)
 
-        lower = max(0, ceil(int((i - r - 1)) / 2))
-        upper = min(int(r + 1 + 1), int(i // 3 + 1))
+        if lower >= upper:
+            return Z(0)
 
-        r_fac = Z.fac_ui(r+1)
-        def term(k):
+        k = lower
+        l = i - 3*k
+        m = n - k - l
+
+        T = Z.fac_ui(n)
+        T //= Z.fac_ui(k)
+        T //= Z.fac_ui(l)
+        T //= Z.fac_ui(m)
+        T *= A**l
+        T *= B**m
+
+        total = T
+
+        B2 = B * B
+        A3 = A * A * A
+
+        for k in range(lower, upper - 1):
             l = i - 3*k
-            prod = Z(1)
-            prod *= (r_fac) // (Z.fac_ui(k) * Z.fac_ui(l) * Z.fac_ui(r + 1 - k - l))
-            prod *= A ** l
-            prod *= B ** (r + 1 - k -l)
-            return prod
+            m = n - k - l
 
-        return sum([term(k) for k in range(lower, upper)])
+            T *= l * (l - 1) * (l - 2)
+            T *= B2
+
+            T //= (k + 1) * (m + 1) * (m + 2)
+            T //= A3
+
+            total += T
+
+        return total
+
+    d_values = [d_raw(i) for i in range(0, 3*r + 3 + 1)]
+
+    def d(i):
+        if i < 0 or i > 3*n:
+            return Z(0)
+        return d_values[i]
 
     return d
 
 def compute_g(p, A, B):
     def g_raw(i):
-        lower = max(0, ceil(int(i - p) / 2))
-        upper = min(int(p + 1), int(i // 3 + 1))
-        p_fac = Z.fac_ui(p)
-        def term(k):
-            l = i - 3*k
-            prod = Z(1)
-            prod *= (p_fac) // (Z.fac_ui(k) * Z.fac_ui(l) * Z.fac_ui(p - k - l))
-            prod *= A ** l
-            prod *= B ** (p - k -l)
-            return prod
+        lower = max(0, (i - p + 1)//2)     # ceil((i-p)/2)
+        upper = min(p + 1, i//3 + 1)
 
-        return sum([term(k) for k in range(lower, upper)])
+        if lower >= upper:
+            return Z(0)
+
+        k = lower
+        l = i - 3*k
+        m = p - k - l
+
+        p_fac = Z.fac_ui(p)
+
+        T = p_fac
+        T //= Z.fac_ui(k)
+        T //= Z.fac_ui(l)
+        T //= Z.fac_ui(m)
+        T *= A**l
+        T *= B**m
+
+        total = T
+
+        B2 = B*B
+        A3 = A*A*A
+
+        for k in range(lower, upper - 1):
+            l = i - 3*k
+            m = p - k - l
+
+            T *= l*(l-1)*(l-2)
+            T *= B2
+
+            T //= (k+1)*(m+1)*(m+2)
+            T //= A3
+
+            total += T
+
+        return total
 
     r = int((p - 1) // 2)
+
+    g_values = [g_raw(i) // p for i in range(0, 6*r + 1 + 1)]
 
     def g(i):
         if i < 0 or i > 6*r + 1:
@@ -56,7 +110,7 @@ def compute_g(p, A, B):
         if i == 0:
             return 0
 
-        return g_raw(i) // p 
+        return g_values[i]
 
     return g
 
@@ -93,8 +147,11 @@ def is_extraordinary(p, A, B):
 
     m = int(7*r + 4)
     k = 3*r + 2
+
     equations = matrix(m, m-1, F)
     equations_augmented = matrix(m, m, F)
+
+    p2 = 2*p
 
     for i in range(0, m):
         if i == p:
@@ -103,21 +160,23 @@ def is_extraordinary(p, A, B):
             equations_augmented[i, m-1] -= B1
         equations_augmented[i, m-1] += g(i)
 
-        for j in range(0, 3*r + 1 + 1):
-            if i == j:
-                equations[i, j] += A0
-                equations_augmented[i, j] += A0
-            if j == i - 2*p:
-                equations[i, j] += 3 
-                equations_augmented[i, j] += 3 
+        if i < k:
+            equations_augmented[i, i] += A0
+            equations[i, i] += A0
+
+        h = i - p2
+        if h >= 0 and h <= k:
+            equations[i, h] += 3
+            equations_augmented[i, h] += 3
+
 
         for j in range(0, 4*r + 1):
             equations[i, j+k] -= 2*d(i - j)
             equations_augmented[i, j+k] -= 2*d(i - j)
 
-
     rank = equations.rank()
     new_rank = equations_augmented.rank()
+
 
     if rank == new_rank:
         return True
@@ -125,17 +184,24 @@ def is_extraordinary(p, A, B):
     return False
 
 if __name__ == '__main__':
-    A, B = 1, 0
-    oprimes, _ = list_ordinary_primes(A, B, top_limit=500)
-    print('Finished listing ordinary primes')
-    i = 1
-    for oprime in oprimes:
-        if i % 10 == 0:
-            print(f'Checked {i} primes') 
-        if is_extraordinary(oprime, A, B):
-            print(oprime, end=' ')
+    # get filename as an argument
+    import sys
+    if len(sys.argv) < 2:
+        print('Usage: python extraordinary.py <filename>')
+        sys.exit(1)
+    path = sys.argv[1]
+    filename = path.split('/')[-1]
+    A, B = map(lambda x: int(x.split('=')[1]), filename.split('.')[0].split('_'))
+    
+    with open(path, 'r') as f:
+        for line in f:
+            p = int(line.strip())
+            if is_extraordinary(p, A, B):
+                print(f'Found extraordinary prime for A={A}, B={B}: {p}')
+                with open(f'extraordinary_primes/{filename}', 'a') as out:
+                    out.write(f'{p}\n')
 
-        i += 1
-    print()
+
+    print('Finished at time:', datetime.now())
 
 

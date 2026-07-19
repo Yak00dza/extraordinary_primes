@@ -192,12 +192,21 @@ if __name__ == '__main__':
     path = sys.argv[1]
     filename = path.split('/')[-1]
     A, B = map(lambda x: int(x.split('=')[1]), filename.split('.')[0].split('_'))
+    print(f'Running extraordinary.py for A={A}, B={B} at time:', datetime.now())
     
+
+    step = 50
+    next_print = step
     with open(path, 'r') as f:
         for line in f:
             p = int(line.strip())
+            if p > next_print:
+                print(f'The curve A={A}, B={B} processed up to p={p} at time:', datetime.now())
+                next_print = p + step
+            if p > 2000:
+                break
             if is_extraordinary(p, A, B):
-                print(f'Found extraordinary prime for A={A}, B={B}: {p}')
+                print(f'Found extraordinary prime for A={A}, B={B}: {p} at time:', datetime.now())
                 with open(f'extraordinary_primes/{filename}', 'a') as out:
                     out.write(f'{p}\n')
 

@@ -1,0 +1,2751 @@
+{"A": 375, "B": 333, "extraordinary": [11], "count": 1}
+{"A": 340, "B": 19, "extraordinary": [7], "count": 1}
+{"A": 251, "B": 352, "extraordinary": [43], "count": 1}
+{"A": -89, "B": -195, "extraordinary": [], "count": 0}
+{"A": 110, "B": -38, "extraordinary": [], "count": 0}
+{"A": 145, "B": -149, "extraordinary": [19, 23, 37], "count": 3}
+{"A": 376, "B": -129, "extraordinary": [109], "count": 1}
+{"A": 345, "B": 192, "extraordinary": [11, 19, 29, 179], "count": 4}
+{"A": 25, "B": 139, "extraordinary": [], "count": 0}
+{"A": 81, "B": -214, "extraordinary": [193], "count": 1}
+{"A": 345, "B": 230, "extraordinary": [37], "count": 1}
+{"A": 392, "B": -189, "extraordinary": [29], "count": 1}
+{"A": -324, "B": 348, "extraordinary": [], "count": 0}
+{"A": 156, "B": 320, "extraordinary": [], "count": 0}
+{"A": 326, "B": 268, "extraordinary": [5, 59], "count": 2}
+{"A": 345, "B": 79, "extraordinary": [], "count": 0}
+{"A": 305, "B": 370, "extraordinary": [67], "count": 1}
+{"A": -62, "B": 131, "extraordinary": [7, 11], "count": 2}
+{"A": -183, "B": 21, "extraordinary": [17, 31], "count": 2}
+{"A": -177, "B": -84, "extraordinary": [199], "count": 1}
+{"A": -249, "B": 144, "extraordinary": [], "count": 0}
+{"A": -341, "B": 389, "extraordinary": [5, 29], "count": 2}
+{"A": 381, "B": -66, "extraordinary": [47], "count": 1}
+{"A": 26, "B": 77, "extraordinary": [], "count": 0}
+{"A": -273, "B": 342, "extraordinary": [5], "count": 1}
+{"A": 181, "B": -181, "extraordinary": [5, 11], "count": 2}
+{"A": -67, "B": 37, "extraordinary": [5], "count": 1}
+{"A": 361, "B": -258, "extraordinary": [], "count": 0}
+{"A": 24, "B": -76, "extraordinary": [5, 7], "count": 2}
+{"A": 16, "B": -166, "extraordinary": [], "count": 0}
+{"A": -47, "B": -195, "extraordinary": [7], "count": 1}
+{"A": -1, "B": -62, "extraordinary": [], "count": 0}
+{"A": -43, "B": 243, "extraordinary": [23, 137], "count": 2}
+{"A": 380, "B": -381, "extraordinary": [29], "count": 1}
+{"A": -74, "B": 390, "extraordinary": [7], "count": 1}
+{"A": 367, "B": -170, "extraordinary": [], "count": 0}
+{"A": -159, "B": 75, "extraordinary": [], "count": 0}
+{"A": -286, "B": -61, "extraordinary": [], "count": 0}
+{"A": 399, "B": -164, "extraordinary": [], "count": 0}
+{"A": -135, "B": 117, "extraordinary": [], "count": 0}
+{"A": 268, "B": 221, "extraordinary": [], "count": 0}
+{"A": 31, "B": 228, "extraordinary": [5], "count": 1}
+{"A": 183, "B": 322, "extraordinary": [109, 223], "count": 2}
+{"A": -191, "B": -359, "extraordinary": [13, 23], "count": 2}
+{"A": 105, "B": 209, "extraordinary": [], "count": 0}
+{"A": -132, "B": -4, "extraordinary": [29], "count": 1}
+{"A": -193, "B": -23, "extraordinary": [227], "count": 1}
+{"A": 312, "B": 386, "extraordinary": [67, 173], "count": 2}
+{"A": -227, "B": 300, "extraordinary": [79], "count": 1}
+{"A": -265, "B": -61, "extraordinary": [], "count": 0}
+{"A": 329, "B": 76, "extraordinary": [], "count": 0}
+{"A": -57, "B": 325, "extraordinary": [7], "count": 1}
+{"A": 243, "B": -256, "extraordinary": [], "count": 0}
+{"A": 238, "B": -55, "extraordinary": [23, 97], "count": 2}
+{"A": -26, "B": -261, "extraordinary": [], "count": 0}
+{"A": -300, "B": -223, "extraordinary": [], "count": 0}
+{"A": 303, "B": -333, "extraordinary": [], "count": 0}
+{"A": 48, "B": 320, "extraordinary": [], "count": 0}
+{"A": -131, "B": 93, "extraordinary": [], "count": 0}
+{"A": 72, "B": 216, "extraordinary": [7], "count": 1}
+{"A": -155, "B": 311, "extraordinary": [53, 61], "count": 2}
+{"A": -166, "B": -317, "extraordinary": [], "count": 0}
+{"A": -200, "B": -109, "extraordinary": [29, 83], "count": 2}
+{"A": -396, "B": -246, "extraordinary": [227], "count": 1}
+{"A": -159, "B": -42, "extraordinary": [79, 107], "count": 2}
+{"A": -189, "B": 194, "extraordinary": [], "count": 0}
+{"A": 279, "B": 24, "extraordinary": [11], "count": 1}
+{"A": -195, "B": -328, "extraordinary": [], "count": 0}
+{"A": -115, "B": -261, "extraordinary": [], "count": 0}
+{"A": -220, "B": 127, "extraordinary": [], "count": 0}
+{"A": -200, "B": -3, "extraordinary": [17], "count": 1}
+{"A": 348, "B": -144, "extraordinary": [5], "count": 1}
+{"A": 107, "B": -177, "extraordinary": [], "count": 0}
+{"A": 139, "B": -297, "extraordinary": [29], "count": 1}
+{"A": -92, "B": -91, "extraordinary": [], "count": 0}
+{"A": 178, "B": 277, "extraordinary": [], "count": 0}
+{"A": 136, "B": 46, "extraordinary": [], "count": 0}
+{"A": -37, "B": 368, "extraordinary": [], "count": 0}
+{"A": 319, "B": -354, "extraordinary": [5, 13], "count": 2}
+{"A": 250, "B": 229, "extraordinary": [], "count": 0}
+{"A": 157, "B": -14, "extraordinary": [13], "count": 1}
+{"A": -272, "B": -185, "extraordinary": [73], "count": 1}
+{"A": 248, "B": -325, "extraordinary": [7], "count": 1}
+{"A": -343, "B": 130, "extraordinary": [], "count": 0}
+{"A": -279, "B": -165, "extraordinary": [97], "count": 1}
+{"A": 359, "B": 337, "extraordinary": [], "count": 0}
+{"A": -172, "B": -73, "extraordinary": [], "count": 0}
+{"A": 192, "B": 294, "extraordinary": [], "count": 0}
+{"A": -223, "B": -159, "extraordinary": [], "count": 0}
+{"A": 99, "B": 197, "extraordinary": [83, 139], "count": 2}
+{"A": 173, "B": -216, "extraordinary": [], "count": 0}
+{"A": 209, "B": -290, "extraordinary": [31], "count": 1}
+{"A": -235, "B": -312, "extraordinary": [29], "count": 1}
+{"A": -294, "B": 208, "extraordinary": [], "count": 0}
+{"A": 246, "B": -370, "extraordinary": [7, 19], "count": 2}
+{"A": 175, "B": 218, "extraordinary": [53, 197], "count": 2}
+{"A": 349, "B": -231, "extraordinary": [13, 19], "count": 2}
+{"A": -272, "B": 232, "extraordinary": [5], "count": 1}
+{"A": -311, "B": 116, "extraordinary": [5], "count": 1}
+{"A": -78, "B": -400, "extraordinary": [], "count": 0}
+{"A": -275, "B": -113, "extraordinary": [73], "count": 1}
+{"A": -371, "B": -214, "extraordinary": [], "count": 0}
+{"A": 72, "B": -210, "extraordinary": [], "count": 0}
+{"A": 260, "B": -206, "extraordinary": [], "count": 0}
+{"A": 289, "B": 234, "extraordinary": [5, 11, 163], "count": 3}
+{"A": 193, "B": -188, "extraordinary": [7, 59], "count": 2}
+{"A": -338, "B": -294, "extraordinary": [5], "count": 1}
+{"A": 351, "B": -185, "extraordinary": [11], "count": 1}
+{"A": 250, "B": 239, "extraordinary": [73], "count": 1}
+{"A": 157, "B": 315, "extraordinary": [139], "count": 1}
+{"A": -121, "B": 350, "extraordinary": [], "count": 0}
+{"A": 64, "B": 249, "extraordinary": [], "count": 0}
+{"A": -199, "B": 370, "extraordinary": [11, 13, 29, 83], "count": 4}
+{"A": 49, "B": 333, "extraordinary": [], "count": 0}
+{"A": -178, "B": 9, "extraordinary": [7], "count": 1}
+{"A": -186, "B": -236, "extraordinary": [19], "count": 1}
+{"A": 28, "B": 208, "extraordinary": [], "count": 0}
+{"A": -81, "B": 7, "extraordinary": [17, 41, 97], "count": 3}
+{"A": 319, "B": -264, "extraordinary": [109], "count": 1}
+{"A": 200, "B": 59, "extraordinary": [7], "count": 1}
+{"A": 66, "B": 303, "extraordinary": [31], "count": 1}
+{"A": 84, "B": -79, "extraordinary": [], "count": 0}
+{"A": -385, "B": -278, "extraordinary": [], "count": 0}
+{"A": 108, "B": 160, "extraordinary": [13], "count": 1}
+{"A": -57, "B": 290, "extraordinary": [11, 13], "count": 2}
+{"A": -181, "B": 223, "extraordinary": [17], "count": 1}
+{"A": -398, "B": 391, "extraordinary": [], "count": 0}
+{"A": 119, "B": 29, "extraordinary": [5, 23, 107], "count": 3}
+{"A": 274, "B": -362, "extraordinary": [11, 31, 107], "count": 3}
+{"A": 75, "B": 167, "extraordinary": [], "count": 0}
+{"A": -172, "B": 370, "extraordinary": [7], "count": 1}
+{"A": -60, "B": -390, "extraordinary": [11], "count": 1}
+{"A": -217, "B": -35, "extraordinary": [17], "count": 1}
+{"A": 122, "B": -52, "extraordinary": [179], "count": 1}
+{"A": -86, "B": -142, "extraordinary": [7, 167], "count": 2}
+{"A": 166, "B": -139, "extraordinary": [], "count": 0}
+{"A": -264, "B": -221, "extraordinary": [], "count": 0}
+{"A": 282, "B": 350, "extraordinary": [151], "count": 1}
+{"A": 218, "B": -290, "extraordinary": [], "count": 0}
+{"A": -375, "B": -54, "extraordinary": [7, 11, 179], "count": 3}
+{"A": 41, "B": -331, "extraordinary": [61], "count": 1}
+{"A": -239, "B": -170, "extraordinary": [], "count": 0}
+{"A": -29, "B": 77, "extraordinary": [], "count": 0}
+{"A": 44, "B": 103, "extraordinary": [], "count": 0}
+{"A": -349, "B": 41, "extraordinary": [197], "count": 1}
+{"A": -345, "B": 275, "extraordinary": [], "count": 0}
+{"A": -216, "B": 117, "extraordinary": [], "count": 0}
+{"A": 228, "B": -66, "extraordinary": [7], "count": 1}
+{"A": -237, "B": -362, "extraordinary": [7], "count": 1}
+{"A": 35, "B": 251, "extraordinary": [43], "count": 1}
+{"A": -278, "B": -28, "extraordinary": [5, 59], "count": 2}
+{"A": 322, "B": -303, "extraordinary": [5, 17], "count": 2}
+{"A": 388, "B": -276, "extraordinary": [5, 41], "count": 2}
+{"A": -121, "B": -164, "extraordinary": [97, 173], "count": 2}
+{"A": -280, "B": -75, "extraordinary": [], "count": 0}
+{"A": 172, "B": -237, "extraordinary": [], "count": 0}
+{"A": 106, "B": -235, "extraordinary": [], "count": 0}
+{"A": 156, "B": 180, "extraordinary": [], "count": 0}
+{"A": 322, "B": 315, "extraordinary": [], "count": 0}
+{"A": -295, "B": 212, "extraordinary": [19], "count": 1}
+{"A": -260, "B": -183, "extraordinary": [], "count": 0}
+{"A": -290, "B": 41, "extraordinary": [], "count": 0}
+{"A": -128, "B": 44, "extraordinary": [], "count": 0}
+{"A": 183, "B": 197, "extraordinary": [7, 19, 41], "count": 3}
+{"A": -400, "B": 126, "extraordinary": [], "count": 0}
+{"A": -273, "B": -197, "extraordinary": [], "count": 0}
+{"A": -35, "B": 60, "extraordinary": [], "count": 0}
+{"A": 46, "B": -374, "extraordinary": [], "count": 0}
+{"A": -224, "B": 260, "extraordinary": [19], "count": 1}
+{"A": 383, "B": -102, "extraordinary": [131], "count": 1}
+{"A": -14, "B": 148, "extraordinary": [], "count": 0}
+{"A": 186, "B": 16, "extraordinary": [13], "count": 1}
+{"A": -117, "B": 205, "extraordinary": [7], "count": 1}
+{"A": -147, "B": 165, "extraordinary": [199], "count": 1}
+{"A": 56, "B": 186, "extraordinary": [43], "count": 1}
+{"A": 379, "B": -112, "extraordinary": [5, 31], "count": 2}
+{"A": 14, "B": 7, "extraordinary": [5], "count": 1}
+{"A": 382, "B": -164, "extraordinary": [], "count": 0}
+{"A": 301, "B": -202, "extraordinary": [11, 13, 37], "count": 3}
+{"A": -107, "B": 291, "extraordinary": [5, 19, 23], "count": 3}
+{"A": 186, "B": -84, "extraordinary": [], "count": 0}
+{"A": -142, "B": -11, "extraordinary": [5, 127], "count": 2}
+{"A": -157, "B": 398, "extraordinary": [47], "count": 1}
+{"A": 134, "B": -167, "extraordinary": [29], "count": 1}
+{"A": -34, "B": -168, "extraordinary": [], "count": 0}
+{"A": -75, "B": 113, "extraordinary": [], "count": 0}
+{"A": 31, "B": 78, "extraordinary": [5, 71], "count": 2}
+{"A": 117, "B": -175, "extraordinary": [163], "count": 1}
+{"A": 153, "B": -345, "extraordinary": [], "count": 0}
+{"A": 252, "B": -286, "extraordinary": [5], "count": 1}
+{"A": -147, "B": 263, "extraordinary": [11, 13, 19], "count": 3}
+{"A": 382, "B": -305, "extraordinary": [], "count": 0}
+{"A": -109, "B": 304, "extraordinary": [5, 7, 67], "count": 3}
+{"A": -131, "B": 23, "extraordinary": [], "count": 0}
+{"A": 79, "B": 260, "extraordinary": [], "count": 0}
+{"A": 268, "B": -77, "extraordinary": [13, 29], "count": 2}
+{"A": 150, "B": -263, "extraordinary": [7, 73, 173], "count": 3}
+{"A": 130, "B": -263, "extraordinary": [], "count": 0}
+{"A": 266, "B": -186, "extraordinary": [233], "count": 1}
+{"A": 340, "B": -264, "extraordinary": [7], "count": 1}
+{"A": -113, "B": -97, "extraordinary": [], "count": 0}
+{"A": -205, "B": 385, "extraordinary": [], "count": 0}
+{"A": 211, "B": 260, "extraordinary": [], "count": 0}
+{"A": -335, "B": 373, "extraordinary": [7], "count": 1}
+{"A": -212, "B": 91, "extraordinary": [23], "count": 1}
+{"A": 226, "B": -69, "extraordinary": [17], "count": 1}
+{"A": 356, "B": -112, "extraordinary": [11], "count": 1}
+{"A": -16, "B": 311, "extraordinary": [5, 7, 19], "count": 3}
+{"A": 331, "B": 83, "extraordinary": [7], "count": 1}
+{"A": -27, "B": -369, "extraordinary": [5, 7], "count": 2}
+{"A": 74, "B": 222, "extraordinary": [31, 43], "count": 2}
+{"A": 130, "B": -2, "extraordinary": [17], "count": 1}
+{"A": -298, "B": 207, "extraordinary": [], "count": 0}
+{"A": -207, "B": 44, "extraordinary": [], "count": 0}
+{"A": 286, "B": 133, "extraordinary": [23, 97], "count": 2}
+{"A": -229, "B": -203, "extraordinary": [19], "count": 1}
+{"A": -367, "B": 255, "extraordinary": [], "count": 0}
+{"A": 73, "B": -273, "extraordinary": [5, 31], "count": 2}
+{"A": -297, "B": 33, "extraordinary": [137], "count": 1}
+{"A": -259, "B": 310, "extraordinary": [17, 59], "count": 2}
+{"A": 192, "B": -140, "extraordinary": [101], "count": 1}
+{"A": 392, "B": -133, "extraordinary": [211], "count": 1}
+{"A": -323, "B": 376, "extraordinary": [], "count": 0}
+{"A": -160, "B": -232, "extraordinary": [], "count": 0}
+{"A": -54, "B": 22, "extraordinary": [59], "count": 1}
+{"A": 203, "B": 260, "extraordinary": [], "count": 0}
+{"A": 373, "B": 198, "extraordinary": [5], "count": 1}
+{"A": -98, "B": 265, "extraordinary": [], "count": 0}
+{"A": -225, "B": 118, "extraordinary": [], "count": 0}
+{"A": -128, "B": -330, "extraordinary": [31], "count": 1}
+{"A": -290, "B": -267, "extraordinary": [43], "count": 1}
+{"A": 367, "B": -6, "extraordinary": [], "count": 0}
+{"A": -126, "B": -267, "extraordinary": [127, 137], "count": 2}
+{"A": -300, "B": -172, "extraordinary": [19], "count": 1}
+{"A": -9, "B": -258, "extraordinary": [19], "count": 1}
+{"A": 319, "B": 38, "extraordinary": [], "count": 0}
+{"A": 160, "B": 369, "extraordinary": [83], "count": 1}
+{"A": 161, "B": -265, "extraordinary": [], "count": 0}
+{"A": 217, "B": -115, "extraordinary": [17], "count": 1}
+{"A": 33, "B": 143, "extraordinary": [109], "count": 1}
+{"A": 183, "B": -127, "extraordinary": [], "count": 0}
+{"A": -6, "B": 303, "extraordinary": [19], "count": 1}
+{"A": -159, "B": -380, "extraordinary": [61], "count": 1}
+{"A": 317, "B": -59, "extraordinary": [5, 7, 13], "count": 3}
+{"A": -64, "B": 244, "extraordinary": [], "count": 0}
+{"A": 253, "B": 231, "extraordinary": [233], "count": 1}
+{"A": -117, "B": 329, "extraordinary": [], "count": 0}
+{"A": -267, "B": 291, "extraordinary": [], "count": 0}
+{"A": 86, "B": -241, "extraordinary": [], "count": 0}
+{"A": 294, "B": -288, "extraordinary": [11], "count": 1}
+{"A": -142, "B": -375, "extraordinary": [], "count": 0}
+{"A": -8, "B": 266, "extraordinary": [5], "count": 1}
+{"A": 308, "B": -163, "extraordinary": [5], "count": 1}
+{"A": -137, "B": -177, "extraordinary": [13, 23], "count": 2}
+{"A": 358, "B": 155, "extraordinary": [19], "count": 1}
+{"A": -205, "B": -272, "extraordinary": [7, 67], "count": 2}
+{"A": -368, "B": 297, "extraordinary": [43, 173], "count": 2}
+{"A": 97, "B": -28, "extraordinary": [5], "count": 1}
+{"A": 93, "B": 293, "extraordinary": [13], "count": 1}
+{"A": -31, "B": 115, "extraordinary": [67], "count": 1}
+{"A": 352, "B": -283, "extraordinary": [5, 41, 73], "count": 3}
+{"A": -110, "B": -209, "extraordinary": [], "count": 0}
+{"A": 165, "B": 261, "extraordinary": [], "count": 0}
+{"A": 195, "B": 58, "extraordinary": [7, 11, 89, 199], "count": 4}
+{"A": 30, "B": -366, "extraordinary": [11, 13, 17], "count": 3}
+{"A": -32, "B": 72, "extraordinary": [5], "count": 1}
+{"A": -45, "B": -102, "extraordinary": [239], "count": 1}
+{"A": -66, "B": 236, "extraordinary": [5, 73], "count": 2}
+{"A": 273, "B": 365, "extraordinary": [29, 37, 71], "count": 3}
+{"A": 164, "B": -126, "extraordinary": [], "count": 0}
+{"A": -394, "B": -256, "extraordinary": [5, 19, 47, 107], "count": 4}
+{"A": -112, "B": 374, "extraordinary": [5, 13, 79], "count": 3}
+{"A": 278, "B": -80, "extraordinary": [17, 31], "count": 2}
+{"A": 50, "B": 77, "extraordinary": [31], "count": 1}
+{"A": -199, "B": -214, "extraordinary": [5, 11, 149], "count": 3}
+{"A": 107, "B": 253, "extraordinary": [47], "count": 1}
+{"A": -239, "B": -334, "extraordinary": [23, 47], "count": 2}
+{"A": 119, "B": 354, "extraordinary": [5, 23], "count": 2}
+{"A": 367, "B": -162, "extraordinary": [59, 79], "count": 2}
+{"A": 99, "B": -100, "extraordinary": [13, 23], "count": 2}
+{"A": 91, "B": 73, "extraordinary": [5, 23], "count": 2}
+{"A": 286, "B": 252, "extraordinary": [], "count": 0}
+{"A": 249, "B": -91, "extraordinary": [59], "count": 1}
+{"A": -63, "B": -360, "extraordinary": [], "count": 0}
+{"A": 114, "B": 290, "extraordinary": [13], "count": 1}
+{"A": -185, "B": 139, "extraordinary": [23, 43], "count": 2}
+{"A": 33, "B": -350, "extraordinary": [29], "count": 1}
+{"A": -317, "B": 325, "extraordinary": [], "count": 0}
+{"A": -316, "B": 287, "extraordinary": [13, 23], "count": 2}
+{"A": -84, "B": 264, "extraordinary": [19, 167], "count": 2}
+{"A": -133, "B": -46, "extraordinary": [], "count": 0}
+{"A": 152, "B": 85, "extraordinary": [7], "count": 1}
+{"A": 289, "B": 344, "extraordinary": [13], "count": 1}
+{"A": -79, "B": -144, "extraordinary": [], "count": 0}
+{"A": 148, "B": 152, "extraordinary": [5], "count": 1}
+{"A": 329, "B": -149, "extraordinary": [], "count": 0}
+{"A": -349, "B": -237, "extraordinary": [], "count": 0}
+{"A": 193, "B": -343, "extraordinary": [191], "count": 1}
+{"A": 271, "B": 125, "extraordinary": [13], "count": 1}
+{"A": -209, "B": -110, "extraordinary": [], "count": 0}
+{"A": 293, "B": -184, "extraordinary": [5, 43], "count": 2}
+{"A": 2, "B": -345, "extraordinary": [], "count": 0}
+{"A": 253, "B": -131, "extraordinary": [], "count": 0}
+{"A": -77, "B": 368, "extraordinary": [47], "count": 1}
+{"A": 225, "B": 61, "extraordinary": [193], "count": 1}
+{"A": 64, "B": 143, "extraordinary": [5], "count": 1}
+{"A": -78, "B": -200, "extraordinary": [], "count": 0}
+{"A": -385, "B": 235, "extraordinary": [], "count": 0}
+{"A": -47, "B": -246, "extraordinary": [5, 7, 11, 53, 103, 229], "count": 6}
+{"A": -257, "B": 237, "extraordinary": [233], "count": 1}
+{"A": -346, "B": -43, "extraordinary": [79, 181], "count": 2}
+{"A": 24, "B": -147, "extraordinary": [], "count": 0}
+{"A": 209, "B": 133, "extraordinary": [], "count": 0}
+{"A": 353, "B": 289, "extraordinary": [], "count": 0}
+{"A": -387, "B": 63, "extraordinary": [], "count": 0}
+{"A": -32, "B": 368, "extraordinary": [], "count": 0}
+{"A": 63, "B": 344, "extraordinary": [], "count": 0}
+{"A": -273, "B": -50, "extraordinary": [11, 37, 113, 179], "count": 4}
+{"A": -263, "B": -28, "extraordinary": [17, 41], "count": 2}
+{"A": -298, "B": 94, "extraordinary": [7], "count": 1}
+{"A": 22, "B": -196, "extraordinary": [], "count": 0}
+{"A": 296, "B": -264, "extraordinary": [13, 71], "count": 2}
+{"A": 18, "B": 107, "extraordinary": [7], "count": 1}
+{"A": 275, "B": 255, "extraordinary": [23], "count": 1}
+{"A": 315, "B": 59, "extraordinary": [181], "count": 1}
+{"A": 86, "B": 365, "extraordinary": [157], "count": 1}
+{"A": -270, "B": -282, "extraordinary": [], "count": 0}
+{"A": 120, "B": 295, "extraordinary": [], "count": 0}
+{"A": 52, "B": -193, "extraordinary": [11], "count": 1}
+{"A": 5, "B": 108, "extraordinary": [], "count": 0}
+{"A": -65, "B": -393, "extraordinary": [], "count": 0}
+{"A": 242, "B": 393, "extraordinary": [211], "count": 1}
+{"A": 23, "B": 332, "extraordinary": [], "count": 0}
+{"A": 341, "B": -16, "extraordinary": [7], "count": 1}
+{"A": -65, "B": 95, "extraordinary": [67], "count": 1}
+{"A": 258, "B": 16, "extraordinary": [7, 13], "count": 2}
+{"A": -31, "B": -329, "extraordinary": [5], "count": 1}
+{"A": 243, "B": 148, "extraordinary": [23, 41, 181], "count": 3}
+{"A": -385, "B": -385, "extraordinary": [], "count": 0}
+{"A": 223, "B": 207, "extraordinary": [31], "count": 1}
+{"A": -281, "B": -22, "extraordinary": [13, 59], "count": 2}
+{"A": -126, "B": 379, "extraordinary": [29], "count": 1}
+{"A": -174, "B": -355, "extraordinary": [], "count": 0}
+{"A": 138, "B": -323, "extraordinary": [67, 103], "count": 2}
+{"A": -233, "B": 371, "extraordinary": [109], "count": 1}
+{"A": -234, "B": -166, "extraordinary": [], "count": 0}
+{"A": -291, "B": -58, "extraordinary": [11, 199], "count": 2}
+{"A": 327, "B": 39, "extraordinary": [5, 31], "count": 2}
+{"A": 137, "B": 332, "extraordinary": [5], "count": 1}
+{"A": -290, "B": -32, "extraordinary": [67], "count": 1}
+{"A": -245, "B": -207, "extraordinary": [19, 41], "count": 2}
+{"A": -382, "B": -145, "extraordinary": [], "count": 0}
+{"A": -137, "B": -286, "extraordinary": [163], "count": 1}
+{"A": 112, "B": 255, "extraordinary": [], "count": 0}
+{"A": 398, "B": -120, "extraordinary": [], "count": 0}
+{"A": 136, "B": -21, "extraordinary": [37], "count": 1}
+{"A": 190, "B": 120, "extraordinary": [13], "count": 1}
+{"A": 377, "B": 150, "extraordinary": [], "count": 0}
+{"A": -33, "B": -315, "extraordinary": [163], "count": 1}
+{"A": -358, "B": -144, "extraordinary": [], "count": 0}
+{"A": 71, "B": -152, "extraordinary": [11], "count": 1}
+{"A": 172, "B": -226, "extraordinary": [5, 151], "count": 2}
+{"A": -323, "B": -242, "extraordinary": [5, 7], "count": 2}
+{"A": -120, "B": 398, "extraordinary": [17, 31], "count": 2}
+{"A": -124, "B": -339, "extraordinary": [5], "count": 1}
+{"A": -157, "B": 128, "extraordinary": [5], "count": 1}
+{"A": -40, "B": -128, "extraordinary": [11, 23], "count": 2}
+{"A": -341, "B": -252, "extraordinary": [], "count": 0}
+{"A": -186, "B": -56, "extraordinary": [19], "count": 1}
+{"A": -255, "B": 381, "extraordinary": [13], "count": 1}
+{"A": 292, "B": 390, "extraordinary": [17], "count": 1}
+{"A": -152, "B": -364, "extraordinary": [11], "count": 1}
+{"A": 77, "B": -185, "extraordinary": [19], "count": 1}
+{"A": 159, "B": -397, "extraordinary": [5, 7, 23], "count": 3}
+{"A": -142, "B": -387, "extraordinary": [5], "count": 1}
+{"A": 235, "B": 370, "extraordinary": [], "count": 0}
+{"A": 43, "B": 56, "extraordinary": [], "count": 0}
+{"A": 375, "B": -318, "extraordinary": [], "count": 0}
+{"A": 18, "B": 236, "extraordinary": [7], "count": 1}
+{"A": -164, "B": 82, "extraordinary": [], "count": 0}
+{"A": -166, "B": -398, "extraordinary": [11, 17, 193], "count": 3}
+{"A": 341, "B": -313, "extraordinary": [], "count": 0}
+{"A": 70, "B": -318, "extraordinary": [163], "count": 1}
+{"A": -254, "B": -152, "extraordinary": [167, 239], "count": 2}
+{"A": -235, "B": 244, "extraordinary": [11, 107], "count": 2}
+{"A": -25, "B": 49, "extraordinary": [17, 19, 23, 61, 139], "count": 5}
+{"A": 397, "B": -275, "extraordinary": [7, 109], "count": 2}
+{"A": -128, "B": 247, "extraordinary": [5], "count": 1}
+{"A": -331, "B": 203, "extraordinary": [], "count": 0}
+{"A": -200, "B": -242, "extraordinary": [], "count": 0}
+{"A": -7, "B": 134, "extraordinary": [5], "count": 1}
+{"A": 91, "B": -380, "extraordinary": [], "count": 0}
+{"A": 140, "B": 370, "extraordinary": [11, 67], "count": 2}
+{"A": 55, "B": 185, "extraordinary": [], "count": 0}
+{"A": 27, "B": 376, "extraordinary": [97], "count": 1}
+{"A": 332, "B": 323, "extraordinary": [7, 67], "count": 2}
+{"A": 318, "B": -198, "extraordinary": [7, 59, 97], "count": 3}
+{"A": 297, "B": -239, "extraordinary": [], "count": 0}
+{"A": 388, "B": 269, "extraordinary": [], "count": 0}
+{"A": 194, "B": -320, "extraordinary": [11, 67, 83], "count": 3}
+{"A": 46, "B": 8, "extraordinary": [5, 7], "count": 2}
+{"A": 345, "B": -124, "extraordinary": [], "count": 0}
+{"A": 156, "B": -132, "extraordinary": [], "count": 0}
+{"A": -155, "B": 299, "extraordinary": [], "count": 0}
+{"A": 22, "B": 295, "extraordinary": [167], "count": 1}
+{"A": 134, "B": -257, "extraordinary": [], "count": 0}
+{"A": -6, "B": -15, "extraordinary": [], "count": 0}
+{"A": -269, "B": -118, "extraordinary": [], "count": 0}
+{"A": -31, "B": 359, "extraordinary": [29], "count": 1}
+{"A": -275, "B": 194, "extraordinary": [73], "count": 1}
+{"A": 311, "B": 342, "extraordinary": [229], "count": 1}
+{"A": -45, "B": 105, "extraordinary": [], "count": 0}
+{"A": 221, "B": 219, "extraordinary": [], "count": 0}
+{"A": 8, "B": 76, "extraordinary": [], "count": 0}
+{"A": -31, "B": -317, "extraordinary": [5, 11], "count": 2}
+{"A": -223, "B": -173, "extraordinary": [7, 107], "count": 2}
+{"A": 246, "B": 282, "extraordinary": [23], "count": 1}
+{"A": -204, "B": -272, "extraordinary": [], "count": 0}
+{"A": -67, "B": -280, "extraordinary": [47], "count": 1}
+{"A": -73, "B": 230, "extraordinary": [], "count": 0}
+{"A": 252, "B": -280, "extraordinary": [11, 37], "count": 2}
+{"A": 229, "B": -250, "extraordinary": [73], "count": 1}
+{"A": -70, "B": 187, "extraordinary": [], "count": 0}
+{"A": 71, "B": 361, "extraordinary": [], "count": 0}
+{"A": -373, "B": 121, "extraordinary": [37], "count": 1}
+{"A": 48, "B": 98, "extraordinary": [5, 19, 71], "count": 3}
+{"A": 190, "B": 47, "extraordinary": [17], "count": 1}
+{"A": 136, "B": -157, "extraordinary": [7], "count": 1}
+{"A": 19, "B": 352, "extraordinary": [7, 13], "count": 2}
+{"A": -176, "B": 181, "extraordinary": [37], "count": 1}
+{"A": 177, "B": 186, "extraordinary": [5], "count": 1}
+{"A": 337, "B": 385, "extraordinary": [37], "count": 1}
+{"A": 71, "B": -293, "extraordinary": [17, 23, 31], "count": 3}
+{"A": -47, "B": 131, "extraordinary": [7, 13, 173], "count": 3}
+{"A": -120, "B": -164, "extraordinary": [17], "count": 1}
+{"A": 306, "B": 190, "extraordinary": [7], "count": 1}
+{"A": 315, "B": -312, "extraordinary": [11, 73], "count": 2}
+{"A": 37, "B": 126, "extraordinary": [], "count": 0}
+{"A": 261, "B": 298, "extraordinary": [17, 41], "count": 2}
+{"A": 361, "B": -234, "extraordinary": [7, 11, 61], "count": 3}
+{"A": -192, "B": 258, "extraordinary": [], "count": 0}
+{"A": 126, "B": -25, "extraordinary": [], "count": 0}
+{"A": -355, "B": -88, "extraordinary": [61], "count": 1}
+{"A": 228, "B": 23, "extraordinary": [43], "count": 1}
+{"A": 94, "B": 267, "extraordinary": [5], "count": 1}
+{"A": 366, "B": 87, "extraordinary": [11], "count": 1}
+{"A": 232, "B": -195, "extraordinary": [7, 83, 139], "count": 3}
+{"A": 298, "B": 108, "extraordinary": [7, 43, 197], "count": 3}
+{"A": 172, "B": 28, "extraordinary": [5, 29], "count": 2}
+{"A": 245, "B": 163, "extraordinary": [], "count": 0}
+{"A": -111, "B": 48, "extraordinary": [7, 101, 107], "count": 3}
+{"A": 70, "B": 272, "extraordinary": [89], "count": 1}
+{"A": -55, "B": -384, "extraordinary": [79, 163, 241], "count": 3}
+{"A": 134, "B": -93, "extraordinary": [], "count": 0}
+{"A": 242, "B": 72, "extraordinary": [19], "count": 1}
+{"A": 259, "B": 364, "extraordinary": [5], "count": 1}
+{"A": -233, "B": -240, "extraordinary": [7, 23], "count": 2}
+{"A": -244, "B": -207, "extraordinary": [7, 113], "count": 2}
+{"A": -315, "B": 153, "extraordinary": [107], "count": 1}
+{"A": 103, "B": -210, "extraordinary": [], "count": 0}
+{"A": -66, "B": 274, "extraordinary": [], "count": 0}
+{"A": -368, "B": 206, "extraordinary": [19], "count": 1}
+{"A": -94, "B": -124, "extraordinary": [7], "count": 1}
+{"A": 114, "B": 336, "extraordinary": [], "count": 0}
+{"A": -50, "B": -307, "extraordinary": [], "count": 0}
+{"A": -315, "B": -251, "extraordinary": [], "count": 0}
+{"A": 381, "B": -2, "extraordinary": [47], "count": 1}
+{"A": 61, "B": -320, "extraordinary": [11, 83], "count": 2}
+{"A": -72, "B": -82, "extraordinary": [5, 19], "count": 2}
+{"A": 400, "B": 343, "extraordinary": [101, 113], "count": 2}
+{"A": 249, "B": -188, "extraordinary": [19], "count": 1}
+{"A": -354, "B": -290, "extraordinary": [], "count": 0}
+{"A": 325, "B": -51, "extraordinary": [31], "count": 1}
+{"A": -315, "B": -137, "extraordinary": [], "count": 0}
+{"A": 8, "B": -246, "extraordinary": [19], "count": 1}
+{"A": 290, "B": -177, "extraordinary": [17], "count": 1}
+{"A": -279, "B": -296, "extraordinary": [7, 13, 17, 19], "count": 4}
+{"A": 375, "B": 148, "extraordinary": [53], "count": 1}
+{"A": -54, "B": -384, "extraordinary": [5, 7, 11], "count": 3}
+{"A": -109, "B": -228, "extraordinary": [], "count": 0}
+{"A": 302, "B": -192, "extraordinary": [5, 7], "count": 2}
+{"A": -39, "B": -4, "extraordinary": [11], "count": 1}
+{"A": -195, "B": -389, "extraordinary": [], "count": 0}
+{"A": -371, "B": -321, "extraordinary": [17], "count": 1}
+{"A": 206, "B": -257, "extraordinary": [7], "count": 1}
+{"A": 375, "B": -356, "extraordinary": [], "count": 0}
+{"A": 51, "B": -154, "extraordinary": [31, 37], "count": 2}
+{"A": 126, "B": 344, "extraordinary": [11], "count": 1}
+{"A": -361, "B": 24, "extraordinary": [7], "count": 1}
+{"A": 361, "B": 128, "extraordinary": [], "count": 0}
+{"A": 126, "B": 71, "extraordinary": [], "count": 0}
+{"A": -273, "B": -233, "extraordinary": [5], "count": 1}
+{"A": -204, "B": 88, "extraordinary": [79, 103], "count": 2}
+{"A": -305, "B": -106, "extraordinary": [41], "count": 1}
+{"A": -88, "B": 351, "extraordinary": [], "count": 0}
+{"A": -171, "B": 236, "extraordinary": [37, 89], "count": 2}
+{"A": 171, "B": -163, "extraordinary": [23, 127], "count": 2}
+{"A": 342, "B": -295, "extraordinary": [7], "count": 1}
+{"A": -318, "B": -209, "extraordinary": [13, 23], "count": 2}
+{"A": 209, "B": 222, "extraordinary": [5, 43], "count": 2}
+{"A": -28, "B": 396, "extraordinary": [227], "count": 1}
+{"A": -374, "B": -93, "extraordinary": [5], "count": 1}
+{"A": 154, "B": -196, "extraordinary": [73], "count": 1}
+{"A": 65, "B": -248, "extraordinary": [107], "count": 1}
+{"A": 331, "B": -325, "extraordinary": [], "count": 0}
+{"A": 362, "B": 279, "extraordinary": [19], "count": 1}
+{"A": 203, "B": 299, "extraordinary": [19], "count": 1}
+{"A": 57, "B": -21, "extraordinary": [5], "count": 1}
+{"A": -75, "B": 16, "extraordinary": [13], "count": 1}
+{"A": 312, "B": 372, "extraordinary": [], "count": 0}
+{"A": 384, "B": -114, "extraordinary": [5], "count": 1}
+{"A": 233, "B": -178, "extraordinary": [73], "count": 1}
+{"A": 217, "B": -145, "extraordinary": [], "count": 0}
+{"A": -180, "B": -266, "extraordinary": [], "count": 0}
+{"A": -6, "B": 285, "extraordinary": [11], "count": 1}
+{"A": -178, "B": 365, "extraordinary": [7], "count": 1}
+{"A": -212, "B": -147, "extraordinary": [], "count": 0}
+{"A": 188, "B": -163, "extraordinary": [29], "count": 1}
+{"A": 7, "B": -229, "extraordinary": [5], "count": 1}
+{"A": -38, "B": 371, "extraordinary": [], "count": 0}
+{"A": 140, "B": -148, "extraordinary": [29], "count": 1}
+{"A": 289, "B": 289, "extraordinary": [], "count": 0}
+{"A": 263, "B": 20, "extraordinary": [], "count": 0}
+{"A": -314, "B": 147, "extraordinary": [], "count": 0}
+{"A": -350, "B": 261, "extraordinary": [], "count": 0}
+{"A": -339, "B": -120, "extraordinary": [13, 71, 101], "count": 3}
+{"A": -345, "B": 172, "extraordinary": [17], "count": 1}
+{"A": -79, "B": 57, "extraordinary": [11, 13, 31], "count": 3}
+{"A": 3, "B": -336, "extraordinary": [23], "count": 1}
+{"A": 281, "B": 288, "extraordinary": [23], "count": 1}
+{"A": -288, "B": 314, "extraordinary": [], "count": 0}
+{"A": 108, "B": -52, "extraordinary": [41, 61], "count": 2}
+{"A": 31, "B": -180, "extraordinary": [23], "count": 1}
+{"A": -318, "B": -224, "extraordinary": [], "count": 0}
+{"A": 283, "B": -23, "extraordinary": [], "count": 0}
+{"A": -223, "B": 248, "extraordinary": [], "count": 0}
+{"A": 135, "B": -24, "extraordinary": [13], "count": 1}
+{"A": 332, "B": -299, "extraordinary": [], "count": 0}
+{"A": -383, "B": -11, "extraordinary": [37], "count": 1}
+{"A": -362, "B": 61, "extraordinary": [19, 241], "count": 2}
+{"A": -141, "B": 372, "extraordinary": [5, 97], "count": 2}
+{"A": 250, "B": -214, "extraordinary": [7, 103], "count": 2}
+{"A": 242, "B": -392, "extraordinary": [53], "count": 1}
+{"A": -154, "B": 104, "extraordinary": [], "count": 0}
+{"A": -267, "B": 284, "extraordinary": [], "count": 0}
+{"A": 94, "B": 128, "extraordinary": [], "count": 0}
+{"A": 344, "B": -117, "extraordinary": [5, 17], "count": 2}
+{"A": 373, "B": 221, "extraordinary": [], "count": 0}
+{"A": -319, "B": -171, "extraordinary": [], "count": 0}
+{"A": 336, "B": -393, "extraordinary": [], "count": 0}
+{"A": 171, "B": 202, "extraordinary": [], "count": 0}
+{"A": 326, "B": 176, "extraordinary": [], "count": 0}
+{"A": 92, "B": -20, "extraordinary": [], "count": 0}
+{"A": -74, "B": 46, "extraordinary": [], "count": 0}
+{"A": -79, "B": 285, "extraordinary": [7, 17], "count": 2}
+{"A": -130, "B": 383, "extraordinary": [71], "count": 1}
+{"A": -214, "B": 316, "extraordinary": [17], "count": 1}
+{"A": -154, "B": 117, "extraordinary": [5], "count": 1}
+{"A": -31, "B": 214, "extraordinary": [19, 79, 191], "count": 3}
+{"A": 193, "B": 116, "extraordinary": [5, 61], "count": 2}
+{"A": -207, "B": 131, "extraordinary": [7, 11, 41], "count": 3}
+{"A": -158, "B": 274, "extraordinary": [7, 11], "count": 2}
+{"A": 297, "B": -15, "extraordinary": [13, 31], "count": 2}
+{"A": -17, "B": -259, "extraordinary": [], "count": 0}
+{"A": -386, "B": 359, "extraordinary": [5], "count": 1}
+{"A": -115, "B": -358, "extraordinary": [7], "count": 1}
+{"A": 109, "B": -166, "extraordinary": [], "count": 0}
+{"A": -338, "B": -7, "extraordinary": [5], "count": 1}
+{"A": -340, "B": 383, "extraordinary": [], "count": 0}
+{"A": 102, "B": -345, "extraordinary": [67], "count": 1}
+{"A": 151, "B": -280, "extraordinary": [], "count": 0}
+{"A": -105, "B": -12, "extraordinary": [11], "count": 1}
+{"A": -207, "B": 227, "extraordinary": [83], "count": 1}
+{"A": 45, "B": 31, "extraordinary": [17], "count": 1}
+{"A": -34, "B": 226, "extraordinary": [], "count": 0}
+{"A": -348, "B": 211, "extraordinary": [5], "count": 1}
+{"A": -148, "B": 184, "extraordinary": [], "count": 0}
+{"A": -262, "B": -88, "extraordinary": [31], "count": 1}
+{"A": -348, "B": -386, "extraordinary": [5], "count": 1}
+{"A": 276, "B": -290, "extraordinary": [], "count": 0}
+{"A": -81, "B": 392, "extraordinary": [5], "count": 1}
+{"A": 38, "B": 116, "extraordinary": [], "count": 0}
+{"A": -139, "B": 399, "extraordinary": [5], "count": 1}
+{"A": 220, "B": 226, "extraordinary": [], "count": 0}
+{"A": 385, "B": 393, "extraordinary": [], "count": 0}
+{"A": -324, "B": -300, "extraordinary": [43, 97], "count": 2}
+{"A": -315, "B": -301, "extraordinary": [], "count": 0}
+{"A": -375, "B": -284, "extraordinary": [17], "count": 1}
+{"A": 84, "B": -215, "extraordinary": [11], "count": 1}
+{"A": 100, "B": 320, "extraordinary": [13], "count": 1}
+{"A": 111, "B": 248, "extraordinary": [], "count": 0}
+{"A": -367, "B": 36, "extraordinary": [5], "count": 1}
+{"A": -247, "B": -194, "extraordinary": [11], "count": 1}
+{"A": -207, "B": 379, "extraordinary": [11], "count": 1}
+{"A": 240, "B": -319, "extraordinary": [17], "count": 1}
+{"A": -184, "B": -352, "extraordinary": [5, 83], "count": 2}
+{"A": -10, "B": -8, "extraordinary": [11], "count": 1}
+{"A": 351, "B": 17, "extraordinary": [97, 167], "count": 2}
+{"A": 114, "B": -362, "extraordinary": [], "count": 0}
+{"A": -327, "B": -343, "extraordinary": [11, 13, 23], "count": 3}
+{"A": -387, "B": -107, "extraordinary": [37, 53], "count": 2}
+{"A": -336, "B": -49, "extraordinary": [17, 19], "count": 2}
+{"A": 129, "B": -256, "extraordinary": [5, 59], "count": 2}
+{"A": -26, "B": -178, "extraordinary": [11], "count": 1}
+{"A": -11, "B": -220, "extraordinary": [23, 241], "count": 2}
+{"A": 177, "B": 219, "extraordinary": [11, 109], "count": 2}
+{"A": 218, "B": -356, "extraordinary": [], "count": 0}
+{"A": 48, "B": -369, "extraordinary": [5, 13], "count": 2}
+{"A": 55, "B": -32, "extraordinary": [7], "count": 1}
+{"A": 91, "B": 87, "extraordinary": [], "count": 0}
+{"A": 187, "B": 267, "extraordinary": [7, 61], "count": 2}
+{"A": 363, "B": 253, "extraordinary": [], "count": 0}
+{"A": 75, "B": -288, "extraordinary": [], "count": 0}
+{"A": 356, "B": -372, "extraordinary": [5, 7, 11], "count": 3}
+{"A": -396, "B": -294, "extraordinary": [5], "count": 1}
+{"A": 56, "B": -187, "extraordinary": [47], "count": 1}
+{"A": 105, "B": -344, "extraordinary": [13], "count": 1}
+{"A": 5, "B": 215, "extraordinary": [7, 13], "count": 2}
+{"A": 6, "B": -125, "extraordinary": [13], "count": 1}
+{"A": -98, "B": 112, "extraordinary": [59], "count": 1}
+{"A": 372, "B": 179, "extraordinary": [7, 11, 13], "count": 3}
+{"A": -95, "B": 3, "extraordinary": [181], "count": 1}
+{"A": 307, "B": 60, "extraordinary": [23], "count": 1}
+{"A": -179, "B": 367, "extraordinary": [5, 13, 61], "count": 3}
+{"A": 338, "B": -378, "extraordinary": [], "count": 0}
+{"A": 210, "B": 179, "extraordinary": [], "count": 0}
+{"A": 97, "B": 46, "extraordinary": [], "count": 0}
+{"A": -174, "B": 96, "extraordinary": [], "count": 0}
+{"A": 211, "B": 78, "extraordinary": [], "count": 0}
+{"A": -215, "B": -139, "extraordinary": [13], "count": 1}
+{"A": -69, "B": -268, "extraordinary": [89], "count": 1}
+{"A": -272, "B": -94, "extraordinary": [71], "count": 1}
+{"A": 321, "B": 169, "extraordinary": [], "count": 0}
+{"A": 313, "B": 137, "extraordinary": [11], "count": 1}
+{"A": 39, "B": 214, "extraordinary": [7], "count": 1}
+{"A": -197, "B": 229, "extraordinary": [5, 13], "count": 2}
+{"A": 312, "B": -99, "extraordinary": [], "count": 0}
+{"A": 3, "B": -74, "extraordinary": [11, 43], "count": 2}
+{"A": 10, "B": 254, "extraordinary": [113], "count": 1}
+{"A": 394, "B": -209, "extraordinary": [47], "count": 1}
+{"A": -137, "B": -347, "extraordinary": [193], "count": 1}
+{"A": -366, "B": 370, "extraordinary": [], "count": 0}
+{"A": 324, "B": -341, "extraordinary": [], "count": 0}
+{"A": 285, "B": 72, "extraordinary": [17], "count": 1}
+{"A": 297, "B": -393, "extraordinary": [13, 53, 113], "count": 3}
+{"A": 44, "B": -153, "extraordinary": [], "count": 0}
+{"A": -363, "B": 355, "extraordinary": [37], "count": 1}
+{"A": -343, "B": -312, "extraordinary": [5], "count": 1}
+{"A": -362, "B": 62, "extraordinary": [23], "count": 1}
+{"A": 98, "B": -306, "extraordinary": [5, 19], "count": 2}
+{"A": -334, "B": -41, "extraordinary": [], "count": 0}
+{"A": -325, "B": -65, "extraordinary": [79], "count": 1}
+{"A": -357, "B": -226, "extraordinary": [], "count": 0}
+{"A": 131, "B": 279, "extraordinary": [7], "count": 1}
+{"A": -39, "B": 201, "extraordinary": [5], "count": 1}
+{"A": -291, "B": 111, "extraordinary": [5, 7, 11], "count": 3}
+{"A": 358, "B": 34, "extraordinary": [41], "count": 1}
+{"A": 47, "B": -195, "extraordinary": [], "count": 0}
+{"A": -295, "B": -366, "extraordinary": [151], "count": 1}
+{"A": -398, "B": -322, "extraordinary": [], "count": 0}
+{"A": -334, "B": -316, "extraordinary": [], "count": 0}
+{"A": -44, "B": 329, "extraordinary": [29, 53, 89], "count": 3}
+{"A": -102, "B": 384, "extraordinary": [7], "count": 1}
+{"A": -61, "B": 36, "extraordinary": [17], "count": 1}
+{"A": 37, "B": 88, "extraordinary": [], "count": 0}
+{"A": 219, "B": 340, "extraordinary": [11], "count": 1}
+{"A": -306, "B": -365, "extraordinary": [], "count": 0}
+{"A": -289, "B": 376, "extraordinary": [5, 23], "count": 2}
+{"A": -81, "B": 80, "extraordinary": [17], "count": 1}
+{"A": 154, "B": 45, "extraordinary": [], "count": 0}
+{"A": 189, "B": -347, "extraordinary": [], "count": 0}
+{"A": 81, "B": -75, "extraordinary": [], "count": 0}
+{"A": -116, "B": -118, "extraordinary": [19, 137], "count": 2}
+{"A": 273, "B": -57, "extraordinary": [], "count": 0}
+{"A": -47, "B": 15, "extraordinary": [], "count": 0}
+{"A": -377, "B": -226, "extraordinary": [], "count": 0}
+{"A": 383, "B": 224, "extraordinary": [], "count": 0}
+{"A": -205, "B": 205, "extraordinary": [37], "count": 1}
+{"A": -18, "B": 91, "extraordinary": [], "count": 0}
+{"A": -184, "B": -389, "extraordinary": [7], "count": 1}
+{"A": -302, "B": 55, "extraordinary": [], "count": 0}
+{"A": 273, "B": -216, "extraordinary": [11, 131], "count": 2}
+{"A": -349, "B": 82, "extraordinary": [5], "count": 1}
+{"A": -222, "B": -205, "extraordinary": [], "count": 0}
+{"A": 265, "B": -154, "extraordinary": [], "count": 0}
+{"A": -385, "B": 357, "extraordinary": [31], "count": 1}
+{"A": -41, "B": -26, "extraordinary": [17], "count": 1}
+{"A": 350, "B": -327, "extraordinary": [], "count": 0}
+{"A": -309, "B": 244, "extraordinary": [], "count": 0}
+{"A": -18, "B": -370, "extraordinary": [], "count": 0}
+{"A": -291, "B": 391, "extraordinary": [], "count": 0}
+{"A": -20, "B": 319, "extraordinary": [53, 97], "count": 2}
+{"A": -399, "B": 343, "extraordinary": [5], "count": 1}
+{"A": 368, "B": -372, "extraordinary": [5], "count": 1}
+{"A": -177, "B": 96, "extraordinary": [37, 139], "count": 2}
+{"A": -301, "B": 273, "extraordinary": [5], "count": 1}
+{"A": -287, "B": 48, "extraordinary": [19], "count": 1}
+{"A": 74, "B": 325, "extraordinary": [], "count": 0}
+{"A": 337, "B": -26, "extraordinary": [19, 29, 37], "count": 3}
+{"A": -292, "B": 53, "extraordinary": [], "count": 0}
+{"A": 22, "B": 296, "extraordinary": [19, 43], "count": 2}
+{"A": -156, "B": 72, "extraordinary": [], "count": 0}
+{"A": 22, "B": 231, "extraordinary": [], "count": 0}
+{"A": 276, "B": 357, "extraordinary": [5, 229, 241], "count": 3}
+{"A": 315, "B": 307, "extraordinary": [83], "count": 1}
+{"A": -93, "B": 129, "extraordinary": [5, 7], "count": 2}
+{"A": -213, "B": 290, "extraordinary": [], "count": 0}
+{"A": -323, "B": -287, "extraordinary": [11], "count": 1}
+{"A": 1, "B": -342, "extraordinary": [17], "count": 1}
+{"A": -318, "B": -33, "extraordinary": [13], "count": 1}
+{"A": -259, "B": 217, "extraordinary": [], "count": 0}
+{"A": -356, "B": 247, "extraordinary": [11], "count": 1}
+{"A": -358, "B": -162, "extraordinary": [19], "count": 1}
+{"A": 361, "B": -10, "extraordinary": [], "count": 0}
+{"A": -239, "B": -320, "extraordinary": [], "count": 0}
+{"A": 12, "B": 192, "extraordinary": [13], "count": 1}
+{"A": -373, "B": -100, "extraordinary": [], "count": 0}
+{"A": 28, "B": -133, "extraordinary": [29, 41, 109, 199], "count": 4}
+{"A": 333, "B": 232, "extraordinary": [7, 31, 103], "count": 3}
+{"A": -126, "B": -20, "extraordinary": [11], "count": 1}
+{"A": 261, "B": 22, "extraordinary": [], "count": 0}
+{"A": 142, "B": -3, "extraordinary": [], "count": 0}
+{"A": 272, "B": -247, "extraordinary": [5], "count": 1}
+{"A": 46, "B": -253, "extraordinary": [7, 151], "count": 2}
+{"A": -388, "B": 354, "extraordinary": [17], "count": 1}
+{"A": -304, "B": -154, "extraordinary": [], "count": 0}
+{"A": -32, "B": 45, "extraordinary": [13], "count": 1}
+{"A": -60, "B": 343, "extraordinary": [83], "count": 1}
+{"A": -39, "B": -207, "extraordinary": [31], "count": 1}
+{"A": 329, "B": 130, "extraordinary": [], "count": 0}
+{"A": 140, "B": 5, "extraordinary": [73], "count": 1}
+{"A": 128, "B": 381, "extraordinary": [7, 197], "count": 2}
+{"A": 60, "B": -359, "extraordinary": [7, 211], "count": 2}
+{"A": 334, "B": -143, "extraordinary": [193], "count": 1}
+{"A": -56, "B": -24, "extraordinary": [], "count": 0}
+{"A": -150, "B": 282, "extraordinary": [], "count": 0}
+{"A": -40, "B": -280, "extraordinary": [23], "count": 1}
+{"A": -181, "B": -243, "extraordinary": [7], "count": 1}
+{"A": 38, "B": -181, "extraordinary": [109], "count": 1}
+{"A": 74, "B": -183, "extraordinary": [13, 211], "count": 2}
+{"A": -83, "B": 69, "extraordinary": [], "count": 0}
+{"A": 166, "B": 160, "extraordinary": [17, 137], "count": 2}
+{"A": 224, "B": -9, "extraordinary": [], "count": 0}
+{"A": 343, "B": 365, "extraordinary": [11, 233], "count": 2}
+{"A": -199, "B": -145, "extraordinary": [17], "count": 1}
+{"A": -71, "B": -255, "extraordinary": [173], "count": 1}
+{"A": -164, "B": -34, "extraordinary": [7], "count": 1}
+{"A": -284, "B": -91, "extraordinary": [], "count": 0}
+{"A": 35, "B": -80, "extraordinary": [79], "count": 1}
+{"A": 241, "B": 361, "extraordinary": [], "count": 0}
+{"A": -28, "B": 185, "extraordinary": [], "count": 0}
+{"A": -53, "B": 59, "extraordinary": [], "count": 0}
+{"A": 228, "B": -4, "extraordinary": [5, 43], "count": 2}
+{"A": 310, "B": 283, "extraordinary": [], "count": 0}
+{"A": -18, "B": -248, "extraordinary": [], "count": 0}
+{"A": 68, "B": 1, "extraordinary": [7, 31], "count": 2}
+{"A": 398, "B": 280, "extraordinary": [131], "count": 1}
+{"A": -345, "B": 200, "extraordinary": [], "count": 0}
+{"A": -10, "B": 61, "extraordinary": [7, 19, 47, 197], "count": 4}
+{"A": -47, "B": 312, "extraordinary": [113], "count": 1}
+{"A": -149, "B": 331, "extraordinary": [], "count": 0}
+{"A": -318, "B": 223, "extraordinary": [13], "count": 1}
+{"A": 282, "B": -168, "extraordinary": [], "count": 0}
+{"A": 365, "B": 203, "extraordinary": [61], "count": 1}
+{"A": -380, "B": -248, "extraordinary": [7], "count": 1}
+{"A": -302, "B": -29, "extraordinary": [107], "count": 1}
+{"A": 325, "B": -390, "extraordinary": [23], "count": 1}
+{"A": 253, "B": -185, "extraordinary": [13, 113], "count": 2}
+{"A": -211, "B": 358, "extraordinary": [11], "count": 1}
+{"A": 81, "B": 245, "extraordinary": [11, 71], "count": 2}
+{"A": 254, "B": -58, "extraordinary": [], "count": 0}
+{"A": 80, "B": 267, "extraordinary": [13, 97, 163], "count": 3}
+{"A": 212, "B": 213, "extraordinary": [31], "count": 1}
+{"A": -391, "B": -41, "extraordinary": [29], "count": 1}
+{"A": -61, "B": -362, "extraordinary": [11], "count": 1}
+{"A": 283, "B": -55, "extraordinary": [], "count": 0}
+{"A": 321, "B": -238, "extraordinary": [23], "count": 1}
+{"A": 60, "B": 103, "extraordinary": [], "count": 0}
+{"A": -390, "B": 110, "extraordinary": [23], "count": 1}
+{"A": -247, "B": 46, "extraordinary": [5, 83], "count": 2}
+{"A": 161, "B": 312, "extraordinary": [5], "count": 1}
+{"A": 310, "B": 168, "extraordinary": [], "count": 0}
+{"A": -358, "B": -259, "extraordinary": [5], "count": 1}
+{"A": 278, "B": -84, "extraordinary": [109], "count": 1}
+{"A": -212, "B": -82, "extraordinary": [157], "count": 1}
+{"A": -292, "B": -110, "extraordinary": [43], "count": 1}
+{"A": 46, "B": 211, "extraordinary": [], "count": 0}
+{"A": -100, "B": -114, "extraordinary": [7], "count": 1}
+{"A": -298, "B": -305, "extraordinary": [], "count": 0}
+{"A": -225, "B": -216, "extraordinary": [], "count": 0}
+{"A": 203, "B": -373, "extraordinary": [], "count": 0}
+{"A": 315, "B": 287, "extraordinary": [13, 47], "count": 2}
+{"A": -277, "B": 143, "extraordinary": [], "count": 0}
+{"A": -317, "B": -156, "extraordinary": [109], "count": 1}
+{"A": -73, "B": -29, "extraordinary": [], "count": 0}
+{"A": -296, "B": -312, "extraordinary": [5, 157], "count": 2}
+{"A": -307, "B": -265, "extraordinary": [11, 89, 113], "count": 3}
+{"A": -210, "B": 37, "extraordinary": [19], "count": 1}
+{"A": 68, "B": 365, "extraordinary": [], "count": 0}
+{"A": -110, "B": 244, "extraordinary": [], "count": 0}
+{"A": 116, "B": 233, "extraordinary": [], "count": 0}
+{"A": -93, "B": -120, "extraordinary": [17, 19], "count": 2}
+{"A": -362, "B": -317, "extraordinary": [5, 17], "count": 2}
+{"A": 49, "B": -277, "extraordinary": [5], "count": 1}
+{"A": -344, "B": 126, "extraordinary": [17], "count": 1}
+{"A": -29, "B": -92, "extraordinary": [5, 7, 43, 59, 83], "count": 5}
+{"A": 371, "B": -13, "extraordinary": [], "count": 0}
+{"A": -320, "B": 201, "extraordinary": [23], "count": 1}
+{"A": -324, "B": 249, "extraordinary": [19], "count": 1}
+{"A": -75, "B": 279, "extraordinary": [11, 17, 79], "count": 3}
+{"A": -32, "B": 396, "extraordinary": [], "count": 0}
+{"A": 31, "B": 385, "extraordinary": [79], "count": 1}
+{"A": -325, "B": 116, "extraordinary": [67], "count": 1}
+{"A": -245, "B": -83, "extraordinary": [], "count": 0}
+{"A": 219, "B": 315, "extraordinary": [13, 47, 191], "count": 3}
+{"A": -375, "B": -180, "extraordinary": [], "count": 0}
+{"A": -272, "B": 281, "extraordinary": [11], "count": 1}
+{"A": 353, "B": -99, "extraordinary": [13], "count": 1}
+{"A": 314, "B": -351, "extraordinary": [], "count": 0}
+{"A": -390, "B": -154, "extraordinary": [], "count": 0}
+{"A": -192, "B": 296, "extraordinary": [19, 29], "count": 2}
+{"A": 197, "B": -283, "extraordinary": [7], "count": 1}
+{"A": 265, "B": 299, "extraordinary": [7], "count": 1}
+{"A": 286, "B": -256, "extraordinary": [], "count": 0}
+{"A": 389, "B": -362, "extraordinary": [7], "count": 1}
+{"A": -53, "B": 309, "extraordinary": [211], "count": 1}
+{"A": -101, "B": 121, "extraordinary": [], "count": 0}
+{"A": 337, "B": 391, "extraordinary": [29, 193, 211], "count": 3}
+{"A": -87, "B": 243, "extraordinary": [], "count": 0}
+{"A": -356, "B": -100, "extraordinary": [], "count": 0}
+{"A": 107, "B": 227, "extraordinary": [149], "count": 1}
+{"A": -323, "B": 255, "extraordinary": [], "count": 0}
+{"A": -130, "B": 234, "extraordinary": [53], "count": 1}
+{"A": -332, "B": -292, "extraordinary": [37, 101], "count": 2}
+{"A": 236, "B": -381, "extraordinary": [7], "count": 1}
+{"A": 88, "B": -208, "extraordinary": [5, 7], "count": 2}
+{"A": -251, "B": 123, "extraordinary": [5], "count": 1}
+{"A": 183, "B": -44, "extraordinary": [73], "count": 1}
+{"A": 119, "B": -300, "extraordinary": [], "count": 0}
+{"A": -130, "B": -359, "extraordinary": [149], "count": 1}
+{"A": 280, "B": 267, "extraordinary": [], "count": 0}
+{"A": 12, "B": -207, "extraordinary": [5, 17], "count": 2}
+{"A": 195, "B": -143, "extraordinary": [], "count": 0}
+{"A": -271, "B": 38, "extraordinary": [5, 13], "count": 2}
+{"A": -290, "B": 75, "extraordinary": [7], "count": 1}
+{"A": -190, "B": 171, "extraordinary": [], "count": 0}
+{"A": -316, "B": 147, "extraordinary": [5], "count": 1}
+{"A": -125, "B": -45, "extraordinary": [19, 47], "count": 2}
+{"A": -381, "B": -53, "extraordinary": [17], "count": 1}
+{"A": 69, "B": 172, "extraordinary": [], "count": 0}
+{"A": 399, "B": -150, "extraordinary": [71], "count": 1}
+{"A": 80, "B": 368, "extraordinary": [7], "count": 1}
+{"A": -20, "B": 169, "extraordinary": [47], "count": 1}
+{"A": 233, "B": 95, "extraordinary": [], "count": 0}
+{"A": 42, "B": 216, "extraordinary": [5, 23], "count": 2}
+{"A": 255, "B": 145, "extraordinary": [], "count": 0}
+{"A": 173, "B": 381, "extraordinary": [5, 17], "count": 2}
+{"A": -165, "B": 379, "extraordinary": [43, 73], "count": 2}
+{"A": -360, "B": 2, "extraordinary": [], "count": 0}
+{"A": -360, "B": 78, "extraordinary": [47], "count": 1}
+{"A": -398, "B": -387, "extraordinary": [], "count": 0}
+{"A": -211, "B": -165, "extraordinary": [29, 89], "count": 2}
+{"A": 276, "B": -374, "extraordinary": [67], "count": 1}
+{"A": 4, "B": 329, "extraordinary": [], "count": 0}
+{"A": 132, "B": -210, "extraordinary": [], "count": 0}
+{"A": 171, "B": 90, "extraordinary": [], "count": 0}
+{"A": 109, "B": 319, "extraordinary": [7], "count": 1}
+{"A": 278, "B": 144, "extraordinary": [13], "count": 1}
+{"A": 220, "B": -189, "extraordinary": [], "count": 0}
+{"A": -13, "B": -237, "extraordinary": [19], "count": 1}
+{"A": 306, "B": 314, "extraordinary": [], "count": 0}
+{"A": -252, "B": 230, "extraordinary": [], "count": 0}
+{"A": 272, "B": 162, "extraordinary": [], "count": 0}
+{"A": -77, "B": -117, "extraordinary": [107], "count": 1}
+{"A": 46, "B": 244, "extraordinary": [13, 89], "count": 2}
+{"A": -282, "B": -52, "extraordinary": [7], "count": 1}
+{"A": -23, "B": 271, "extraordinary": [7, 17], "count": 2}
+{"A": 327, "B": -273, "extraordinary": [113], "count": 1}
+{"A": 31, "B": 246, "extraordinary": [7], "count": 1}
+{"A": 170, "B": -137, "extraordinary": [7, 97, 229], "count": 3}
+{"A": -283, "B": -202, "extraordinary": [5, 19, 23], "count": 3}
+{"A": 399, "B": 357, "extraordinary": [], "count": 0}
+{"A": -183, "B": -160, "extraordinary": [41], "count": 1}
+{"A": -295, "B": -288, "extraordinary": [], "count": 0}
+{"A": -306, "B": 189, "extraordinary": [101], "count": 1}
+{"A": -330, "B": -56, "extraordinary": [], "count": 0}
+{"A": 89, "B": -248, "extraordinary": [43], "count": 1}
+{"A": 9, "B": 269, "extraordinary": [11, 89], "count": 2}
+{"A": -294, "B": 300, "extraordinary": [109], "count": 1}
+{"A": -52, "B": 83, "extraordinary": [19, 79], "count": 2}
+{"A": 72, "B": -323, "extraordinary": [7], "count": 1}
+{"A": 393, "B": -8, "extraordinary": [], "count": 0}
+{"A": -93, "B": 392, "extraordinary": [], "count": 0}
+{"A": -203, "B": 209, "extraordinary": [], "count": 0}
+{"A": 287, "B": -11, "extraordinary": [], "count": 0}
+{"A": -105, "B": -157, "extraordinary": [29, 181], "count": 2}
+{"A": 176, "B": 247, "extraordinary": [], "count": 0}
+{"A": -349, "B": 120, "extraordinary": [61], "count": 1}
+{"A": 287, "B": -375, "extraordinary": [13, 193], "count": 2}
+{"A": 82, "B": 28, "extraordinary": [11], "count": 1}
+{"A": -189, "B": 267, "extraordinary": [19], "count": 1}
+{"A": -294, "B": -66, "extraordinary": [29], "count": 1}
+{"A": 270, "B": 85, "extraordinary": [], "count": 0}
+{"A": 310, "B": 251, "extraordinary": [13, 17], "count": 2}
+{"A": -86, "B": -302, "extraordinary": [31], "count": 1}
+{"A": -224, "B": -234, "extraordinary": [53], "count": 1}
+{"A": 108, "B": -128, "extraordinary": [], "count": 0}
+{"A": -61, "B": -79, "extraordinary": [97], "count": 1}
+{"A": -195, "B": 126, "extraordinary": [41], "count": 1}
+{"A": -377, "B": -385, "extraordinary": [], "count": 0}
+{"A": 38, "B": 222, "extraordinary": [173], "count": 1}
+{"A": -39, "B": -27, "extraordinary": [17], "count": 1}
+{"A": -350, "B": -350, "extraordinary": [67, 149], "count": 2}
+{"A": -340, "B": -324, "extraordinary": [7, 11], "count": 2}
+{"A": -129, "B": 251, "extraordinary": [29, 61], "count": 2}
+{"A": 187, "B": 399, "extraordinary": [], "count": 0}
+{"A": -322, "B": 178, "extraordinary": [11], "count": 1}
+{"A": 359, "B": 176, "extraordinary": [], "count": 0}
+{"A": -161, "B": -92, "extraordinary": [], "count": 0}
+{"A": 366, "B": -228, "extraordinary": [], "count": 0}
+{"A": 274, "B": 151, "extraordinary": [5, 11, 19], "count": 3}
+{"A": 153, "B": -207, "extraordinary": [5], "count": 1}
+{"A": -285, "B": 70, "extraordinary": [139], "count": 1}
+{"A": -395, "B": 169, "extraordinary": [], "count": 0}
+{"A": 291, "B": -295, "extraordinary": [23, 103], "count": 2}
+{"A": -202, "B": 23, "extraordinary": [5], "count": 1}
+{"A": 194, "B": -253, "extraordinary": [103], "count": 1}
+{"A": 167, "B": 155, "extraordinary": [151], "count": 1}
+{"A": 109, "B": -287, "extraordinary": [], "count": 0}
+{"A": 202, "B": -106, "extraordinary": [], "count": 0}
+{"A": 88, "B": 241, "extraordinary": [101, 229], "count": 2}
+{"A": -251, "B": -265, "extraordinary": [], "count": 0}
+{"A": 362, "B": -349, "extraordinary": [47], "count": 1}
+{"A": 160, "B": 58, "extraordinary": [157], "count": 1}
+{"A": 219, "B": 161, "extraordinary": [], "count": 0}
+{"A": -368, "B": 243, "extraordinary": [7, 11, 73], "count": 3}
+{"A": -54, "B": -162, "extraordinary": [13, 127], "count": 2}
+{"A": -142, "B": -140, "extraordinary": [], "count": 0}
+{"A": -253, "B": -3, "extraordinary": [5], "count": 1}
+{"A": -298, "B": -183, "extraordinary": [5], "count": 1}
+{"A": -373, "B": 301, "extraordinary": [], "count": 0}
+{"A": 20, "B": 226, "extraordinary": [11], "count": 1}
+{"A": -355, "B": -299, "extraordinary": [7, 19], "count": 2}
+{"A": -181, "B": -248, "extraordinary": [7], "count": 1}
+{"A": 302, "B": -126, "extraordinary": [59, 71], "count": 2}
+{"A": 376, "B": 390, "extraordinary": [19], "count": 1}
+{"A": 213, "B": -221, "extraordinary": [23, 229], "count": 2}
+{"A": 330, "B": -235, "extraordinary": [23, 37, 97], "count": 3}
+{"A": 256, "B": -389, "extraordinary": [], "count": 0}
+{"A": 21, "B": -298, "extraordinary": [], "count": 0}
+{"A": 148, "B": 95, "extraordinary": [71], "count": 1}
+{"A": -256, "B": -149, "extraordinary": [11, 31, 83], "count": 3}
+{"A": 85, "B": 71, "extraordinary": [], "count": 0}
+{"A": 120, "B": 255, "extraordinary": [7, 71, 151, 239], "count": 4}
+{"A": 116, "B": -41, "extraordinary": [], "count": 0}
+{"A": 145, "B": -28, "extraordinary": [], "count": 0}
+{"A": -312, "B": -116, "extraordinary": [83], "count": 1}
+{"A": 209, "B": -232, "extraordinary": [], "count": 0}
+{"A": 47, "B": 205, "extraordinary": [79, 137], "count": 2}
+{"A": -13, "B": 196, "extraordinary": [], "count": 0}
+{"A": 288, "B": -280, "extraordinary": [17], "count": 1}
+{"A": 379, "B": -16, "extraordinary": [7], "count": 1}
+{"A": -210, "B": -246, "extraordinary": [167], "count": 1}
+{"A": -297, "B": 205, "extraordinary": [13, 47], "count": 2}
+{"A": -212, "B": 260, "extraordinary": [7, 23], "count": 2}
+{"A": 78, "B": 54, "extraordinary": [5, 7, 61], "count": 3}
+{"A": 304, "B": -303, "extraordinary": [31, 73], "count": 2}
+{"A": 145, "B": -383, "extraordinary": [67], "count": 1}
+{"A": -393, "B": 203, "extraordinary": [11, 19], "count": 2}
+{"A": 150, "B": 60, "extraordinary": [], "count": 0}
+{"A": -374, "B": 128, "extraordinary": [], "count": 0}
+{"A": 177, "B": 154, "extraordinary": [], "count": 0}
+{"A": -188, "B": 170, "extraordinary": [], "count": 0}
+{"A": 270, "B": 330, "extraordinary": [31], "count": 1}
+{"A": -150, "B": -236, "extraordinary": [199], "count": 1}
+{"A": -231, "B": -19, "extraordinary": [67], "count": 1}
+{"A": 105, "B": -281, "extraordinary": [11, 13, 19, 29], "count": 4}
+{"A": 326, "B": 23, "extraordinary": [], "count": 0}
+{"A": 160, "B": -273, "extraordinary": [], "count": 0}
+{"A": -397, "B": 231, "extraordinary": [], "count": 0}
+{"A": -352, "B": 63, "extraordinary": [], "count": 0}
+{"A": 175, "B": -392, "extraordinary": [], "count": 0}
+{"A": -287, "B": -291, "extraordinary": [], "count": 0}
+{"A": -34, "B": -170, "extraordinary": [43, 59], "count": 2}
+{"A": -21, "B": 258, "extraordinary": [], "count": 0}
+{"A": 350, "B": 5, "extraordinary": [], "count": 0}
+{"A": -302, "B": -171, "extraordinary": [], "count": 0}
+{"A": -123, "B": -7, "extraordinary": [], "count": 0}
+{"A": -341, "B": 314, "extraordinary": [5, 17, 127], "count": 3}
+{"A": -203, "B": 356, "extraordinary": [], "count": 0}
+{"A": 142, "B": 333, "extraordinary": [13], "count": 1}
+{"A": 323, "B": -325, "extraordinary": [], "count": 0}
+{"A": -320, "B": 324, "extraordinary": [], "count": 0}
+{"A": 206, "B": -392, "extraordinary": [], "count": 0}
+{"A": -342, "B": 34, "extraordinary": [], "count": 0}
+{"A": 363, "B": -85, "extraordinary": [31], "count": 1}
+{"A": 329, "B": 188, "extraordinary": [5, 139], "count": 2}
+{"A": 337, "B": 228, "extraordinary": [11, 227], "count": 2}
+{"A": -107, "B": 156, "extraordinary": [163], "count": 1}
+{"A": -184, "B": 327, "extraordinary": [5], "count": 1}
+{"A": 364, "B": -260, "extraordinary": [67], "count": 1}
+{"A": -109, "B": -281, "extraordinary": [17], "count": 1}
+{"A": 251, "B": 303, "extraordinary": [], "count": 0}
+{"A": -268, "B": 77, "extraordinary": [], "count": 0}
+{"A": 267, "B": -284, "extraordinary": [5, 7], "count": 2}
+{"A": 45, "B": -217, "extraordinary": [13], "count": 1}
+{"A": 181, "B": -369, "extraordinary": [5], "count": 1}
+{"A": 135, "B": 90, "extraordinary": [], "count": 0}
+{"A": 279, "B": -300, "extraordinary": [], "count": 0}
+{"A": -123, "B": -106, "extraordinary": [17, 19, 89], "count": 3}
+{"A": 152, "B": -207, "extraordinary": [193, 199], "count": 2}
+{"A": -111, "B": 314, "extraordinary": [19], "count": 1}
+{"A": 392, "B": 300, "extraordinary": [11, 47], "count": 2}
+{"A": -161, "B": 39, "extraordinary": [17, 43, 47], "count": 3}
+{"A": 88, "B": -83, "extraordinary": [5], "count": 1}
+{"A": 382, "B": 397, "extraordinary": [], "count": 0}
+{"A": -67, "B": -300, "extraordinary": [31], "count": 1}
+{"A": 40, "B": -252, "extraordinary": [47], "count": 1}
+{"A": 338, "B": 31, "extraordinary": [], "count": 0}
+{"A": -95, "B": 239, "extraordinary": [], "count": 0}
+{"A": -210, "B": 179, "extraordinary": [], "count": 0}
+{"A": 298, "B": 196, "extraordinary": [193], "count": 1}
+{"A": -229, "B": -325, "extraordinary": [7, 19, 37, 151], "count": 4}
+{"A": 373, "B": 252, "extraordinary": [5], "count": 1}
+{"A": -322, "B": -146, "extraordinary": [5], "count": 1}
+{"A": 306, "B": 265, "extraordinary": [23], "count": 1}
+{"A": 69, "B": -14, "extraordinary": [], "count": 0}
+{"A": -13, "B": -57, "extraordinary": [5, 37], "count": 2}
+{"A": 28, "B": -181, "extraordinary": [], "count": 0}
+{"A": 380, "B": 61, "extraordinary": [], "count": 0}
+{"A": -280, "B": 25, "extraordinary": [31, 127], "count": 2}
+{"A": 115, "B": -211, "extraordinary": [13, 31, 41], "count": 3}
+{"A": -99, "B": -279, "extraordinary": [43, 181], "count": 2}
+{"A": -373, "B": 243, "extraordinary": [], "count": 0}
+{"A": -342, "B": 350, "extraordinary": [], "count": 0}
+{"A": -325, "B": 234, "extraordinary": [7], "count": 1}
+{"A": -106, "B": -181, "extraordinary": [127], "count": 1}
+{"A": -312, "B": 288, "extraordinary": [23, 73, 157], "count": 3}
+{"A": 73, "B": 400, "extraordinary": [13], "count": 1}
+{"A": 341, "B": -53, "extraordinary": [43], "count": 1}
+{"A": 195, "B": 74, "extraordinary": [7], "count": 1}
+{"A": 197, "B": -297, "extraordinary": [5], "count": 1}
+{"A": 40, "B": 216, "extraordinary": [109], "count": 1}
+{"A": 346, "B": 210, "extraordinary": [], "count": 0}
+{"A": 184, "B": -133, "extraordinary": [], "count": 0}
+{"A": -251, "B": 130, "extraordinary": [17, 41, 83], "count": 3}
+{"A": 74, "B": 293, "extraordinary": [], "count": 0}
+{"A": -306, "B": 312, "extraordinary": [11, 223], "count": 2}
+{"A": -77, "B": 374, "extraordinary": [71], "count": 1}
+{"A": -208, "B": 314, "extraordinary": [], "count": 0}
+{"A": -218, "B": 390, "extraordinary": [], "count": 0}
+{"A": -109, "B": 340, "extraordinary": [], "count": 0}
+{"A": 93, "B": -374, "extraordinary": [], "count": 0}
+{"A": 339, "B": 362, "extraordinary": [37], "count": 1}
+{"A": 83, "B": -136, "extraordinary": [5, 7, 11], "count": 3}
+{"A": -234, "B": 216, "extraordinary": [73], "count": 1}
+{"A": -226, "B": -30, "extraordinary": [61], "count": 1}
+{"A": 202, "B": -298, "extraordinary": [73], "count": 1}
+{"A": -396, "B": 299, "extraordinary": [], "count": 0}
+{"A": 36, "B": -163, "extraordinary": [5, 7, 89], "count": 3}
+{"A": -72, "B": 41, "extraordinary": [7], "count": 1}
+{"A": -264, "B": -347, "extraordinary": [], "count": 0}
+{"A": 273, "B": 399, "extraordinary": [], "count": 0}
+{"A": -104, "B": 383, "extraordinary": [5, 59], "count": 2}
+{"A": -153, "B": -205, "extraordinary": [], "count": 0}
+{"A": -102, "B": 108, "extraordinary": [], "count": 0}
+{"A": -93, "B": -163, "extraordinary": [5], "count": 1}
+{"A": -361, "B": -97, "extraordinary": [7], "count": 1}
+{"A": -352, "B": 172, "extraordinary": [], "count": 0}
+{"A": 9, "B": -299, "extraordinary": [], "count": 0}
+{"A": 224, "B": 166, "extraordinary": [], "count": 0}
+{"A": -248, "B": 263, "extraordinary": [], "count": 0}
+{"A": 67, "B": 18, "extraordinary": [11], "count": 1}
+{"A": 35, "B": -226, "extraordinary": [11, 97], "count": 2}
+{"A": 267, "B": 293, "extraordinary": [53], "count": 1}
+{"A": -309, "B": -333, "extraordinary": [], "count": 0}
+{"A": -396, "B": -183, "extraordinary": [], "count": 0}
+{"A": 225, "B": -326, "extraordinary": [7], "count": 1}
+{"A": -269, "B": -391, "extraordinary": [], "count": 0}
+{"A": -356, "B": 271, "extraordinary": [5], "count": 1}
+{"A": 49, "B": -120, "extraordinary": [], "count": 0}
+{"A": -61, "B": 244, "extraordinary": [], "count": 0}
+{"A": 158, "B": 393, "extraordinary": [7], "count": 1}
+{"A": -120, "B": -236, "extraordinary": [], "count": 0}
+{"A": 183, "B": -369, "extraordinary": [43, 107], "count": 2}
+{"A": 89, "B": 127, "extraordinary": [19, 31, 41], "count": 3}
+{"A": 256, "B": 207, "extraordinary": [19], "count": 1}
+{"A": -74, "B": -110, "extraordinary": [], "count": 0}
+{"A": 391, "B": 269, "extraordinary": [7], "count": 1}
+{"A": -302, "B": -77, "extraordinary": [5, 79], "count": 2}
+{"A": 165, "B": 230, "extraordinary": [], "count": 0}
+{"A": -86, "B": -279, "extraordinary": [19], "count": 1}
+{"A": -43, "B": 187, "extraordinary": [5], "count": 1}
+{"A": 135, "B": 273, "extraordinary": [], "count": 0}
+{"A": 11, "B": 138, "extraordinary": [5], "count": 1}
+{"A": -161, "B": 275, "extraordinary": [37], "count": 1}
+{"A": -174, "B": 98, "extraordinary": [], "count": 0}
+{"A": -1, "B": 111, "extraordinary": [11], "count": 1}
+{"A": -245, "B": 47, "extraordinary": [], "count": 0}
+{"A": 150, "B": -200, "extraordinary": [19, 67, 179], "count": 3}
+{"A": -156, "B": -86, "extraordinary": [], "count": 0}
+{"A": -295, "B": -270, "extraordinary": [7], "count": 1}
+{"A": 130, "B": 168, "extraordinary": [], "count": 0}
+{"A": -237, "B": 145, "extraordinary": [53], "count": 1}
+{"A": 129, "B": 4, "extraordinary": [], "count": 0}
+{"A": 222, "B": 250, "extraordinary": [11], "count": 1}
+{"A": -384, "B": 278, "extraordinary": [], "count": 0}
+{"A": -299, "B": -143, "extraordinary": [5, 7, 31], "count": 3}
+{"A": -199, "B": 397, "extraordinary": [23], "count": 1}
+{"A": -214, "B": 359, "extraordinary": [], "count": 0}
+{"A": 144, "B": 324, "extraordinary": [7, 11], "count": 2}
+{"A": -229, "B": 232, "extraordinary": [7, 59], "count": 2}
+{"A": 96, "B": 341, "extraordinary": [5, 89], "count": 2}
+{"A": -69, "B": -40, "extraordinary": [19, 29], "count": 2}
+{"A": 354, "B": 288, "extraordinary": [5, 37, 211], "count": 3}
+{"A": -368, "B": -276, "extraordinary": [], "count": 0}
+{"A": 350, "B": 381, "extraordinary": [29], "count": 1}
+{"A": -58, "B": -275, "extraordinary": [], "count": 0}
+{"A": 102, "B": 64, "extraordinary": [5, 37, 163], "count": 3}
+{"A": 18, "B": -191, "extraordinary": [5, 41], "count": 2}
+{"A": 152, "B": -391, "extraordinary": [149], "count": 1}
+{"A": 17, "B": -347, "extraordinary": [], "count": 0}
+{"A": -29, "B": -248, "extraordinary": [7], "count": 1}
+{"A": 333, "B": -107, "extraordinary": [31], "count": 1}
+{"A": -47, "B": 367, "extraordinary": [7, 11], "count": 2}
+{"A": 243, "B": 90, "extraordinary": [47], "count": 1}
+{"A": -271, "B": -389, "extraordinary": [37], "count": 1}
+{"A": 22, "B": -339, "extraordinary": [17], "count": 1}
+{"A": 172, "B": 188, "extraordinary": [], "count": 0}
+{"A": 22, "B": -400, "extraordinary": [], "count": 0}
+{"A": -16, "B": -323, "extraordinary": [], "count": 0}
+{"A": 315, "B": 241, "extraordinary": [19, 37], "count": 2}
+{"A": -352, "B": -331, "extraordinary": [5, 149], "count": 2}
+{"A": 95, "B": -185, "extraordinary": [11, 109], "count": 2}
+{"A": 165, "B": -263, "extraordinary": [], "count": 0}
+{"A": 339, "B": 173, "extraordinary": [7], "count": 1}
+{"A": -216, "B": 160, "extraordinary": [19], "count": 1}
+{"A": -369, "B": 245, "extraordinary": [], "count": 0}
+{"A": 142, "B": 149, "extraordinary": [83], "count": 1}
+{"A": 398, "B": 328, "extraordinary": [7, 101, 127], "count": 3}
+{"A": -393, "B": 176, "extraordinary": [], "count": 0}
+{"A": -8, "B": -295, "extraordinary": [53], "count": 1}
+{"A": -298, "B": 277, "extraordinary": [23, 37], "count": 2}
+{"A": 319, "B": 307, "extraordinary": [17], "count": 1}
+{"A": 94, "B": 249, "extraordinary": [7, 17], "count": 2}
+{"A": 309, "B": -47, "extraordinary": [5, 7], "count": 2}
+{"A": 360, "B": 103, "extraordinary": [7], "count": 1}
+{"A": -363, "B": -248, "extraordinary": [13], "count": 1}
+{"A": -150, "B": 125, "extraordinary": [], "count": 0}
+{"A": 71, "B": -142, "extraordinary": [5, 13, 17], "count": 3}
+{"A": 256, "B": -117, "extraordinary": [], "count": 0}
+{"A": 302, "B": -16, "extraordinary": [37], "count": 1}
+{"A": 315, "B": -67, "extraordinary": [], "count": 0}
+{"A": -320, "B": -137, "extraordinary": [7], "count": 1}
+{"A": -154, "B": -323, "extraordinary": [], "count": 0}
+{"A": 81, "B": 151, "extraordinary": [], "count": 0}
+{"A": 231, "B": 381, "extraordinary": [5, 41, 113], "count": 3}
+{"A": 100, "B": 9, "extraordinary": [], "count": 0}
+{"A": -192, "B": -354, "extraordinary": [], "count": 0}
+{"A": -252, "B": 157, "extraordinary": [], "count": 0}
+{"A": -315, "B": 73, "extraordinary": [59], "count": 1}
+{"A": -124, "B": 272, "extraordinary": [23], "count": 1}
+{"A": 377, "B": 31, "extraordinary": [], "count": 0}
+{"A": 2, "B": -158, "extraordinary": [5, 13], "count": 2}
+{"A": 196, "B": 279, "extraordinary": [], "count": 0}
+{"A": 371, "B": 150, "extraordinary": [], "count": 0}
+{"A": 257, "B": -70, "extraordinary": [13], "count": 1}
+{"A": -92, "B": 4, "extraordinary": [13], "count": 1}
+{"A": 164, "B": 357, "extraordinary": [5], "count": 1}
+{"A": -135, "B": -339, "extraordinary": [19], "count": 1}
+{"A": -109, "B": 13, "extraordinary": [11], "count": 1}
+{"A": -359, "B": 284, "extraordinary": [41], "count": 1}
+{"A": 243, "B": -113, "extraordinary": [], "count": 0}
+{"A": 238, "B": -336, "extraordinary": [29], "count": 1}
+{"A": 321, "B": 145, "extraordinary": [], "count": 0}
+{"A": -324, "B": 331, "extraordinary": [], "count": 0}
+{"A": 209, "B": -328, "extraordinary": [5, 23, 59], "count": 3}
+{"A": 202, "B": 324, "extraordinary": [127], "count": 1}
+{"A": 142, "B": 241, "extraordinary": [5, 7], "count": 2}
+{"A": 256, "B": -38, "extraordinary": [], "count": 0}
+{"A": -274, "B": -340, "extraordinary": [7, 41], "count": 2}
+{"A": -87, "B": 207, "extraordinary": [], "count": 0}
+{"A": -245, "B": -213, "extraordinary": [17, 23], "count": 2}
+{"A": 76, "B": -373, "extraordinary": [17], "count": 1}
+{"A": 262, "B": 22, "extraordinary": [], "count": 0}
+{"A": 43, "B": 68, "extraordinary": [], "count": 0}
+{"A": 187, "B": -339, "extraordinary": [], "count": 0}
+{"A": -80, "B": 310, "extraordinary": [], "count": 0}
+{"A": 176, "B": -189, "extraordinary": [5, 73], "count": 2}
+{"A": 75, "B": 215, "extraordinary": [], "count": 0}
+{"A": 38, "B": 1, "extraordinary": [5, 67], "count": 2}
+{"A": 356, "B": -254, "extraordinary": [], "count": 0}
+{"A": -327, "B": 397, "extraordinary": [], "count": 0}
+{"A": 396, "B": 233, "extraordinary": [5], "count": 1}
+{"A": 274, "B": 311, "extraordinary": [7], "count": 1}
+{"A": 305, "B": -149, "extraordinary": [131], "count": 1}
+{"A": 36, "B": 58, "extraordinary": [23, 41, 67], "count": 3}
+{"A": 184, "B": 350, "extraordinary": [], "count": 0}
+{"A": 370, "B": 132, "extraordinary": [29], "count": 1}
+{"A": -108, "B": 175, "extraordinary": [], "count": 0}
+{"A": 230, "B": 186, "extraordinary": [], "count": 0}
+{"A": -68, "B": 67, "extraordinary": [], "count": 0}
+{"A": 394, "B": -276, "extraordinary": [], "count": 0}
+{"A": -213, "B": -281, "extraordinary": [5], "count": 1}
+{"A": 339, "B": -170, "extraordinary": [7], "count": 1}
+{"A": -76, "B": -321, "extraordinary": [], "count": 0}
+{"A": 122, "B": -209, "extraordinary": [41], "count": 1}
+{"A": -318, "B": 349, "extraordinary": [7, 71, 89], "count": 3}
+{"A": -132, "B": 312, "extraordinary": [137, 173], "count": 2}
+{"A": -328, "B": 344, "extraordinary": [53], "count": 1}
+{"A": 92, "B": 354, "extraordinary": [], "count": 0}
+{"A": -68, "B": -230, "extraordinary": [], "count": 0}
+{"A": 70, "B": 266, "extraordinary": [], "count": 0}
+{"A": -233, "B": -242, "extraordinary": [7, 53], "count": 2}
+{"A": 156, "B": 301, "extraordinary": [59], "count": 1}
+{"A": -220, "B": 186, "extraordinary": [89], "count": 1}
+{"A": -38, "B": -273, "extraordinary": [], "count": 0}
+{"A": -299, "B": 386, "extraordinary": [5], "count": 1}
+{"A": 52, "B": -304, "extraordinary": [], "count": 0}
+{"A": -390, "B": 217, "extraordinary": [137], "count": 1}
+{"A": 174, "B": -53, "extraordinary": [7], "count": 1}
+{"A": -41, "B": -6, "extraordinary": [11], "count": 1}
+{"A": 146, "B": -111, "extraordinary": [], "count": 0}
+{"A": 153, "B": -12, "extraordinary": [7], "count": 1}
+{"A": -286, "B": -192, "extraordinary": [7], "count": 1}
+{"A": 53, "B": -49, "extraordinary": [], "count": 0}
+{"A": -284, "B": -41, "extraordinary": [], "count": 0}
+{"A": -396, "B": -257, "extraordinary": [], "count": 0}
+{"A": -290, "B": -131, "extraordinary": [], "count": 0}
+{"A": 64, "B": -257, "extraordinary": [5, 13, 191], "count": 3}
+{"A": 3, "B": -283, "extraordinary": [], "count": 0}
+{"A": 122, "B": 376, "extraordinary": [5, 13], "count": 2}
+{"A": -77, "B": -118, "extraordinary": [], "count": 0}
+{"A": -347, "B": 15, "extraordinary": [19, 43, 71], "count": 3}
+{"A": 11, "B": 199, "extraordinary": [5], "count": 1}
+{"A": 198, "B": 106, "extraordinary": [5, 137], "count": 2}
+{"A": -176, "B": -378, "extraordinary": [47, 79], "count": 2}
+{"A": -347, "B": 74, "extraordinary": [], "count": 0}
+{"A": 288, "B": 321, "extraordinary": [41], "count": 1}
+{"A": -334, "B": -163, "extraordinary": [17, 149], "count": 2}
+{"A": 228, "B": -67, "extraordinary": [], "count": 0}
+{"A": -163, "B": -137, "extraordinary": [], "count": 0}
+{"A": -155, "B": 192, "extraordinary": [179], "count": 1}
+{"A": -230, "B": -19, "extraordinary": [43], "count": 1}
+{"A": 213, "B": -156, "extraordinary": [11], "count": 1}
+{"A": 42, "B": 48, "extraordinary": [5, 17], "count": 2}
+{"A": 297, "B": 49, "extraordinary": [5, 19, 139], "count": 3}
+{"A": -116, "B": 292, "extraordinary": [], "count": 0}
+{"A": 261, "B": -323, "extraordinary": [211], "count": 1}
+{"A": -47, "B": 42, "extraordinary": [61], "count": 1}
+{"A": 352, "B": 141, "extraordinary": [7], "count": 1}
+{"A": 83, "B": -340, "extraordinary": [11], "count": 1}
+{"A": -278, "B": 325, "extraordinary": [7], "count": 1}
+{"A": 275, "B": -225, "extraordinary": [19, 23], "count": 2}
+{"A": 141, "B": 146, "extraordinary": [5, 197], "count": 2}
+{"A": 13, "B": 246, "extraordinary": [], "count": 0}
+{"A": 4, "B": 13, "extraordinary": [5, 139], "count": 2}
+{"A": 89, "B": -328, "extraordinary": [], "count": 0}
+{"A": 92, "B": -381, "extraordinary": [29], "count": 1}
+{"A": -295, "B": -176, "extraordinary": [53], "count": 1}
+{"A": -33, "B": 208, "extraordinary": [7, 23], "count": 2}
+{"A": -148, "B": 236, "extraordinary": [5, 7], "count": 2}
+{"A": -296, "B": -104, "extraordinary": [], "count": 0}
+{"A": -373, "B": -256, "extraordinary": [233], "count": 1}
+{"A": 395, "B": -249, "extraordinary": [191], "count": 1}
+{"A": -14, "B": -189, "extraordinary": [19], "count": 1}
+{"A": 215, "B": -394, "extraordinary": [11, 109], "count": 2}
+{"A": -9, "B": 113, "extraordinary": [137], "count": 1}
+{"A": -384, "B": 308, "extraordinary": [13, 97], "count": 2}
+{"A": 53, "B": -250, "extraordinary": [], "count": 0}
+{"A": -356, "B": -106, "extraordinary": [], "count": 0}
+{"A": -290, "B": -5, "extraordinary": [43], "count": 1}
+{"A": -354, "B": 258, "extraordinary": [5], "count": 1}
+{"A": 274, "B": 95, "extraordinary": [37], "count": 1}
+{"A": 203, "B": 28, "extraordinary": [11, 13], "count": 2}
+{"A": 214, "B": 76, "extraordinary": [7], "count": 1}
+{"A": 215, "B": -194, "extraordinary": [37], "count": 1}
+{"A": 78, "B": 210, "extraordinary": [17, 73, 211], "count": 3}
+{"A": 220, "B": 99, "extraordinary": [], "count": 0}
+{"A": -345, "B": 65, "extraordinary": [7], "count": 1}
+{"A": 236, "B": -41, "extraordinary": [11, 31], "count": 2}
+{"A": 215, "B": 84, "extraordinary": [], "count": 0}
+{"A": 179, "B": 190, "extraordinary": [11], "count": 1}
+{"A": -120, "B": 367, "extraordinary": [19], "count": 1}
+{"A": 192, "B": 75, "extraordinary": [7, 47], "count": 2}
+{"A": 108, "B": 222, "extraordinary": [], "count": 0}
+{"A": -194, "B": -21, "extraordinary": [], "count": 0}
+{"A": -14, "B": 231, "extraordinary": [], "count": 0}
+{"A": -86, "B": -22, "extraordinary": [97], "count": 1}
+{"A": 25, "B": 267, "extraordinary": [17], "count": 1}
+{"A": -237, "B": 83, "extraordinary": [5, 11, 17], "count": 3}
+{"A": -56, "B": -324, "extraordinary": [37], "count": 1}
+{"A": 255, "B": 187, "extraordinary": [], "count": 0}
+{"A": -233, "B": 324, "extraordinary": [19], "count": 1}
+{"A": -250, "B": 161, "extraordinary": [], "count": 0}
+{"A": 302, "B": -21, "extraordinary": [83], "count": 1}
+{"A": 269, "B": 201, "extraordinary": [23], "count": 1}
+{"A": 333, "B": 224, "extraordinary": [], "count": 0}
+{"A": -200, "B": 288, "extraordinary": [], "count": 0}
+{"A": 222, "B": -297, "extraordinary": [5], "count": 1}
+{"A": 351, "B": -232, "extraordinary": [5, 113], "count": 2}
+{"A": 338, "B": 396, "extraordinary": [7, 37], "count": 2}
+{"A": -246, "B": -358, "extraordinary": [], "count": 0}
+{"A": 369, "B": -354, "extraordinary": [5, 109], "count": 2}
+{"A": -394, "B": -327, "extraordinary": [7], "count": 1}
+{"A": -117, "B": -177, "extraordinary": [], "count": 0}
+{"A": 368, "B": 383, "extraordinary": [], "count": 0}
+{"A": -54, "B": 54, "extraordinary": [], "count": 0}
+{"A": -160, "B": 175, "extraordinary": [59], "count": 1}
+{"A": -139, "B": 133, "extraordinary": [], "count": 0}
+{"A": 155, "B": -128, "extraordinary": [7], "count": 1}
+{"A": -64, "B": -325, "extraordinary": [11], "count": 1}
+{"A": -307, "B": -148, "extraordinary": [7, 11], "count": 2}
+{"A": -155, "B": -34, "extraordinary": [13], "count": 1}
+{"A": -108, "B": -184, "extraordinary": [5, 7, 73, 239], "count": 4}
+{"A": -150, "B": -45, "extraordinary": [7, 19], "count": 2}
+{"A": -182, "B": -166, "extraordinary": [5], "count": 1}
+{"A": 107, "B": 349, "extraordinary": [7], "count": 1}
+{"A": 370, "B": -64, "extraordinary": [41, 47, 199], "count": 3}
+{"A": 396, "B": -154, "extraordinary": [], "count": 0}
+{"A": 105, "B": -228, "extraordinary": [151], "count": 1}
+{"A": 176, "B": -97, "extraordinary": [], "count": 0}
+{"A": -139, "B": 143, "extraordinary": [7, 17, 71, 137], "count": 4}
+{"A": -153, "B": -175, "extraordinary": [23, 47], "count": 2}
+{"A": 272, "B": 197, "extraordinary": [5], "count": 1}
+{"A": -217, "B": 63, "extraordinary": [5], "count": 1}
+{"A": 332, "B": -156, "extraordinary": [239], "count": 1}
+{"A": 385, "B": 55, "extraordinary": [17, 43, 73], "count": 3}
+{"A": 34, "B": 118, "extraordinary": [], "count": 0}
+{"A": -242, "B": -323, "extraordinary": [], "count": 0}
+{"A": 140, "B": 396, "extraordinary": [107], "count": 1}
+{"A": 383, "B": 306, "extraordinary": [83], "count": 1}
+{"A": 133, "B": 220, "extraordinary": [], "count": 0}
+{"A": 138, "B": 8, "extraordinary": [5, 13, 19, 139], "count": 4}
+{"A": -213, "B": -323, "extraordinary": [31], "count": 1}
+{"A": 3, "B": 232, "extraordinary": [5, 7], "count": 2}
+{"A": -211, "B": 350, "extraordinary": [11], "count": 1}
+{"A": 280, "B": 64, "extraordinary": [], "count": 0}
+{"A": -44, "B": 283, "extraordinary": [101], "count": 1}
+{"A": -363, "B": -131, "extraordinary": [5], "count": 1}
+{"A": 30, "B": 344, "extraordinary": [], "count": 0}
+{"A": 253, "B": 3, "extraordinary": [107, 167], "count": 2}
+{"A": 251, "B": 70, "extraordinary": [59], "count": 1}
+{"A": 266, "B": 234, "extraordinary": [], "count": 0}
+{"A": 66, "B": 359, "extraordinary": [31], "count": 1}
+{"A": -371, "B": -115, "extraordinary": [29, 157], "count": 2}
+{"A": -89, "B": -213, "extraordinary": [5, 37], "count": 2}
+{"A": 217, "B": -134, "extraordinary": [5, 107], "count": 2}
+{"A": 383, "B": -290, "extraordinary": [13], "count": 1}
+{"A": 293, "B": 97, "extraordinary": [5, 7, 53], "count": 3}
+{"A": -246, "B": -253, "extraordinary": [], "count": 0}
+{"A": 20, "B": -66, "extraordinary": [37], "count": 1}
+{"A": 129, "B": -189, "extraordinary": [], "count": 0}
+{"A": -187, "B": -57, "extraordinary": [13, 59, 137], "count": 3}
+{"A": 319, "B": -311, "extraordinary": [23], "count": 1}
+{"A": -364, "B": -246, "extraordinary": [19, 53], "count": 2}
+{"A": -318, "B": -393, "extraordinary": [], "count": 0}
+{"A": 29, "B": -76, "extraordinary": [17], "count": 1}
+{"A": -216, "B": -138, "extraordinary": [], "count": 0}
+{"A": 352, "B": -266, "extraordinary": [], "count": 0}
+{"A": 222, "B": -178, "extraordinary": [5], "count": 1}
+{"A": -169, "B": -176, "extraordinary": [], "count": 0}
+{"A": 79, "B": 10, "extraordinary": [], "count": 0}
+{"A": -26, "B": -380, "extraordinary": [], "count": 0}
+{"A": -151, "B": -189, "extraordinary": [17], "count": 1}
+{"A": -193, "B": -317, "extraordinary": [], "count": 0}
+{"A": -53, "B": 100, "extraordinary": [], "count": 0}
+{"A": 26, "B": -295, "extraordinary": [], "count": 0}
+{"A": 103, "B": 100, "extraordinary": [], "count": 0}
+{"A": 332, "B": -191, "extraordinary": [], "count": 0}
+{"A": -156, "B": -265, "extraordinary": [], "count": 0}
+{"A": -237, "B": -156, "extraordinary": [], "count": 0}
+{"A": 381, "B": -37, "extraordinary": [], "count": 0}
+{"A": 344, "B": 321, "extraordinary": [5, 7, 31], "count": 3}
+{"A": 80, "B": -312, "extraordinary": [19], "count": 1}
+{"A": 129, "B": 267, "extraordinary": [29], "count": 1}
+{"A": -76, "B": 1, "extraordinary": [5], "count": 1}
+{"A": 72, "B": -186, "extraordinary": [7, 199], "count": 2}
+{"A": -111, "B": -291, "extraordinary": [5], "count": 1}
+{"A": 148, "B": -109, "extraordinary": [7], "count": 1}
+{"A": 52, "B": -245, "extraordinary": [37], "count": 1}
+{"A": -194, "B": 181, "extraordinary": [5, 19], "count": 2}
+{"A": 210, "B": -185, "extraordinary": [], "count": 0}
+{"A": -261, "B": 133, "extraordinary": [157], "count": 1}
+{"A": -134, "B": 10, "extraordinary": [7], "count": 1}
+{"A": -122, "B": -294, "extraordinary": [13], "count": 1}
+{"A": 136, "B": 87, "extraordinary": [5, 11], "count": 2}
+{"A": -28, "B": 120, "extraordinary": [37, 47], "count": 2}
+{"A": -350, "B": 9, "extraordinary": [11], "count": 1}
+{"A": -353, "B": 300, "extraordinary": [29, 157], "count": 2}
+{"A": 118, "B": 380, "extraordinary": [163], "count": 1}
+{"A": -23, "B": 205, "extraordinary": [79], "count": 1}
+{"A": 234, "B": 302, "extraordinary": [43, 131], "count": 2}
+{"A": 322, "B": 280, "extraordinary": [59, 83], "count": 2}
+{"A": 14, "B": -313, "extraordinary": [11], "count": 1}
+{"A": -365, "B": -272, "extraordinary": [], "count": 0}
+{"A": -204, "B": -18, "extraordinary": [7, 13, 59, 109], "count": 4}
+{"A": 279, "B": -80, "extraordinary": [], "count": 0}
+{"A": 208, "B": 104, "extraordinary": [7, 31], "count": 2}
+{"A": 266, "B": 59, "extraordinary": [29], "count": 1}
+{"A": -215, "B": -200, "extraordinary": [], "count": 0}
+{"A": 327, "B": -207, "extraordinary": [], "count": 0}
+{"A": 74, "B": 366, "extraordinary": [79], "count": 1}
+{"A": -233, "B": 356, "extraordinary": [], "count": 0}
+{"A": -356, "B": -220, "extraordinary": [7], "count": 1}
+{"A": -272, "B": 361, "extraordinary": [47], "count": 1}
+{"A": -155, "B": 43, "extraordinary": [], "count": 0}
+{"A": -367, "B": -20, "extraordinary": [11], "count": 1}
+{"A": 382, "B": -214, "extraordinary": [7, 23], "count": 2}
+{"A": 104, "B": 381, "extraordinary": [5, 11, 79, 113], "count": 4}
+{"A": -40, "B": 226, "extraordinary": [], "count": 0}
+{"A": 384, "B": -318, "extraordinary": [], "count": 0}
+{"A": -277, "B": 310, "extraordinary": [113], "count": 1}
+{"A": -378, "B": 149, "extraordinary": [5, 23], "count": 2}
+{"A": 394, "B": 152, "extraordinary": [127], "count": 1}
+{"A": -18, "B": -284, "extraordinary": [], "count": 0}
+{"A": 228, "B": 152, "extraordinary": [7], "count": 1}
+{"A": 295, "B": 232, "extraordinary": [], "count": 0}
+{"A": -216, "B": -68, "extraordinary": [], "count": 0}
+{"A": -352, "B": -385, "extraordinary": [23], "count": 1}
+{"A": -158, "B": -52, "extraordinary": [5, 241], "count": 2}
+{"A": -221, "B": -33, "extraordinary": [], "count": 0}
+{"A": 42, "B": 242, "extraordinary": [], "count": 0}
+{"A": -3, "B": -218, "extraordinary": [], "count": 0}
+{"A": 284, "B": 47, "extraordinary": [5, 13], "count": 2}
+{"A": -279, "B": -154, "extraordinary": [29], "count": 1}
+{"A": -390, "B": -370, "extraordinary": [47], "count": 1}
+{"A": 39, "B": -332, "extraordinary": [5, 19, 167], "count": 3}
+{"A": -210, "B": -383, "extraordinary": [], "count": 0}
+{"A": 262, "B": 309, "extraordinary": [], "count": 0}
+{"A": -12, "B": -76, "extraordinary": [5], "count": 1}
+{"A": 118, "B": -304, "extraordinary": [], "count": 0}
+{"A": 311, "B": -42, "extraordinary": [37, 53], "count": 2}
+{"A": 73, "B": 158, "extraordinary": [7, 19, 131], "count": 3}
+{"A": -167, "B": -159, "extraordinary": [89], "count": 1}
+{"A": 145, "B": 290, "extraordinary": [13], "count": 1}
+{"A": 76, "B": -354, "extraordinary": [17, 97], "count": 2}
+{"A": -303, "B": -182, "extraordinary": [11, 53], "count": 2}
+{"A": 125, "B": -103, "extraordinary": [], "count": 0}
+{"A": 44, "B": 33, "extraordinary": [5, 29, 31], "count": 3}
+{"A": -205, "B": 334, "extraordinary": [43], "count": 1}
+{"A": -345, "B": -179, "extraordinary": [13], "count": 1}
+{"A": -151, "B": -91, "extraordinary": [], "count": 0}
+{"A": -109, "B": -284, "extraordinary": [7], "count": 1}
+{"A": 39, "B": 170, "extraordinary": [], "count": 0}
+{"A": 310, "B": 149, "extraordinary": [41], "count": 1}
+{"A": 273, "B": -42, "extraordinary": [31], "count": 1}
+{"A": 385, "B": 2, "extraordinary": [], "count": 0}
+{"A": 395, "B": -39, "extraordinary": [109], "count": 1}
+{"A": 92, "B": 349, "extraordinary": [109], "count": 1}
+{"A": 153, "B": -205, "extraordinary": [], "count": 0}
+{"A": 148, "B": 180, "extraordinary": [11], "count": 1}
+{"A": 207, "B": -180, "extraordinary": [7], "count": 1}
+{"A": 230, "B": -351, "extraordinary": [19, 167], "count": 2}
+{"A": -381, "B": -23, "extraordinary": [13, 107], "count": 2}
+{"A": 393, "B": -167, "extraordinary": [199], "count": 1}
+{"A": -207, "B": 298, "extraordinary": [], "count": 0}
+{"A": 235, "B": 31, "extraordinary": [7, 19, 41, 53], "count": 4}
+{"A": 368, "B": 147, "extraordinary": [5, 43], "count": 2}
+{"A": -362, "B": -250, "extraordinary": [43], "count": 1}
+{"A": -28, "B": 262, "extraordinary": [], "count": 0}
+{"A": -349, "B": 117, "extraordinary": [19], "count": 1}
+{"A": -141, "B": 62, "extraordinary": [], "count": 0}
+{"A": -125, "B": -53, "extraordinary": [29, 179], "count": 2}
+{"A": 295, "B": -155, "extraordinary": [19, 61, 109], "count": 3}
+{"A": -304, "B": -254, "extraordinary": [23], "count": 1}
+{"A": -270, "B": 19, "extraordinary": [13], "count": 1}
+{"A": -252, "B": 201, "extraordinary": [13], "count": 1}
+{"A": -296, "B": -98, "extraordinary": [], "count": 0}
+{"A": -36, "B": 160, "extraordinary": [89], "count": 1}
+{"A": -160, "B": -364, "extraordinary": [31, 211], "count": 2}
+{"A": 320, "B": 382, "extraordinary": [], "count": 0}
+{"A": 256, "B": 385, "extraordinary": [], "count": 0}
+{"A": -135, "B": -300, "extraordinary": [7], "count": 1}
+{"A": 384, "B": 322, "extraordinary": [5, 11, 107], "count": 3}
+{"A": -302, "B": -362, "extraordinary": [7, 13, 59], "count": 3}
+{"A": -255, "B": 365, "extraordinary": [], "count": 0}
+{"A": -40, "B": 137, "extraordinary": [], "count": 0}
+{"A": -388, "B": 134, "extraordinary": [], "count": 0}
+{"A": 142, "B": 33, "extraordinary": [], "count": 0}
+{"A": -249, "B": 306, "extraordinary": [109], "count": 1}
+{"A": -231, "B": 156, "extraordinary": [79], "count": 1}
+{"A": 139, "B": 333, "extraordinary": [], "count": 0}
+{"A": -228, "B": 300, "extraordinary": [7, 101, 107], "count": 3}
+{"A": 38, "B": 198, "extraordinary": [13], "count": 1}
+{"A": 29, "B": -260, "extraordinary": [7], "count": 1}
+{"A": -328, "B": 297, "extraordinary": [5, 7, 17, 23, 29], "count": 5}
+{"A": 48, "B": -223, "extraordinary": [5, 11, 43], "count": 3}
+{"A": -331, "B": 235, "extraordinary": [], "count": 0}
+{"A": -163, "B": -99, "extraordinary": [67, 97, 229], "count": 3}
+{"A": -174, "B": -258, "extraordinary": [], "count": 0}
+{"A": 304, "B": -277, "extraordinary": [7, 23], "count": 2}
+{"A": 160, "B": 245, "extraordinary": [11, 17], "count": 2}
+{"A": -282, "B": 252, "extraordinary": [13], "count": 1}
+{"A": -261, "B": 263, "extraordinary": [], "count": 0}
+{"A": -161, "B": -153, "extraordinary": [11], "count": 1}
+{"A": -297, "B": -131, "extraordinary": [], "count": 0}
+{"A": -184, "B": 113, "extraordinary": [73], "count": 1}
+{"A": 163, "B": -52, "extraordinary": [173], "count": 1}
+{"A": 42, "B": 19, "extraordinary": [], "count": 0}
+{"A": -100, "B": -351, "extraordinary": [], "count": 0}
+{"A": 251, "B": -263, "extraordinary": [43], "count": 1}
+{"A": 217, "B": -308, "extraordinary": [61], "count": 1}
+{"A": -221, "B": 269, "extraordinary": [5], "count": 1}
+{"A": -203, "B": -296, "extraordinary": [], "count": 0}
+{"A": 326, "B": -30, "extraordinary": [], "count": 0}
+{"A": 115, "B": -100, "extraordinary": [19], "count": 1}
+{"A": -162, "B": -273, "extraordinary": [43], "count": 1}
+{"A": -300, "B": 171, "extraordinary": [17], "count": 1}
+{"A": -165, "B": -321, "extraordinary": [89, 101], "count": 2}
+{"A": -318, "B": 252, "extraordinary": [], "count": 0}
+{"A": -38, "B": -377, "extraordinary": [97], "count": 1}
+{"A": -345, "B": 310, "extraordinary": [7], "count": 1}
+{"A": -305, "B": -327, "extraordinary": [7], "count": 1}
+{"A": 96, "B": 96, "extraordinary": [11, 17, 61], "count": 3}
+{"A": 269, "B": -392, "extraordinary": [5, 223], "count": 2}
+{"A": -62, "B": 395, "extraordinary": [73, 107], "count": 2}
+{"A": -7, "B": -85, "extraordinary": [157], "count": 1}
+{"A": -251, "B": -257, "extraordinary": [7, 233], "count": 2}
+{"A": -298, "B": -31, "extraordinary": [43], "count": 1}
+{"A": 115, "B": 95, "extraordinary": [7, 191], "count": 2}
+{"A": -259, "B": 283, "extraordinary": [], "count": 0}
+{"A": 120, "B": -94, "extraordinary": [], "count": 0}
+{"A": 363, "B": 276, "extraordinary": [5], "count": 1}
+{"A": -82, "B": 104, "extraordinary": [19], "count": 1}
+{"A": 148, "B": 114, "extraordinary": [], "count": 0}
+{"A": 276, "B": 37, "extraordinary": [31], "count": 1}
+{"A": -45, "B": 249, "extraordinary": [41], "count": 1}
+{"A": 313, "B": -68, "extraordinary": [], "count": 0}
+{"A": -220, "B": 372, "extraordinary": [], "count": 0}
+{"A": -125, "B": -262, "extraordinary": [11, 23], "count": 2}
+{"A": 72, "B": -354, "extraordinary": [], "count": 0}
+{"A": -162, "B": -134, "extraordinary": [73], "count": 1}
+{"A": 224, "B": 171, "extraordinary": [11], "count": 1}
+{"A": -173, "B": 121, "extraordinary": [7], "count": 1}
+{"A": -307, "B": -343, "extraordinary": [], "count": 0}
+{"A": -239, "B": -257, "extraordinary": [7, 149], "count": 2}
+{"A": -114, "B": -140, "extraordinary": [], "count": 0}
+{"A": 324, "B": 42, "extraordinary": [229], "count": 1}
+{"A": -112, "B": -82, "extraordinary": [53], "count": 1}
+{"A": 382, "B": 308, "extraordinary": [13, 29, 127], "count": 3}
+{"A": -311, "B": 336, "extraordinary": [29, 97], "count": 2}
+{"A": 360, "B": 110, "extraordinary": [17], "count": 1}
+{"A": -173, "B": -226, "extraordinary": [19, 23], "count": 2}
+{"A": 316, "B": -330, "extraordinary": [], "count": 0}
+{"A": -20, "B": -172, "extraordinary": [], "count": 0}
+{"A": 151, "B": 353, "extraordinary": [7, 29], "count": 2}
+{"A": -370, "B": 259, "extraordinary": [19], "count": 1}
+{"A": -82, "B": 67, "extraordinary": [7], "count": 1}
+{"A": -151, "B": -357, "extraordinary": [19, 59], "count": 2}
+{"A": 13, "B": 71, "extraordinary": [17, 37], "count": 2}
+{"A": -38, "B": -339, "extraordinary": [11], "count": 1}
+{"A": -174, "B": -298, "extraordinary": [89], "count": 1}
+{"A": -86, "B": -13, "extraordinary": [59, 227], "count": 2}
+{"A": 208, "B": 316, "extraordinary": [37], "count": 1}
+{"A": -349, "B": -52, "extraordinary": [], "count": 0}
+{"A": -179, "B": -12, "extraordinary": [], "count": 0}
+{"A": 245, "B": -165, "extraordinary": [], "count": 0}
+{"A": 134, "B": -106, "extraordinary": [13], "count": 1}
+{"A": 344, "B": 193, "extraordinary": [11, 37, 41], "count": 3}
+{"A": -30, "B": -140, "extraordinary": [229], "count": 1}
+{"A": -184, "B": 111, "extraordinary": [53, 89], "count": 2}
+{"A": 52, "B": 305, "extraordinary": [], "count": 0}
+{"A": 131, "B": -115, "extraordinary": [7], "count": 1}
+{"A": 222, "B": -49, "extraordinary": [5, 163], "count": 2}
+{"A": -359, "B": 190, "extraordinary": [], "count": 0}
+{"A": 357, "B": -206, "extraordinary": [], "count": 0}
+{"A": 163, "B": -70, "extraordinary": [19], "count": 1}
+{"A": 386, "B": 331, "extraordinary": [7], "count": 1}
+{"A": -268, "B": 132, "extraordinary": [], "count": 0}
+{"A": 81, "B": -44, "extraordinary": [5, 7, 13, 139], "count": 4}
+{"A": 202, "B": 129, "extraordinary": [17], "count": 1}
+{"A": 250, "B": 234, "extraordinary": [97], "count": 1}
+{"A": 170, "B": 154, "extraordinary": [109], "count": 1}
+{"A": -221, "B": 158, "extraordinary": [7], "count": 1}
+{"A": 273, "B": 185, "extraordinary": [], "count": 0}
+{"A": 260, "B": 321, "extraordinary": [73], "count": 1}
+{"A": 92, "B": 86, "extraordinary": [7, 11, 97], "count": 3}
+{"A": -339, "B": -87, "extraordinary": [5], "count": 1}
+{"A": -396, "B": 197, "extraordinary": [], "count": 0}
+{"A": -244, "B": -269, "extraordinary": [5], "count": 1}
+{"A": -186, "B": -360, "extraordinary": [7], "count": 1}
+{"A": 175, "B": 207, "extraordinary": [], "count": 0}
+{"A": 198, "B": -371, "extraordinary": [31, 229], "count": 2}
+{"A": -300, "B": 114, "extraordinary": [], "count": 0}
+{"A": 279, "B": -374, "extraordinary": [], "count": 0}
+{"A": 293, "B": -90, "extraordinary": [11, 61], "count": 2}
+{"A": -245, "B": -35, "extraordinary": [13], "count": 1}
+{"A": 9, "B": 375, "extraordinary": [], "count": 0}
+{"A": 96, "B": -342, "extraordinary": [5], "count": 1}
+{"A": 248, "B": -342, "extraordinary": [137], "count": 1}
+{"A": -353, "B": -53, "extraordinary": [5, 23], "count": 2}
+{"A": -198, "B": 105, "extraordinary": [13, 17, 31], "count": 3}
+{"A": -155, "B": 147, "extraordinary": [19], "count": 1}
+{"A": -382, "B": 163, "extraordinary": [], "count": 0}
+{"A": -262, "B": -131, "extraordinary": [], "count": 0}
+{"A": 210, "B": 270, "extraordinary": [11], "count": 1}
+{"A": 24, "B": -245, "extraordinary": [53], "count": 1}
+{"A": -147, "B": -322, "extraordinary": [], "count": 0}
+{"A": -306, "B": -235, "extraordinary": [], "count": 0}
+{"A": -254, "B": -250, "extraordinary": [], "count": 0}
+{"A": 131, "B": -254, "extraordinary": [], "count": 0}
+{"A": 267, "B": -160, "extraordinary": [41, 139], "count": 2}
+{"A": -331, "B": 251, "extraordinary": [7], "count": 1}
+{"A": -51, "B": -66, "extraordinary": [37], "count": 1}
+{"A": 259, "B": 130, "extraordinary": [11], "count": 1}
+{"A": 74, "B": -211, "extraordinary": [23, 79], "count": 2}
+{"A": -334, "B": 225, "extraordinary": [211], "count": 1}
+{"A": -149, "B": -258, "extraordinary": [19], "count": 1}
+{"A": 16, "B": 248, "extraordinary": [5, 11, 59], "count": 3}
+{"A": -162, "B": -203, "extraordinary": [67], "count": 1}
+{"A": -283, "B": 368, "extraordinary": [7], "count": 1}
+{"A": -39, "B": -79, "extraordinary": [], "count": 0}
+{"A": -324, "B": -294, "extraordinary": [67, 89, 151], "count": 3}
+{"A": 156, "B": 300, "extraordinary": [7], "count": 1}
+{"A": 142, "B": 327, "extraordinary": [5], "count": 1}
+{"A": 353, "B": -284, "extraordinary": [], "count": 0}
+{"A": -270, "B": -148, "extraordinary": [], "count": 0}
+{"A": -46, "B": 394, "extraordinary": [5, 89], "count": 2}
+{"A": -98, "B": -296, "extraordinary": [], "count": 0}
+{"A": 191, "B": 300, "extraordinary": [67], "count": 1}
+{"A": -361, "B": -89, "extraordinary": [7, 41], "count": 2}
+{"A": 152, "B": -381, "extraordinary": [53], "count": 1}
+{"A": -382, "B": -280, "extraordinary": [], "count": 0}
+{"A": -57, "B": -120, "extraordinary": [], "count": 0}
+{"A": 252, "B": -142, "extraordinary": [5, 17, 37], "count": 3}
+{"A": -191, "B": -57, "extraordinary": [17], "count": 1}
+{"A": -57, "B": 351, "extraordinary": [], "count": 0}
+{"A": -65, "B": -266, "extraordinary": [11, 17, 23], "count": 3}
+{"A": -73, "B": 129, "extraordinary": [17], "count": 1}
+{"A": 131, "B": 9, "extraordinary": [11], "count": 1}
+{"A": 315, "B": 359, "extraordinary": [], "count": 0}
+{"A": -327, "B": 102, "extraordinary": [5], "count": 1}
+{"A": 78, "B": 273, "extraordinary": [11, 149], "count": 2}
+{"A": -285, "B": 148, "extraordinary": [41], "count": 1}
+{"A": -242, "B": 391, "extraordinary": [61, 223], "count": 2}
+{"A": -326, "B": 234, "extraordinary": [], "count": 0}
+{"A": -212, "B": 173, "extraordinary": [], "count": 0}
+{"A": 285, "B": -278, "extraordinary": [], "count": 0}
+{"A": -286, "B": -74, "extraordinary": [], "count": 0}
+{"A": 269, "B": -77, "extraordinary": [], "count": 0}
+{"A": 299, "B": 133, "extraordinary": [43], "count": 1}
+{"A": -303, "B": 21, "extraordinary": [], "count": 0}
+{"A": 233, "B": 250, "extraordinary": [7, 13, 67], "count": 3}
+{"A": -246, "B": 89, "extraordinary": [7, 31, 43, 73], "count": 4}
+{"A": -330, "B": -397, "extraordinary": [29], "count": 1}
+{"A": -158, "B": 226, "extraordinary": [97], "count": 1}
+{"A": 27, "B": -399, "extraordinary": [37, 89], "count": 2}
+{"A": -240, "B": 25, "extraordinary": [157], "count": 1}
+{"A": 205, "B": 321, "extraordinary": [23, 43], "count": 2}
+{"A": 105, "B": 351, "extraordinary": [131], "count": 1}
+{"A": 391, "B": 24, "extraordinary": [7], "count": 1}
+{"A": -376, "B": 399, "extraordinary": [5, 29], "count": 2}
+{"A": -311, "B": -26, "extraordinary": [], "count": 0}
+{"A": -313, "B": -216, "extraordinary": [13, 17, 19], "count": 3}
+{"A": -358, "B": -225, "extraordinary": [13, 29], "count": 2}
+{"A": -96, "B": -125, "extraordinary": [11], "count": 1}
+{"A": -179, "B": -52, "extraordinary": [7], "count": 1}
+{"A": -53, "B": 137, "extraordinary": [71], "count": 1}
+{"A": 164, "B": 9, "extraordinary": [5, 13], "count": 2}
+{"A": -369, "B": -38, "extraordinary": [13], "count": 1}
+{"A": -258, "B": -50, "extraordinary": [7], "count": 1}
+{"A": 167, "B": -113, "extraordinary": [], "count": 0}
+{"A": 14, "B": 365, "extraordinary": [23, 43], "count": 2}
+{"A": 61, "B": -131, "extraordinary": [19], "count": 1}
+{"A": 145, "B": 162, "extraordinary": [], "count": 0}
+{"A": 359, "B": 10, "extraordinary": [], "count": 0}
+{"A": 163, "B": 18, "extraordinary": [7], "count": 1}
+{"A": -240, "B": -368, "extraordinary": [191], "count": 1}
+{"A": 52, "B": 23, "extraordinary": [], "count": 0}
+{"A": -263, "B": -157, "extraordinary": [5, 19], "count": 2}
+{"A": -284, "B": -45, "extraordinary": [], "count": 0}
+{"A": 363, "B": -329, "extraordinary": [53], "count": 1}
+{"A": 260, "B": 271, "extraordinary": [11], "count": 1}
+{"A": 84, "B": 328, "extraordinary": [5, 11], "count": 2}
+{"A": -268, "B": 59, "extraordinary": [], "count": 0}
+{"A": -129, "B": 80, "extraordinary": [], "count": 0}
+{"A": 268, "B": -177, "extraordinary": [], "count": 0}
+{"A": 323, "B": -319, "extraordinary": [5], "count": 1}
+{"A": 38, "B": 215, "extraordinary": [11], "count": 1}
+{"A": -8, "B": 338, "extraordinary": [], "count": 0}
+{"A": -280, "B": -102, "extraordinary": [], "count": 0}
+{"A": 198, "B": -53, "extraordinary": [], "count": 0}
+{"A": 90, "B": -233, "extraordinary": [], "count": 0}
+{"A": 246, "B": 314, "extraordinary": [], "count": 0}
+{"A": -267, "B": -347, "extraordinary": [7, 109], "count": 2}
+{"A": 255, "B": -214, "extraordinary": [73], "count": 1}
+{"A": 326, "B": -198, "extraordinary": [19], "count": 1}
+{"A": 360, "B": 175, "extraordinary": [41], "count": 1}
+{"A": 209, "B": -78, "extraordinary": [5, 7], "count": 2}
+{"A": -229, "B": -353, "extraordinary": [], "count": 0}
+{"A": -321, "B": 346, "extraordinary": [], "count": 0}
+{"A": 276, "B": -346, "extraordinary": [11, 197], "count": 2}
+{"A": 82, "B": -55, "extraordinary": [], "count": 0}
+{"A": -399, "B": 375, "extraordinary": [], "count": 0}
+{"A": 176, "B": 339, "extraordinary": [5, 13, 73], "count": 3}
+{"A": -174, "B": 398, "extraordinary": [], "count": 0}
+{"A": 399, "B": -170, "extraordinary": [], "count": 0}
+{"A": -75, "B": -294, "extraordinary": [], "count": 0}
+{"A": 85, "B": -56, "extraordinary": [11], "count": 1}
+{"A": -227, "B": -44, "extraordinary": [5], "count": 1}
+{"A": 66, "B": 210, "extraordinary": [], "count": 0}
+{"A": -197, "B": -217, "extraordinary": [], "count": 0}
+{"A": -342, "B": -230, "extraordinary": [29], "count": 1}
+{"A": 247, "B": 132, "extraordinary": [67, 163], "count": 2}
+{"A": -272, "B": -50, "extraordinary": [19, 37], "count": 2}
+{"A": -307, "B": 372, "extraordinary": [5], "count": 1}
+{"A": -19, "B": 198, "extraordinary": [], "count": 0}
+{"A": -142, "B": -192, "extraordinary": [17, 43], "count": 2}
+{"A": -104, "B": 120, "extraordinary": [31, 41], "count": 2}
+{"A": 329, "B": -310, "extraordinary": [113, 149], "count": 2}
+{"A": -387, "B": -214, "extraordinary": [7], "count": 1}
+{"A": 91, "B": -277, "extraordinary": [5, 11, 59], "count": 3}
+{"A": 129, "B": 15, "extraordinary": [11], "count": 1}
+{"A": 11, "B": -131, "extraordinary": [7], "count": 1}
+{"A": 341, "B": 10, "extraordinary": [7, 17, 19], "count": 3}
+{"A": 258, "B": 121, "extraordinary": [19], "count": 1}
+{"A": -122, "B": 331, "extraordinary": [], "count": 0}
+{"A": -75, "B": -69, "extraordinary": [7, 167], "count": 2}
+{"A": -18, "B": -353, "extraordinary": [], "count": 0}
+{"A": -257, "B": -226, "extraordinary": [11, 17, 43], "count": 3}
+{"A": -241, "B": 288, "extraordinary": [19], "count": 1}
+{"A": 314, "B": -138, "extraordinary": [103], "count": 1}
+{"A": 103, "B": -385, "extraordinary": [], "count": 0}
+{"A": -162, "B": -156, "extraordinary": [], "count": 0}
+{"A": -131, "B": -270, "extraordinary": [29, 59], "count": 2}
+{"A": -158, "B": -376, "extraordinary": [7, 67], "count": 2}
+{"A": -293, "B": -93, "extraordinary": [], "count": 0}
+{"A": 68, "B": -330, "extraordinary": [], "count": 0}
+{"A": 297, "B": 377, "extraordinary": [23], "count": 1}
+{"A": -155, "B": -319, "extraordinary": [], "count": 0}
+{"A": 165, "B": -272, "extraordinary": [7], "count": 1}
+{"A": -304, "B": 166, "extraordinary": [5], "count": 1}
+{"A": -4, "B": 347, "extraordinary": [7, 239], "count": 2}
+{"A": -104, "B": -34, "extraordinary": [5, 29], "count": 2}
+{"A": 43, "B": 263, "extraordinary": [7], "count": 1}
+{"A": 174, "B": -167, "extraordinary": [], "count": 0}
+{"A": 192, "B": 244, "extraordinary": [], "count": 0}
+{"A": -124, "B": 279, "extraordinary": [11, 13], "count": 2}
+{"A": 371, "B": 204, "extraordinary": [11], "count": 1}
+{"A": -168, "B": 359, "extraordinary": [11, 73], "count": 2}
+{"A": 129, "B": 160, "extraordinary": [], "count": 0}
+{"A": -382, "B": 300, "extraordinary": [], "count": 0}
+{"A": -168, "B": 257, "extraordinary": [], "count": 0}
+{"A": -15, "B": 158, "extraordinary": [7], "count": 1}
+{"A": 202, "B": -350, "extraordinary": [], "count": 0}
+{"A": 25, "B": -203, "extraordinary": [], "count": 0}
+{"A": 118, "B": -75, "extraordinary": [], "count": 0}
+{"A": -239, "B": 111, "extraordinary": [], "count": 0}
+{"A": -363, "B": 167, "extraordinary": [173], "count": 1}
+{"A": -139, "B": 353, "extraordinary": [], "count": 0}
+{"A": -1, "B": 305, "extraordinary": [11, 29], "count": 2}
+{"A": 261, "B": -397, "extraordinary": [17, 31], "count": 2}
+{"A": 318, "B": 257, "extraordinary": [], "count": 0}
+{"A": 143, "B": 221, "extraordinary": [], "count": 0}
+{"A": 90, "B": -248, "extraordinary": [17], "count": 1}
+{"A": -373, "B": -49, "extraordinary": [241], "count": 1}
+{"A": 52, "B": -276, "extraordinary": [7], "count": 1}
+{"A": 370, "B": -89, "extraordinary": [17], "count": 1}
+{"A": -191, "B": 184, "extraordinary": [19, 67], "count": 2}
+{"A": 11, "B": -35, "extraordinary": [13], "count": 1}
+{"A": -124, "B": 16, "extraordinary": [43], "count": 1}
+{"A": 262, "B": -349, "extraordinary": [7], "count": 1}
+{"A": 333, "B": -42, "extraordinary": [13], "count": 1}
+{"A": -324, "B": 25, "extraordinary": [7, 167], "count": 2}
+{"A": -34, "B": -297, "extraordinary": [7, 23], "count": 2}
+{"A": 3, "B": -119, "extraordinary": [61, 239], "count": 2}
+{"A": -187, "B": -263, "extraordinary": [43], "count": 1}
+{"A": -189, "B": 373, "extraordinary": [], "count": 0}
+{"A": 26, "B": 28, "extraordinary": [11, 17, 19, 37], "count": 4}
+{"A": -372, "B": -2, "extraordinary": [17], "count": 1}
+{"A": -334, "B": 374, "extraordinary": [], "count": 0}
+{"A": 53, "B": -69, "extraordinary": [7, 61], "count": 2}
+{"A": -69, "B": 101, "extraordinary": [], "count": 0}
+{"A": 98, "B": -292, "extraordinary": [], "count": 0}
+{"A": 161, "B": 102, "extraordinary": [107, 109], "count": 2}
+{"A": 320, "B": -203, "extraordinary": [17], "count": 1}
+{"A": -241, "B": 177, "extraordinary": [], "count": 0}
+{"A": -193, "B": -62, "extraordinary": [5, 7], "count": 2}
+{"A": -381, "B": 156, "extraordinary": [37], "count": 1}
+{"A": -82, "B": 345, "extraordinary": [229], "count": 1}
+{"A": -180, "B": 97, "extraordinary": [], "count": 0}
+{"A": -229, "B": 285, "extraordinary": [], "count": 0}
+{"A": 312, "B": -182, "extraordinary": [5, 17], "count": 2}
+{"A": 176, "B": -87, "extraordinary": [], "count": 0}
+{"A": -150, "B": -58, "extraordinary": [], "count": 0}
+{"A": -56, "B": 229, "extraordinary": [5], "count": 1}
+{"A": 375, "B": 82, "extraordinary": [23, 89, 101], "count": 3}
+{"A": 283, "B": 328, "extraordinary": [], "count": 0}
+{"A": 295, "B": 115, "extraordinary": [], "count": 0}
+{"A": -209, "B": 169, "extraordinary": [], "count": 0}
+{"A": -274, "B": -91, "extraordinary": [19], "count": 1}
+{"A": -56, "B": -110, "extraordinary": [53, 71], "count": 2}
+{"A": 219, "B": 317, "extraordinary": [5, 7, 23, 37], "count": 4}
+{"A": -334, "B": 3, "extraordinary": [7, 17], "count": 2}
+{"A": -220, "B": -351, "extraordinary": [79], "count": 1}
+{"A": -268, "B": 83, "extraordinary": [131], "count": 1}
+{"A": 280, "B": 195, "extraordinary": [11, 109], "count": 2}
+{"A": 186, "B": 49, "extraordinary": [5, 11], "count": 2}
+{"A": -182, "B": -351, "extraordinary": [37, 197], "count": 2}
+{"A": 82, "B": 370, "extraordinary": [131], "count": 1}
+{"A": 218, "B": -365, "extraordinary": [], "count": 0}
+{"A": 338, "B": 249, "extraordinary": [5, 7], "count": 2}
+{"A": 290, "B": -377, "extraordinary": [], "count": 0}
+{"A": -325, "B": 119, "extraordinary": [], "count": 0}
+{"A": -114, "B": 287, "extraordinary": [5, 197], "count": 2}
+{"A": -248, "B": 259, "extraordinary": [], "count": 0}
+{"A": 50, "B": 285, "extraordinary": [7], "count": 1}
+{"A": -76, "B": -150, "extraordinary": [11, 83], "count": 2}
+{"A": -141, "B": -391, "extraordinary": [], "count": 0}
+{"A": 58, "B": 374, "extraordinary": [], "count": 0}
+{"A": 346, "B": -169, "extraordinary": [], "count": 0}
+{"A": 226, "B": -199, "extraordinary": [23, 71], "count": 2}
+{"A": 377, "B": 136, "extraordinary": [5, 7, 23], "count": 3}
+{"A": -141, "B": -269, "extraordinary": [139], "count": 1}
+{"A": 71, "B": -325, "extraordinary": [], "count": 0}
+{"A": -283, "B": 69, "extraordinary": [], "count": 0}
+{"A": 170, "B": -184, "extraordinary": [19, 29], "count": 2}
+{"A": 346, "B": 375, "extraordinary": [47], "count": 1}
+{"A": 97, "B": -386, "extraordinary": [], "count": 0}
+{"A": 5, "B": -299, "extraordinary": [], "count": 0}
+{"A": -369, "B": -200, "extraordinary": [], "count": 0}
+{"A": -295, "B": -336, "extraordinary": [29], "count": 1}
+{"A": 233, "B": 180, "extraordinary": [19], "count": 1}
+{"A": 88, "B": -108, "extraordinary": [5], "count": 1}
+{"A": -264, "B": 2, "extraordinary": [], "count": 0}
+{"A": 296, "B": -66, "extraordinary": [5, 19, 73], "count": 3}
+{"A": 109, "B": -94, "extraordinary": [53, 139], "count": 2}
+{"A": 114, "B": -120, "extraordinary": [43], "count": 1}
+{"A": 311, "B": 142, "extraordinary": [7, 151], "count": 2}
+{"A": 176, "B": 158, "extraordinary": [], "count": 0}
+{"A": -347, "B": 282, "extraordinary": [5], "count": 1}
+{"A": 399, "B": -51, "extraordinary": [5, 41, 47, 83], "count": 4}
+{"A": -198, "B": -90, "extraordinary": [], "count": 0}
+{"A": -152, "B": -228, "extraordinary": [], "count": 0}
+{"A": -239, "B": 193, "extraordinary": [53], "count": 1}
+{"A": 115, "B": 310, "extraordinary": [11], "count": 1}
+{"A": 6, "B": 102, "extraordinary": [], "count": 0}
+{"A": -380, "B": -369, "extraordinary": [], "count": 0}
+{"A": 387, "B": 347, "extraordinary": [7], "count": 1}
+{"A": -93, "B": 329, "extraordinary": [5], "count": 1}
+{"A": -286, "B": 152, "extraordinary": [31, 43], "count": 2}
+{"A": -224, "B": -162, "extraordinary": [19], "count": 1}
+{"A": -282, "B": -175, "extraordinary": [31, 67], "count": 2}
+{"A": -31, "B": -103, "extraordinary": [], "count": 0}
+{"A": -381, "B": -341, "extraordinary": [], "count": 0}
+{"A": -57, "B": -66, "extraordinary": [5], "count": 1}
+{"A": -4, "B": -372, "extraordinary": [], "count": 0}
+{"A": -176, "B": 247, "extraordinary": [37], "count": 1}
+{"A": -113, "B": 348, "extraordinary": [11, 37], "count": 2}
+{"A": 313, "B": 16, "extraordinary": [11, 223], "count": 2}
+{"A": 130, "B": -321, "extraordinary": [], "count": 0}
+{"A": -6, "B": -280, "extraordinary": [67], "count": 1}
+{"A": -275, "B": 12, "extraordinary": [23, 29], "count": 2}
+{"A": -262, "B": -141, "extraordinary": [], "count": 0}
+{"A": 22, "B": -147, "extraordinary": [5], "count": 1}
+{"A": -251, "B": 93, "extraordinary": [11, 23, 131], "count": 3}
+{"A": 178, "B": -383, "extraordinary": [7], "count": 1}
+{"A": 44, "B": 380, "extraordinary": [], "count": 0}
+{"A": 83, "B": 172, "extraordinary": [19], "count": 1}
+{"A": 29, "B": -230, "extraordinary": [7], "count": 1}
+{"A": -227, "B": -292, "extraordinary": [], "count": 0}
+{"A": -16, "B": -203, "extraordinary": [5, 11, 71], "count": 3}
+{"A": -21, "B": 287, "extraordinary": [5], "count": 1}
+{"A": -191, "B": 93, "extraordinary": [], "count": 0}
+{"A": -74, "B": 155, "extraordinary": [], "count": 0}
+{"A": -49, "B": -29, "extraordinary": [53, 167], "count": 2}
+{"A": -133, "B": 393, "extraordinary": [], "count": 0}
+{"A": -148, "B": 50, "extraordinary": [7, 41], "count": 2}
+{"A": -361, "B": 309, "extraordinary": [5, 113], "count": 2}
+{"A": 82, "B": -163, "extraordinary": [5, 29, 97], "count": 3}
+{"A": 183, "B": 254, "extraordinary": [47], "count": 1}
+{"A": -102, "B": -179, "extraordinary": [], "count": 0}
+{"A": 82, "B": 285, "extraordinary": [43], "count": 1}
+{"A": -175, "B": 263, "extraordinary": [11], "count": 1}
+{"A": 183, "B": -328, "extraordinary": [37], "count": 1}
+{"A": 85, "B": 343, "extraordinary": [13], "count": 1}
+{"A": -312, "B": 228, "extraordinary": [], "count": 0}
+{"A": -286, "B": -375, "extraordinary": [127], "count": 1}
+{"A": -139, "B": -146, "extraordinary": [17, 19], "count": 2}
+{"A": 209, "B": 162, "extraordinary": [], "count": 0}
+{"A": 235, "B": 237, "extraordinary": [], "count": 0}
+{"A": -59, "B": -363, "extraordinary": [], "count": 0}
+{"A": 203, "B": -228, "extraordinary": [11, 31, 191], "count": 3}
+{"A": 197, "B": -184, "extraordinary": [], "count": 0}
+{"A": 180, "B": -384, "extraordinary": [13], "count": 1}
+{"A": 62, "B": -108, "extraordinary": [7, 113], "count": 2}
+{"A": -201, "B": -201, "extraordinary": [5], "count": 1}
+{"A": 309, "B": 170, "extraordinary": [11, 79], "count": 2}
+{"A": 151, "B": -24, "extraordinary": [], "count": 0}
+{"A": -112, "B": 113, "extraordinary": [23, 31], "count": 2}
+{"A": 148, "B": 382, "extraordinary": [167], "count": 1}
+{"A": 186, "B": -354, "extraordinary": [13, 29], "count": 2}
+{"A": -206, "B": 275, "extraordinary": [], "count": 0}
+{"A": -84, "B": -113, "extraordinary": [], "count": 0}
+{"A": 278, "B": -189, "extraordinary": [19, 101], "count": 2}
+{"A": -257, "B": 199, "extraordinary": [], "count": 0}
+{"A": -278, "B": -116, "extraordinary": [7, 13], "count": 2}
+{"A": 20, "B": 308, "extraordinary": [13, 19], "count": 2}
+{"A": -153, "B": -16, "extraordinary": [], "count": 0}
+{"A": -29, "B": 86, "extraordinary": [11, 23], "count": 2}
+{"A": -303, "B": 56, "extraordinary": [], "count": 0}
+{"A": 100, "B": -71, "extraordinary": [19, 31], "count": 2}
+{"A": 393, "B": -234, "extraordinary": [5, 7], "count": 2}
+{"A": -319, "B": 143, "extraordinary": [], "count": 0}
+{"A": 315, "B": 63, "extraordinary": [], "count": 0}
+{"A": -177, "B": 236, "extraordinary": [7], "count": 1}
+{"A": 19, "B": -388, "extraordinary": [59], "count": 1}
+{"A": -220, "B": 19, "extraordinary": [], "count": 0}
+{"A": -359, "B": -211, "extraordinary": [7, 11, 23], "count": 3}
+{"A": 399, "B": 295, "extraordinary": [43], "count": 1}
+{"A": -372, "B": 30, "extraordinary": [], "count": 0}
+{"A": -178, "B": -281, "extraordinary": [], "count": 0}
+{"A": 394, "B": -321, "extraordinary": [5, 71, 167], "count": 3}
+{"A": -63, "B": 318, "extraordinary": [5, 101], "count": 2}
+{"A": -365, "B": -306, "extraordinary": [], "count": 0}
+{"A": 128, "B": 92, "extraordinary": [], "count": 0}
+{"A": 222, "B": 165, "extraordinary": [], "count": 0}
+{"A": -19, "B": 141, "extraordinary": [], "count": 0}
+{"A": 343, "B": 114, "extraordinary": [37, 61], "count": 2}
+{"A": -66, "B": -253, "extraordinary": [5], "count": 1}
+{"A": 301, "B": -30, "extraordinary": [151], "count": 1}
+{"A": 125, "B": -99, "extraordinary": [], "count": 0}
+{"A": 260, "B": -208, "extraordinary": [167], "count": 1}
+{"A": -343, "B": 46, "extraordinary": [5, 29], "count": 2}
+{"A": -235, "B": -2, "extraordinary": [11], "count": 1}
+{"A": 166, "B": -228, "extraordinary": [37], "count": 1}
+{"A": -7, "B": 252, "extraordinary": [71], "count": 1}
+{"A": 294, "B": -118, "extraordinary": [13], "count": 1}
+{"A": 160, "B": 125, "extraordinary": [], "count": 0}
+{"A": 65, "B": -149, "extraordinary": [], "count": 0}
+{"A": 41, "B": 398, "extraordinary": [5, 67], "count": 2}
+{"A": -224, "B": -197, "extraordinary": [31, 97], "count": 2}
+{"A": -262, "B": -120, "extraordinary": [43], "count": 1}
+{"A": 107, "B": -277, "extraordinary": [31], "count": 1}
+{"A": 302, "B": -259, "extraordinary": [], "count": 0}
+{"A": 183, "B": 283, "extraordinary": [], "count": 0}
+{"A": 209, "B": 366, "extraordinary": [], "count": 0}
+{"A": 309, "B": -109, "extraordinary": [13, 83], "count": 2}
+{"A": 84, "B": 360, "extraordinary": [179], "count": 1}
+{"A": 315, "B": -27, "extraordinary": [], "count": 0}
+{"A": 387, "B": -332, "extraordinary": [5, 103], "count": 2}
+{"A": -130, "B": 115, "extraordinary": [73], "count": 1}
+{"A": 346, "B": 389, "extraordinary": [], "count": 0}
+{"A": -259, "B": 286, "extraordinary": [], "count": 0}
+{"A": -325, "B": 359, "extraordinary": [19, 89], "count": 2}
+{"A": -158, "B": 233, "extraordinary": [37, 61], "count": 2}
+{"A": -202, "B": 367, "extraordinary": [], "count": 0}
+{"A": 162, "B": -232, "extraordinary": [5], "count": 1}
+{"A": 64, "B": 265, "extraordinary": [], "count": 0}
+{"A": -167, "B": 146, "extraordinary": [], "count": 0}
+{"A": -71, "B": 262, "extraordinary": [5], "count": 1}
+{"A": 227, "B": 256, "extraordinary": [], "count": 0}
+{"A": -280, "B": 281, "extraordinary": [17, 107], "count": 2}
+{"A": 106, "B": -98, "extraordinary": [193], "count": 1}
+{"A": -292, "B": -112, "extraordinary": [5, 97], "count": 2}
+{"A": 239, "B": 83, "extraordinary": [], "count": 0}
+{"A": -257, "B": 354, "extraordinary": [83], "count": 1}
+{"A": -156, "B": 283, "extraordinary": [5, 7, 73], "count": 3}
+{"A": 249, "B": 6, "extraordinary": [], "count": 0}
+{"A": 100, "B": -115, "extraordinary": [11, 103], "count": 2}
+{"A": 90, "B": 315, "extraordinary": [11, 19], "count": 2}
+{"A": 316, "B": 162, "extraordinary": [], "count": 0}
+{"A": -25, "B": 264, "extraordinary": [], "count": 0}
+{"A": -16, "B": -2, "extraordinary": [17], "count": 1}
+{"A": 329, "B": -308, "extraordinary": [227], "count": 1}
+{"A": -359, "B": -7, "extraordinary": [193], "count": 1}
+{"A": 157, "B": -369, "extraordinary": [], "count": 0}
+{"A": -218, "B": 303, "extraordinary": [29], "count": 1}
+{"A": 41, "B": 193, "extraordinary": [], "count": 0}
+{"A": -225, "B": 14, "extraordinary": [], "count": 0}
+{"A": -207, "B": 199, "extraordinary": [19, 29], "count": 2}
+{"A": -396, "B": 316, "extraordinary": [101], "count": 1}
+{"A": 246, "B": 124, "extraordinary": [], "count": 0}
+{"A": -142, "B": 118, "extraordinary": [11], "count": 1}
+{"A": -337, "B": -369, "extraordinary": [], "count": 0}
+{"A": 169, "B": 24, "extraordinary": [], "count": 0}
+{"A": 234, "B": -118, "extraordinary": [7], "count": 1}
+{"A": 142, "B": -340, "extraordinary": [41, 127], "count": 2}
+{"A": -291, "B": 164, "extraordinary": [5], "count": 1}
+{"A": 327, "B": 373, "extraordinary": [], "count": 0}
+{"A": 118, "B": -89, "extraordinary": [127], "count": 1}
+{"A": 317, "B": -4, "extraordinary": [], "count": 0}
+{"A": -221, "B": 270, "extraordinary": [19], "count": 1}
+{"A": -358, "B": -23, "extraordinary": [5], "count": 1}
+{"A": 87, "B": -338, "extraordinary": [11], "count": 1}
+{"A": 385, "B": 82, "extraordinary": [], "count": 0}
+{"A": -121, "B": 267, "extraordinary": [], "count": 0}
+{"A": -210, "B": -235, "extraordinary": [167], "count": 1}
+{"A": -294, "B": 58, "extraordinary": [13, 31], "count": 2}
+{"A": -93, "B": -229, "extraordinary": [5, 127], "count": 2}
+{"A": -279, "B": 318, "extraordinary": [], "count": 0}
+{"A": -123, "B": 388, "extraordinary": [], "count": 0}
+{"A": -350, "B": 310, "extraordinary": [], "count": 0}
+{"A": -62, "B": -54, "extraordinary": [], "count": 0}
+{"A": 148, "B": 213, "extraordinary": [], "count": 0}
+{"A": 143, "B": -67, "extraordinary": [], "count": 0}
+{"A": -247, "B": 51, "extraordinary": [83, 89], "count": 2}
+{"A": -197, "B": 277, "extraordinary": [], "count": 0}
+{"A": 138, "B": 107, "extraordinary": [], "count": 0}
+{"A": -21, "B": -167, "extraordinary": [19], "count": 1}
+{"A": 140, "B": 48, "extraordinary": [17, 31], "count": 2}
+{"A": 322, "B": -158, "extraordinary": [37], "count": 1}
+{"A": 92, "B": 297, "extraordinary": [31, 67], "count": 2}
+{"A": 222, "B": 133, "extraordinary": [], "count": 0}
+{"A": -121, "B": -246, "extraordinary": [], "count": 0}
+{"A": -68, "B": 234, "extraordinary": [7, 67], "count": 2}
+{"A": 269, "B": -39, "extraordinary": [], "count": 0}
+{"A": 200, "B": 31, "extraordinary": [11, 17, 23], "count": 3}
+{"A": -202, "B": 274, "extraordinary": [59], "count": 1}
+{"A": 377, "B": 337, "extraordinary": [47], "count": 1}
+{"A": -116, "B": 326, "extraordinary": [], "count": 0}
+{"A": -262, "B": -291, "extraordinary": [17, 29, 149], "count": 3}
+{"A": -211, "B": -117, "extraordinary": [], "count": 0}
+{"A": 236, "B": -140, "extraordinary": [29], "count": 1}
+{"A": 89, "B": 181, "extraordinary": [], "count": 0}
+{"A": 122, "B": 103, "extraordinary": [5, 17], "count": 2}
+{"A": 234, "B": -237, "extraordinary": [], "count": 0}
+{"A": -390, "B": 247, "extraordinary": [], "count": 0}
+{"A": 286, "B": 224, "extraordinary": [5, 17], "count": 2}
+{"A": -311, "B": -180, "extraordinary": [], "count": 0}
+{"A": 147, "B": 352, "extraordinary": [], "count": 0}
+{"A": 81, "B": -395, "extraordinary": [11], "count": 1}
+{"A": 302, "B": -107, "extraordinary": [], "count": 0}
+{"A": 323, "B": 52, "extraordinary": [5], "count": 1}
+{"A": 24, "B": 377, "extraordinary": [5], "count": 1}
+{"A": 159, "B": -182, "extraordinary": [29, 47, 67], "count": 3}
+{"A": 314, "B": 306, "extraordinary": [], "count": 0}
+{"A": -294, "B": -395, "extraordinary": [], "count": 0}
+{"A": -148, "B": 269, "extraordinary": [7, 17, 197], "count": 3}
+{"A": 130, "B": 34, "extraordinary": [7, 19, 103], "count": 3}
+{"A": -211, "B": 87, "extraordinary": [7], "count": 1}
+{"A": 127, "B": 285, "extraordinary": [31], "count": 1}
+{"A": -340, "B": 220, "extraordinary": [13], "count": 1}
+{"A": 338, "B": -202, "extraordinary": [11], "count": 1}
+{"A": -82, "B": -166, "extraordinary": [5, 109], "count": 2}
+{"A": -130, "B": -204, "extraordinary": [], "count": 0}
+{"A": -267, "B": 29, "extraordinary": [], "count": 0}
+{"A": 367, "B": 232, "extraordinary": [113], "count": 1}
+{"A": 319, "B": 269, "extraordinary": [13, 37], "count": 2}
+{"A": -203, "B": -334, "extraordinary": [11, 13], "count": 2}
+{"A": -265, "B": 107, "extraordinary": [13, 29], "count": 2}
+{"A": -338, "B": -218, "extraordinary": [5], "count": 1}
+{"A": -76, "B": 135, "extraordinary": [], "count": 0}
+{"A": -8, "B": 54, "extraordinary": [193], "count": 1}
+{"A": 26, "B": 287, "extraordinary": [19, 71, 101, 197], "count": 4}
+{"A": 17, "B": 125, "extraordinary": [], "count": 0}
+{"A": 71, "B": -237, "extraordinary": [], "count": 0}
+{"A": 310, "B": -52, "extraordinary": [11, 17], "count": 2}
+{"A": 220, "B": 161, "extraordinary": [59], "count": 1}
+{"A": -13, "B": 389, "extraordinary": [], "count": 0}
+{"A": -380, "B": -389, "extraordinary": [7, 37, 41], "count": 3}
+{"A": -74, "B": -69, "extraordinary": [], "count": 0}
+{"A": 119, "B": -147, "extraordinary": [], "count": 0}
+{"A": -302, "B": 170, "extraordinary": [], "count": 0}
+{"A": -282, "B": 3, "extraordinary": [5, 7, 11], "count": 3}
+{"A": -276, "B": 314, "extraordinary": [193], "count": 1}
+{"A": 50, "B": 358, "extraordinary": [37, 73], "count": 2}
+{"A": 306, "B": -269, "extraordinary": [5], "count": 1}
+{"A": -40, "B": -275, "extraordinary": [13, 31], "count": 2}
+{"A": -265, "B": -94, "extraordinary": [], "count": 0}
+{"A": 85, "B": -132, "extraordinary": [], "count": 0}
+{"A": -296, "B": 287, "extraordinary": [5], "count": 1}
+{"A": -202, "B": -358, "extraordinary": [], "count": 0}
+{"A": -42, "B": 16, "extraordinary": [17, 29], "count": 2}
+{"A": -308, "B": 350, "extraordinary": [], "count": 0}
+{"A": 178, "B": 170, "extraordinary": [53], "count": 1}
+{"A": 366, "B": 338, "extraordinary": [], "count": 0}
+{"A": 85, "B": -62, "extraordinary": [13, 29], "count": 2}
+{"A": -246, "B": -354, "extraordinary": [109], "count": 1}
+{"A": 386, "B": -97, "extraordinary": [], "count": 0}
+{"A": 385, "B": 390, "extraordinary": [], "count": 0}
+{"A": -335, "B": 278, "extraordinary": [], "count": 0}
+{"A": 275, "B": -97, "extraordinary": [41, 47], "count": 2}
+{"A": 125, "B": 294, "extraordinary": [173], "count": 1}
+{"A": 68, "B": 98, "extraordinary": [], "count": 0}
+{"A": -165, "B": -307, "extraordinary": [], "count": 0}
+{"A": -9, "B": 251, "extraordinary": [], "count": 0}
+{"A": -227, "B": -8, "extraordinary": [], "count": 0}
+{"A": 162, "B": -295, "extraordinary": [], "count": 0}
+{"A": -238, "B": -390, "extraordinary": [107], "count": 1}
+{"A": 391, "B": -143, "extraordinary": [], "count": 0}
+{"A": 44, "B": 140, "extraordinary": [31], "count": 1}
+{"A": -282, "B": 382, "extraordinary": [17], "count": 1}
+{"A": -385, "B": 157, "extraordinary": [], "count": 0}
+{"A": -89, "B": 201, "extraordinary": [5], "count": 1}
+{"A": -205, "B": 269, "extraordinary": [], "count": 0}
+{"A": -393, "B": 300, "extraordinary": [11, 19], "count": 2}
+{"A": 66, "B": 388, "extraordinary": [179], "count": 1}
+{"A": 13, "B": -321, "extraordinary": [], "count": 0}
+{"A": -289, "B": 93, "extraordinary": [], "count": 0}
+{"A": -247, "B": 87, "extraordinary": [], "count": 0}
+{"A": -139, "B": -121, "extraordinary": [], "count": 0}
+{"A": -158, "B": 39, "extraordinary": [7], "count": 1}
+{"A": 90, "B": -119, "extraordinary": [31, 97], "count": 2}
+{"A": 174, "B": -160, "extraordinary": [], "count": 0}
+{"A": -118, "B": 226, "extraordinary": [], "count": 0}
+{"A": 155, "B": 388, "extraordinary": [7], "count": 1}
+{"A": -179, "B": 302, "extraordinary": [], "count": 0}
+{"A": 87, "B": -233, "extraordinary": [53], "count": 1}
+{"A": 110, "B": 310, "extraordinary": [17], "count": 1}
+{"A": -319, "B": -364, "extraordinary": [], "count": 0}
+{"A": 297, "B": -364, "extraordinary": [], "count": 0}
+{"A": -282, "B": 59, "extraordinary": [5, 73, 157], "count": 3}
+{"A": -314, "B": -364, "extraordinary": [], "count": 0}
+{"A": 18, "B": -337, "extraordinary": [], "count": 0}
+{"A": 217, "B": 112, "extraordinary": [], "count": 0}
+{"A": 68, "B": -288, "extraordinary": [37, 47], "count": 2}
+{"A": 379, "B": -74, "extraordinary": [7, 101], "count": 2}
+{"A": 278, "B": 243, "extraordinary": [5, 71], "count": 2}
+{"A": 306, "B": -343, "extraordinary": [19], "count": 1}
+{"A": -47, "B": 176, "extraordinary": [43], "count": 1}
+{"A": 298, "B": -336, "extraordinary": [11], "count": 1}
+{"A": -53, "B": 88, "extraordinary": [], "count": 0}
+{"A": 243, "B": -85, "extraordinary": [53], "count": 1}
+{"A": 115, "B": 165, "extraordinary": [], "count": 0}
+{"A": -155, "B": 36, "extraordinary": [7, 37, 89, 97], "count": 4}
+{"A": -225, "B": 189, "extraordinary": [], "count": 0}
+{"A": -300, "B": 135, "extraordinary": [7, 11, 73, 101], "count": 4}
+{"A": -384, "B": 381, "extraordinary": [], "count": 0}
+{"A": 196, "B": 293, "extraordinary": [19], "count": 1}
+{"A": 152, "B": 203, "extraordinary": [47, 101], "count": 2}
+{"A": 48, "B": 107, "extraordinary": [7, 13], "count": 2}
+{"A": -170, "B": -344, "extraordinary": [101], "count": 1}
+{"A": -278, "B": 213, "extraordinary": [29], "count": 1}
+{"A": -133, "B": -389, "extraordinary": [67], "count": 1}
+{"A": -254, "B": 14, "extraordinary": [], "count": 0}
+{"A": -340, "B": 328, "extraordinary": [71], "count": 1}
+{"A": -85, "B": 213, "extraordinary": [], "count": 0}
+{"A": -283, "B": -205, "extraordinary": [], "count": 0}
+{"A": -3, "B": 163, "extraordinary": [19], "count": 1}
+{"A": -243, "B": 268, "extraordinary": [], "count": 0}
+{"A": -246, "B": -119, "extraordinary": [5, 211], "count": 2}
+{"A": -383, "B": -58, "extraordinary": [], "count": 0}
+{"A": 323, "B": -249, "extraordinary": [11, 73], "count": 2}
+{"A": -161, "B": 33, "extraordinary": [19], "count": 1}
+{"A": 236, "B": -32, "extraordinary": [], "count": 0}
+{"A": 197, "B": -121, "extraordinary": [], "count": 0}
+{"A": -273, "B": 98, "extraordinary": [47], "count": 1}
+{"A": -141, "B": 121, "extraordinary": [], "count": 0}
+{"A": -246, "B": 50, "extraordinary": [7, 11, 17], "count": 3}
+{"A": 311, "B": -154, "extraordinary": [233], "count": 1}
+{"A": 366, "B": 278, "extraordinary": [179], "count": 1}
+{"A": -168, "B": -70, "extraordinary": [], "count": 0}
+{"A": -202, "B": -377, "extraordinary": [5], "count": 1}
+{"A": -356, "B": 23, "extraordinary": [109], "count": 1}
+{"A": 174, "B": -339, "extraordinary": [7], "count": 1}
+{"A": -116, "B": 380, "extraordinary": [211], "count": 1}
+{"A": 299, "B": 45, "extraordinary": [193], "count": 1}
+{"A": 44, "B": -272, "extraordinary": [19, 47], "count": 2}
+{"A": 112, "B": -109, "extraordinary": [], "count": 0}
+{"A": -200, "B": 315, "extraordinary": [], "count": 0}
+{"A": -190, "B": 89, "extraordinary": [], "count": 0}
+{"A": -388, "B": 347, "extraordinary": [], "count": 0}
+{"A": -103, "B": 248, "extraordinary": [], "count": 0}
+{"A": -324, "B": 55, "extraordinary": [], "count": 0}
+{"A": 136, "B": -174, "extraordinary": [5, 11], "count": 2}
+{"A": 66, "B": 11, "extraordinary": [], "count": 0}
+{"A": -232, "B": -251, "extraordinary": [11, 67], "count": 2}
+{"A": 253, "B": -319, "extraordinary": [], "count": 0}
+{"A": 78, "B": 365, "extraordinary": [41, 149], "count": 2}
+{"A": -151, "B": 349, "extraordinary": [5], "count": 1}
+{"A": -89, "B": 154, "extraordinary": [], "count": 0}
+{"A": -10, "B": 336, "extraordinary": [17, 211], "count": 2}
+{"A": 224, "B": 59, "extraordinary": [], "count": 0}
+{"A": -380, "B": 315, "extraordinary": [71], "count": 1}
+{"A": -26, "B": -269, "extraordinary": [], "count": 0}
+{"A": 190, "B": 4, "extraordinary": [], "count": 0}
+{"A": 184, "B": -148, "extraordinary": [29], "count": 1}
+{"A": -395, "B": 74, "extraordinary": [139], "count": 1}
+{"A": -67, "B": -393, "extraordinary": [7, 61], "count": 2}
+{"A": 62, "B": -352, "extraordinary": [17], "count": 1}
+{"A": 133, "B": 15, "extraordinary": [11], "count": 1}
+{"A": 228, "B": 338, "extraordinary": [7, 37], "count": 2}
+{"A": 54, "B": -262, "extraordinary": [5, 11], "count": 2}
+{"A": 40, "B": -378, "extraordinary": [61], "count": 1}
+{"A": 224, "B": 161, "extraordinary": [61], "count": 1}
+{"A": -198, "B": 400, "extraordinary": [181], "count": 1}
+{"A": 164, "B": -145, "extraordinary": [], "count": 0}
+{"A": -249, "B": 351, "extraordinary": [7], "count": 1}
+{"A": 284, "B": 107, "extraordinary": [11], "count": 1}
+{"A": 157, "B": 169, "extraordinary": [], "count": 0}
+{"A": -90, "B": -57, "extraordinary": [7], "count": 1}
+{"A": 181, "B": 140, "extraordinary": [], "count": 0}
+{"A": -196, "B": -256, "extraordinary": [5], "count": 1}
+{"A": 293, "B": 210, "extraordinary": [], "count": 0}
+{"A": 261, "B": 240, "extraordinary": [127], "count": 1}
+{"A": -382, "B": 306, "extraordinary": [7], "count": 1}
+{"A": -253, "B": 106, "extraordinary": [13], "count": 1}
+{"A": 98, "B": 10, "extraordinary": [], "count": 0}
+{"A": -5, "B": -228, "extraordinary": [], "count": 0}
+{"A": -156, "B": 27, "extraordinary": [7, 59], "count": 2}
+{"A": -231, "B": 93, "extraordinary": [41, 83], "count": 2}
+{"A": -265, "B": -221, "extraordinary": [], "count": 0}
+{"A": 263, "B": -141, "extraordinary": [], "count": 0}
+{"A": 262, "B": -200, "extraordinary": [], "count": 0}
+{"A": 4, "B": -55, "extraordinary": [53, 59, 113, 191], "count": 4}
+{"A": -132, "B": -82, "extraordinary": [53], "count": 1}
+{"A": -248, "B": -260, "extraordinary": [53], "count": 1}
+{"A": 278, "B": 342, "extraordinary": [], "count": 0}
+{"A": 224, "B": -152, "extraordinary": [5], "count": 1}
+{"A": 11, "B": 4, "extraordinary": [], "count": 0}
+{"A": 286, "B": -90, "extraordinary": [], "count": 0}
+{"A": -273, "B": -258, "extraordinary": [5, 19], "count": 2}
+{"A": -270, "B": 204, "extraordinary": [107], "count": 1}
+{"A": -323, "B": -85, "extraordinary": [], "count": 0}
+{"A": 235, "B": -167, "extraordinary": [163], "count": 1}
+{"A": 273, "B": -358, "extraordinary": [11], "count": 1}
+{"A": 166, "B": -367, "extraordinary": [7], "count": 1}
+{"A": -133, "B": 137, "extraordinary": [], "count": 0}
+{"A": -213, "B": 386, "extraordinary": [73], "count": 1}
+{"A": 111, "B": 318, "extraordinary": [11], "count": 1}
+{"A": 129, "B": -287, "extraordinary": [5], "count": 1}
+{"A": 388, "B": 263, "extraordinary": [67], "count": 1}
+{"A": -324, "B": -104, "extraordinary": [], "count": 0}
+{"A": 13, "B": 216, "extraordinary": [7, 227], "count": 2}
+{"A": -330, "B": 176, "extraordinary": [7, 71], "count": 2}
+{"A": -225, "B": 20, "extraordinary": [67], "count": 1}
+{"A": -38, "B": -141, "extraordinary": [], "count": 0}
+{"A": 106, "B": -27, "extraordinary": [29, 101], "count": 2}
+{"A": 239, "B": 195, "extraordinary": [127], "count": 1}
+{"A": -82, "B": -189, "extraordinary": [13], "count": 1}
+{"A": 13, "B": -199, "extraordinary": [5, 73], "count": 2}
+{"A": -11, "B": -30, "extraordinary": [23], "count": 1}
+{"A": 201, "B": -340, "extraordinary": [23, 43], "count": 2}
+{"A": -6, "B": -39, "extraordinary": [11, 53], "count": 2}
+{"A": 32, "B": 336, "extraordinary": [61], "count": 1}
+{"A": -284, "B": 360, "extraordinary": [7, 11, 17], "count": 3}
+{"A": 307, "B": -290, "extraordinary": [], "count": 0}
+{"A": 203, "B": -127, "extraordinary": [61], "count": 1}
+{"A": -282, "B": -7, "extraordinary": [11], "count": 1}
+{"A": -169, "B": -57, "extraordinary": [7], "count": 1}
+{"A": -195, "B": -68, "extraordinary": [], "count": 0}
+{"A": 35, "B": -203, "extraordinary": [], "count": 0}
+{"A": -313, "B": -187, "extraordinary": [7], "count": 1}
+{"A": 41, "B": 190, "extraordinary": [157], "count": 1}
+{"A": -270, "B": -315, "extraordinary": [13], "count": 1}
+{"A": 40, "B": 342, "extraordinary": [], "count": 0}
+{"A": -156, "B": 83, "extraordinary": [5], "count": 1}
+{"A": 281, "B": -315, "extraordinary": [], "count": 0}
+{"A": -376, "B": 100, "extraordinary": [17, 113], "count": 2}
+{"A": 277, "B": 369, "extraordinary": [], "count": 0}
+{"A": -235, "B": 18, "extraordinary": [23, 71], "count": 2}
+{"A": 164, "B": -302, "extraordinary": [17], "count": 1}
+{"A": 120, "B": 212, "extraordinary": [], "count": 0}
+{"A": -150, "B": -109, "extraordinary": [47, 53], "count": 2}
+{"A": -327, "B": 338, "extraordinary": [43], "count": 1}
+{"A": -175, "B": -236, "extraordinary": [13, 19, 41, 43], "count": 4}
+{"A": -250, "B": -90, "extraordinary": [7, 19, 211], "count": 3}
+{"A": 105, "B": -231, "extraordinary": [], "count": 0}
+{"A": 152, "B": 281, "extraordinary": [7], "count": 1}
+{"A": -236, "B": 236, "extraordinary": [], "count": 0}
+{"A": 225, "B": 211, "extraordinary": [7], "count": 1}
+{"A": -110, "B": -73, "extraordinary": [151, 157], "count": 2}
+{"A": 55, "B": -215, "extraordinary": [], "count": 0}
+{"A": 84, "B": -291, "extraordinary": [], "count": 0}
+{"A": -13, "B": 400, "extraordinary": [11], "count": 1}
+{"A": -155, "B": -280, "extraordinary": [], "count": 0}
+{"A": -113, "B": 73, "extraordinary": [37, 41], "count": 2}
+{"A": -173, "B": -323, "extraordinary": [7, 29, 97], "count": 3}
+{"A": 165, "B": -46, "extraordinary": [], "count": 0}
+{"A": -318, "B": 102, "extraordinary": [19], "count": 1}
+{"A": -115, "B": 219, "extraordinary": [], "count": 0}
+{"A": -300, "B": 238, "extraordinary": [13, 19], "count": 2}
+{"A": -28, "B": -253, "extraordinary": [5, 47], "count": 2}
+{"A": -71, "B": -31, "extraordinary": [5, 13], "count": 2}
+{"A": 86, "B": -87, "extraordinary": [5], "count": 1}
+{"A": 134, "B": -144, "extraordinary": [], "count": 0}
+{"A": -275, "B": 400, "extraordinary": [], "count": 0}
+{"A": -278, "B": 192, "extraordinary": [], "count": 0}
+{"A": -69, "B": -107, "extraordinary": [], "count": 0}
+{"A": -335, "B": 108, "extraordinary": [], "count": 0}
+{"A": 264, "B": 282, "extraordinary": [5, 13], "count": 2}
+{"A": -174, "B": -212, "extraordinary": [43], "count": 1}
+{"A": 171, "B": 87, "extraordinary": [7, 23, 197], "count": 3}
+{"A": 367, "B": -123, "extraordinary": [5], "count": 1}
+{"A": 91, "B": -3, "extraordinary": [], "count": 0}
+{"A": -223, "B": -12, "extraordinary": [13, 53], "count": 2}
+{"A": -272, "B": -142, "extraordinary": [], "count": 0}
+{"A": 315, "B": -298, "extraordinary": [], "count": 0}
+{"A": -5, "B": -292, "extraordinary": [], "count": 0}
+{"A": -357, "B": -83, "extraordinary": [47, 59], "count": 2}
+{"A": 182, "B": 102, "extraordinary": [23], "count": 1}
+{"A": -188, "B": -396, "extraordinary": [7], "count": 1}
+{"A": -313, "B": 211, "extraordinary": [], "count": 0}
+{"A": 63, "B": -346, "extraordinary": [], "count": 0}
+{"A": -257, "B": 319, "extraordinary": [181], "count": 1}
+{"A": -265, "B": -327, "extraordinary": [11], "count": 1}
+{"A": 291, "B": -247, "extraordinary": [29], "count": 1}
+{"A": -216, "B": -233, "extraordinary": [47], "count": 1}
+{"A": -82, "B": 10, "extraordinary": [37, 241], "count": 2}
+{"A": 390, "B": 322, "extraordinary": [53, 109], "count": 2}
+{"A": -249, "B": 130, "extraordinary": [11], "count": 1}
+{"A": 335, "B": 297, "extraordinary": [], "count": 0}
+{"A": -245, "B": 365, "extraordinary": [17, 19, 181], "count": 3}
+{"A": -334, "B": -364, "extraordinary": [], "count": 0}
+{"A": -255, "B": 60, "extraordinary": [101], "count": 1}
+{"A": -373, "B": 201, "extraordinary": [], "count": 0}
+{"A": -126, "B": -271, "extraordinary": [37, 149], "count": 2}
+{"A": -230, "B": 219, "extraordinary": [], "count": 0}
+{"A": 248, "B": 364, "extraordinary": [], "count": 0}
+{"A": 164, "B": -301, "extraordinary": [173], "count": 1}
+{"A": -243, "B": -35, "extraordinary": [53], "count": 1}
+{"A": -185, "B": -327, "extraordinary": [7, 19, 43], "count": 3}
+{"A": -318, "B": -258, "extraordinary": [197], "count": 1}
+{"A": 92, "B": 311, "extraordinary": [], "count": 0}
+{"A": 114, "B": 198, "extraordinary": [], "count": 0}
+{"A": 25, "B": 308, "extraordinary": [], "count": 0}
+{"A": -12, "B": 303, "extraordinary": [], "count": 0}
+{"A": -50, "B": 122, "extraordinary": [7, 13], "count": 2}
+{"A": -167, "B": -4, "extraordinary": [29], "count": 1}
+{"A": 339, "B": 79, "extraordinary": [], "count": 0}
+{"A": 242, "B": 187, "extraordinary": [], "count": 0}
+{"A": -87, "B": 385, "extraordinary": [113], "count": 1}
+{"A": 118, "B": 320, "extraordinary": [], "count": 0}
+{"A": -24, "B": 257, "extraordinary": [5, 37, 223], "count": 3}
+{"A": 346, "B": 295, "extraordinary": [13], "count": 1}
+{"A": 69, "B": -85, "extraordinary": [], "count": 0}
+{"A": -320, "B": 68, "extraordinary": [107, 157], "count": 2}
+{"A": -329, "B": 321, "extraordinary": [11], "count": 1}
+{"A": -124, "B": 160, "extraordinary": [], "count": 0}
+{"A": 20, "B": 110, "extraordinary": [37, 43], "count": 2}
+{"A": 105, "B": -85, "extraordinary": [179], "count": 1}
+{"A": -272, "B": 398, "extraordinary": [11], "count": 1}
+{"A": 51, "B": -214, "extraordinary": [5, 53], "count": 2}
+{"A": -399, "B": -195, "extraordinary": [53, 163], "count": 2}
+{"A": -18, "B": -174, "extraordinary": [31], "count": 1}
+{"A": -369, "B": 343, "extraordinary": [], "count": 0}
+{"A": 298, "B": 40, "extraordinary": [59], "count": 1}
+{"A": 281, "B": -368, "extraordinary": [7, 131], "count": 2}
+{"A": -257, "B": 248, "extraordinary": [17], "count": 1}
+{"A": -189, "B": 172, "extraordinary": [], "count": 0}
+{"A": -290, "B": -298, "extraordinary": [17, 19], "count": 2}
+{"A": 313, "B": -162, "extraordinary": [], "count": 0}
+{"A": 24, "B": 293, "extraordinary": [67, 127], "count": 2}
+{"A": -281, "B": 181, "extraordinary": [29], "count": 1}
+{"A": 27, "B": -64, "extraordinary": [5, 17, 19], "count": 3}
+{"A": 237, "B": 369, "extraordinary": [5], "count": 1}
+{"A": -235, "B": 49, "extraordinary": [41], "count": 1}
+{"A": -356, "B": 261, "extraordinary": [7, 179], "count": 2}
+{"A": -356, "B": -228, "extraordinary": [], "count": 0}
+{"A": -292, "B": 362, "extraordinary": [5, 23, 31], "count": 3}
+{"A": -248, "B": -71, "extraordinary": [73], "count": 1}
+{"A": -204, "B": 109, "extraordinary": [5], "count": 1}
+{"A": 305, "B": -83, "extraordinary": [239], "count": 1}
+{"A": 356, "B": 327, "extraordinary": [7, 103, 163], "count": 3}
+{"A": 4, "B": -278, "extraordinary": [], "count": 0}
+{"A": -110, "B": 385, "extraordinary": [13], "count": 1}
+{"A": 94, "B": -71, "extraordinary": [5], "count": 1}
+{"A": -71, "B": -293, "extraordinary": [], "count": 0}
+{"A": -317, "B": 72, "extraordinary": [7], "count": 1}
+{"A": -252, "B": -331, "extraordinary": [5], "count": 1}
+{"A": -22, "B": -253, "extraordinary": [7, 17], "count": 2}
+{"A": 143, "B": 135, "extraordinary": [53, 103], "count": 2}
+{"A": 210, "B": 266, "extraordinary": [], "count": 0}
+{"A": 183, "B": -229, "extraordinary": [7, 73], "count": 2}
+{"A": 130, "B": -290, "extraordinary": [], "count": 0}
+{"A": -83, "B": -140, "extraordinary": [61, 179], "count": 2}
+{"A": 67, "B": 312, "extraordinary": [], "count": 0}
+{"A": -350, "B": -171, "extraordinary": [211], "count": 1}
+{"A": -176, "B": -18, "extraordinary": [19], "count": 1}
+{"A": -148, "B": 192, "extraordinary": [5, 43], "count": 2}
+{"A": 279, "B": 39, "extraordinary": [41], "count": 1}
+{"A": -224, "B": 27, "extraordinary": [], "count": 0}
+{"A": 388, "B": 156, "extraordinary": [41, 179], "count": 2}
+{"A": -236, "B": -243, "extraordinary": [5, 7], "count": 2}
+{"A": 262, "B": -206, "extraordinary": [5], "count": 1}
+{"A": 166, "B": -270, "extraordinary": [7, 37, 61], "count": 3}
+{"A": -140, "B": -132, "extraordinary": [31], "count": 1}
+{"A": -199, "B": 233, "extraordinary": [41], "count": 1}
+{"A": 85, "B": 393, "extraordinary": [7, 43], "count": 2}
+{"A": -384, "B": 184, "extraordinary": [], "count": 0}
+{"A": -125, "B": -159, "extraordinary": [31, 103], "count": 2}
+{"A": 379, "B": 264, "extraordinary": [71], "count": 1}
+{"A": 325, "B": 177, "extraordinary": [17], "count": 1}
+{"A": 122, "B": 278, "extraordinary": [5], "count": 1}
+{"A": -376, "B": -17, "extraordinary": [83], "count": 1}
+{"A": -386, "B": -87, "extraordinary": [], "count": 0}
+{"A": 15, "B": -226, "extraordinary": [], "count": 0}
+{"A": -83, "B": -229, "extraordinary": [37], "count": 1}
+{"A": -389, "B": -258, "extraordinary": [7], "count": 1}
+{"A": -367, "B": -397, "extraordinary": [], "count": 0}
+{"A": -220, "B": 144, "extraordinary": [7, 19, 113], "count": 3}
+{"A": 110, "B": 125, "extraordinary": [23, 89], "count": 2}
+{"A": -339, "B": 388, "extraordinary": [5], "count": 1}
+{"A": -31, "B": 28, "extraordinary": [], "count": 0}
+{"A": 365, "B": -294, "extraordinary": [], "count": 0}
+{"A": -284, "B": -345, "extraordinary": [127], "count": 1}
+{"A": 338, "B": -278, "extraordinary": [83, 113], "count": 2}
+{"A": -185, "B": -143, "extraordinary": [], "count": 0}
+{"A": 176, "B": 246, "extraordinary": [], "count": 0}
+{"A": 162, "B": -60, "extraordinary": [], "count": 0}
+{"A": -18, "B": 193, "extraordinary": [], "count": 0}
+{"A": 48, "B": 196, "extraordinary": [], "count": 0}
+{"A": -331, "B": -29, "extraordinary": [5, 83], "count": 2}
+{"A": 374, "B": -325, "extraordinary": [], "count": 0}
+{"A": 398, "B": 44, "extraordinary": [5, 89], "count": 2}
+{"A": -352, "B": 205, "extraordinary": [], "count": 0}
+{"A": -302, "B": 253, "extraordinary": [], "count": 0}
+{"A": 258, "B": -279, "extraordinary": [13], "count": 1}
+{"A": 147, "B": 91, "extraordinary": [], "count": 0}
+{"A": 205, "B": 272, "extraordinary": [79], "count": 1}
+{"A": 389, "B": -63, "extraordinary": [43], "count": 1}
+{"A": -224, "B": -349, "extraordinary": [29], "count": 1}
+{"A": 371, "B": -295, "extraordinary": [], "count": 0}
+{"A": -65, "B": -324, "extraordinary": [83], "count": 1}
+{"A": 385, "B": -213, "extraordinary": [13], "count": 1}
+{"A": 75, "B": 46, "extraordinary": [113], "count": 1}
+{"A": 349, "B": -180, "extraordinary": [11], "count": 1}
+{"A": 243, "B": 273, "extraordinary": [41], "count": 1}
+{"A": -18, "B": 242, "extraordinary": [113], "count": 1}
+{"A": 100, "B": 364, "extraordinary": [], "count": 0}
+{"A": 90, "B": 101, "extraordinary": [19, 31, 227], "count": 3}
+{"A": 6, "B": 53, "extraordinary": [5, 13, 23], "count": 3}
+{"A": 287, "B": 49, "extraordinary": [], "count": 0}
+{"A": 326, "B": -192, "extraordinary": [], "count": 0}
+{"A": 170, "B": 226, "extraordinary": [], "count": 0}
+{"A": -228, "B": -237, "extraordinary": [197], "count": 1}
+{"A": 247, "B": 165, "extraordinary": [], "count": 0}
+{"A": -244, "B": -70, "extraordinary": [], "count": 0}
+{"A": 139, "B": -234, "extraordinary": [5, 19], "count": 2}
+{"A": -217, "B": 261, "extraordinary": [5], "count": 1}
+{"A": -114, "B": -93, "extraordinary": [], "count": 0}
+{"A": 61, "B": 202, "extraordinary": [7, 19, 97], "count": 3}
+{"A": -96, "B": -34, "extraordinary": [], "count": 0}
+{"A": 248, "B": 244, "extraordinary": [5], "count": 1}
+{"A": -222, "B": 4, "extraordinary": [5], "count": 1}
+{"A": -118, "B": -158, "extraordinary": [], "count": 0}
+{"A": -245, "B": 256, "extraordinary": [], "count": 0}
+{"A": 300, "B": 61, "extraordinary": [7, 11, 67, 113], "count": 4}
+{"A": 305, "B": -113, "extraordinary": [], "count": 0}
+{"A": 36, "B": 74, "extraordinary": [5, 7, 73], "count": 3}
+{"A": -14, "B": 323, "extraordinary": [], "count": 0}
+{"A": -81, "B": 68, "extraordinary": [11], "count": 1}
+{"A": -227, "B": -35, "extraordinary": [], "count": 0}
+{"A": -236, "B": 91, "extraordinary": [5], "count": 1}
+{"A": 135, "B": 236, "extraordinary": [19], "count": 1}
+{"A": 227, "B": 165, "extraordinary": [], "count": 0}
+{"A": -283, "B": -276, "extraordinary": [], "count": 0}
+{"A": 322, "B": 170, "extraordinary": [], "count": 0}
+{"A": -321, "B": 231, "extraordinary": [5], "count": 1}
+{"A": 63, "B": 333, "extraordinary": [5, 83], "count": 2}
+{"A": 19, "B": 225, "extraordinary": [199], "count": 1}
+{"A": 180, "B": -175, "extraordinary": [], "count": 0}
+{"A": -358, "B": 152, "extraordinary": [5], "count": 1}
+{"A": -182, "B": -132, "extraordinary": [17], "count": 1}
+{"A": 270, "B": 284, "extraordinary": [47], "count": 1}
+{"A": 311, "B": -386, "extraordinary": [7, 13], "count": 2}
+{"A": 110, "B": 70, "extraordinary": [73], "count": 1}
+{"A": -164, "B": 313, "extraordinary": [5, 11, 73, 103], "count": 4}
+{"A": -51, "B": 367, "extraordinary": [13], "count": 1}
+{"A": 242, "B": -373, "extraordinary": [5, 7, 13, 47], "count": 4}
+{"A": -5, "B": -304, "extraordinary": [], "count": 0}
+{"A": 348, "B": -106, "extraordinary": [5, 23], "count": 2}
+{"A": 395, "B": -196, "extraordinary": [11, 13], "count": 2}
+{"A": 194, "B": 317, "extraordinary": [5], "count": 1}
+{"A": 288, "B": -232, "extraordinary": [7, 101], "count": 2}
+{"A": 99, "B": 85, "extraordinary": [], "count": 0}
+{"A": 47, "B": -267, "extraordinary": [], "count": 0}
+{"A": -195, "B": 247, "extraordinary": [], "count": 0}
+{"A": 245, "B": -121, "extraordinary": [], "count": 0}
+{"A": 272, "B": 266, "extraordinary": [37], "count": 1}
+{"A": -75, "B": 286, "extraordinary": [], "count": 0}
+{"A": 397, "B": 20, "extraordinary": [173], "count": 1}
+{"A": 187, "B": -316, "extraordinary": [7], "count": 1}
+{"A": 333, "B": 21, "extraordinary": [], "count": 0}
+{"A": -162, "B": 186, "extraordinary": [], "count": 0}
+{"A": 39, "B": -284, "extraordinary": [5, 151], "count": 2}
+{"A": 230, "B": -263, "extraordinary": [43, 139], "count": 2}
+{"A": 214, "B": -239, "extraordinary": [], "count": 0}
+{"A": 261, "B": 94, "extraordinary": [23], "count": 1}
+{"A": 336, "B": 32, "extraordinary": [191], "count": 1}
+{"A": -192, "B": -288, "extraordinary": [5, 13, 167], "count": 3}
+{"A": -187, "B": -33, "extraordinary": [5], "count": 1}
+{"A": 349, "B": 311, "extraordinary": [7, 11], "count": 2}
+{"A": -198, "B": 76, "extraordinary": [67, 181], "count": 2}
+{"A": -100, "B": 390, "extraordinary": [109], "count": 1}
+{"A": -45, "B": 323, "extraordinary": [7], "count": 1}
+{"A": 23, "B": 291, "extraordinary": [], "count": 0}
+{"A": -172, "B": -10, "extraordinary": [13], "count": 1}
+{"A": -199, "B": -316, "extraordinary": [], "count": 0}
+{"A": 219, "B": -326, "extraordinary": [], "count": 0}
+{"A": 296, "B": 137, "extraordinary": [79], "count": 1}
+{"A": 268, "B": -293, "extraordinary": [157], "count": 1}
+{"A": -394, "B": 245, "extraordinary": [13, 71], "count": 2}
+{"A": 68, "B": -339, "extraordinary": [], "count": 0}
+{"A": -140, "B": 330, "extraordinary": [], "count": 0}
+{"A": 394, "B": 68, "extraordinary": [], "count": 0}
+{"A": 321, "B": 390, "extraordinary": [67, 83], "count": 2}
+{"A": -38, "B": -36, "extraordinary": [11], "count": 1}
+{"A": 214, "B": -396, "extraordinary": [17, 67], "count": 2}
+{"A": -302, "B": -83, "extraordinary": [], "count": 0}
+{"A": -102, "B": -38, "extraordinary": [13], "count": 1}
+{"A": 182, "B": 33, "extraordinary": [], "count": 0}
+{"A": 206, "B": 232, "extraordinary": [], "count": 0}
+{"A": -126, "B": -380, "extraordinary": [], "count": 0}
+{"A": -113, "B": -104, "extraordinary": [29], "count": 1}
+{"A": 368, "B": 245, "extraordinary": [], "count": 0}
+{"A": 396, "B": 394, "extraordinary": [17], "count": 1}
+{"A": 57, "B": -53, "extraordinary": [7, 17, 37, 67, 137], "count": 5}
+{"A": 368, "B": 132, "extraordinary": [], "count": 0}
+{"A": -95, "B": 132, "extraordinary": [], "count": 0}
+{"A": 133, "B": 293, "extraordinary": [13], "count": 1}
+{"A": 307, "B": 297, "extraordinary": [], "count": 0}
+{"A": 293, "B": -11, "extraordinary": [101], "count": 1}
+{"A": -152, "B": -354, "extraordinary": [13, 43, 89], "count": 3}
+{"A": -257, "B": 159, "extraordinary": [5, 61], "count": 2}
+{"A": -354, "B": -252, "extraordinary": [], "count": 0}
+{"A": -44, "B": -49, "extraordinary": [59], "count": 1}
+{"A": 76, "B": 80, "extraordinary": [], "count": 0}
+{"A": 289, "B": -127, "extraordinary": [], "count": 0}
+{"A": 344, "B": -302, "extraordinary": [79], "count": 1}
+{"A": -2, "B": 33, "extraordinary": [7], "count": 1}
+{"A": -49, "B": -345, "extraordinary": [47], "count": 1}
+{"A": 138, "B": 310, "extraordinary": [], "count": 0}
+{"A": 189, "B": 106, "extraordinary": [17, 103], "count": 2}
+{"A": -87, "B": -356, "extraordinary": [31], "count": 1}
+{"A": 139, "B": -178, "extraordinary": [7], "count": 1}
+{"A": 42, "B": -271, "extraordinary": [17], "count": 1}
+{"A": -51, "B": 47, "extraordinary": [], "count": 0}
+{"A": 253, "B": 373, "extraordinary": [7], "count": 1}
+{"A": -52, "B": -353, "extraordinary": [131], "count": 1}
+{"A": -297, "B": 323, "extraordinary": [23, 37, 193], "count": 3}
+{"A": -334, "B": 202, "extraordinary": [5, 7], "count": 2}
+{"A": 270, "B": -377, "extraordinary": [], "count": 0}
+{"A": -334, "B": 382, "extraordinary": [], "count": 0}
+{"A": -329, "B": 11, "extraordinary": [], "count": 0}
+{"A": -139, "B": 310, "extraordinary": [13, 101], "count": 2}
+{"A": -238, "B": -105, "extraordinary": [41], "count": 1}
+{"A": -56, "B": -220, "extraordinary": [149], "count": 1}
+{"A": 75, "B": 328, "extraordinary": [89], "count": 1}
+{"A": -330, "B": -249, "extraordinary": [], "count": 0}
+{"A": -326, "B": 277, "extraordinary": [5, 167], "count": 2}
+{"A": 22, "B": -365, "extraordinary": [], "count": 0}
+{"A": -313, "B": 273, "extraordinary": [], "count": 0}
+{"A": 110, "B": 53, "extraordinary": [], "count": 0}
+{"A": -69, "B": 202, "extraordinary": [], "count": 0}
+{"A": 175, "B": -106, "extraordinary": [], "count": 0}
+{"A": 336, "B": -172, "extraordinary": [], "count": 0}
+{"A": -308, "B": -385, "extraordinary": [], "count": 0}
+{"A": -65, "B": 98, "extraordinary": [11], "count": 1}
+{"A": 23, "B": -203, "extraordinary": [11], "count": 1}
+{"A": 248, "B": -37, "extraordinary": [], "count": 0}
+{"A": 351, "B": -239, "extraordinary": [5], "count": 1}
+{"A": 305, "B": -341, "extraordinary": [73], "count": 1}
+{"A": -351, "B": 109, "extraordinary": [], "count": 0}
+{"A": -67, "B": -299, "extraordinary": [61, 79], "count": 2}
+{"A": 53, "B": 14, "extraordinary": [], "count": 0}
+{"A": 82, "B": -314, "extraordinary": [], "count": 0}
+{"A": -50, "B": 192, "extraordinary": [], "count": 0}
+{"A": -309, "B": -340, "extraordinary": [13], "count": 1}
+{"A": -358, "B": -148, "extraordinary": [5], "count": 1}
+{"A": 267, "B": -325, "extraordinary": [11, 17], "count": 2}
+{"A": 238, "B": -344, "extraordinary": [], "count": 0}
+{"A": -162, "B": -137, "extraordinary": [], "count": 0}
+{"A": -361, "B": 394, "extraordinary": [31], "count": 1}
+{"A": -186, "B": -60, "extraordinary": [17], "count": 1}
+{"A": -399, "B": -63, "extraordinary": [17, 31, 43, 61], "count": 4}
+{"A": -234, "B": 264, "extraordinary": [41, 163], "count": 2}
+{"A": 257, "B": 242, "extraordinary": [7, 23, 59, 73], "count": 4}
+{"A": 54, "B": 315, "extraordinary": [11], "count": 1}
+{"A": 312, "B": 270, "extraordinary": [], "count": 0}
+{"A": 273, "B": -7, "extraordinary": [], "count": 0}
+{"A": -335, "B": 98, "extraordinary": [], "count": 0}
+{"A": 143, "B": -267, "extraordinary": [19], "count": 1}
+{"A": -5, "B": 23, "extraordinary": [17], "count": 1}
+{"A": -153, "B": -38, "extraordinary": [], "count": 0}
+{"A": -193, "B": -151, "extraordinary": [19, 47, 71], "count": 3}
+{"A": 380, "B": 52, "extraordinary": [17], "count": 1}
+{"A": 88, "B": -310, "extraordinary": [61], "count": 1}
+{"A": -201, "B": -131, "extraordinary": [], "count": 0}
+{"A": -144, "B": 340, "extraordinary": [11], "count": 1}
+{"A": -369, "B": 161, "extraordinary": [13, 127], "count": 2}
+{"A": -312, "B": -321, "extraordinary": [83, 89], "count": 2}
+{"A": -237, "B": 1, "extraordinary": [5], "count": 1}
+{"A": 197, "B": -343, "extraordinary": [23], "count": 1}
+{"A": 137, "B": 15, "extraordinary": [], "count": 0}
+{"A": -345, "B": -132, "extraordinary": [], "count": 0}
+{"A": 58, "B": -325, "extraordinary": [], "count": 0}
+{"A": -245, "B": -399, "extraordinary": [], "count": 0}
+{"A": 244, "B": -69, "extraordinary": [149], "count": 1}
+{"A": 116, "B": -397, "extraordinary": [23], "count": 1}
+{"A": -332, "B": -102, "extraordinary": [37], "count": 1}
+{"A": -245, "B": 349, "extraordinary": [], "count": 0}
+{"A": -126, "B": -304, "extraordinary": [17, 233], "count": 2}
+{"A": -355, "B": 364, "extraordinary": [17], "count": 1}
+{"A": -209, "B": 223, "extraordinary": [5, 43], "count": 2}
+{"A": 297, "B": 174, "extraordinary": [5, 193], "count": 2}
+{"A": -127, "B": 145, "extraordinary": [179], "count": 1}
+{"A": 142, "B": 347, "extraordinary": [7, 11, 233], "count": 3}
+{"A": -193, "B": 275, "extraordinary": [7, 43], "count": 2}
+{"A": 10, "B": 35, "extraordinary": [127], "count": 1}
+{"A": 96, "B": 231, "extraordinary": [31], "count": 1}
+{"A": -284, "B": -74, "extraordinary": [], "count": 0}
+{"A": 355, "B": 387, "extraordinary": [7, 19], "count": 2}
+{"A": -294, "B": 329, "extraordinary": [], "count": 0}
+{"A": -342, "B": -66, "extraordinary": [], "count": 0}
+{"A": -389, "B": -391, "extraordinary": [], "count": 0}
+{"A": -258, "B": -227, "extraordinary": [5, 17], "count": 2}
+{"A": 256, "B": -127, "extraordinary": [13, 71], "count": 2}
+{"A": -23, "B": 377, "extraordinary": [], "count": 0}
+{"A": 286, "B": 173, "extraordinary": [19], "count": 1}
+{"A": 305, "B": 188, "extraordinary": [11], "count": 1}
+{"A": -129, "B": -11, "extraordinary": [7], "count": 1}
+{"A": -53, "B": 205, "extraordinary": [17, 47], "count": 2}
+{"A": -276, "B": 11, "extraordinary": [7, 29, 199], "count": 3}
+{"A": 261, "B": 17, "extraordinary": [], "count": 0}
+{"A": 153, "B": 149, "extraordinary": [71], "count": 1}
+{"A": 56, "B": -274, "extraordinary": [], "count": 0}
+{"A": -288, "B": 333, "extraordinary": [11], "count": 1}
+{"A": -34, "B": -307, "extraordinary": [13, 23, 157], "count": 3}
+{"A": -204, "B": 38, "extraordinary": [163], "count": 1}
+{"A": -381, "B": 235, "extraordinary": [], "count": 0}
+{"A": 80, "B": -82, "extraordinary": [], "count": 0}
+{"A": 268, "B": -30, "extraordinary": [107], "count": 1}
+{"A": -63, "B": -351, "extraordinary": [37, 193], "count": 2}
+{"A": -248, "B": -316, "extraordinary": [], "count": 0}
+{"A": -371, "B": -394, "extraordinary": [5, 17, 31, 83], "count": 4}
+{"A": -328, "B": 221, "extraordinary": [], "count": 0}
+{"A": 303, "B": 48, "extraordinary": [], "count": 0}
+{"A": -93, "B": -91, "extraordinary": [71, 97], "count": 2}
+{"A": -274, "B": -398, "extraordinary": [7], "count": 1}
+{"A": -259, "B": 275, "extraordinary": [], "count": 0}
+{"A": -274, "B": -333, "extraordinary": [31], "count": 1}
+{"A": 270, "B": -5, "extraordinary": [], "count": 0}
+{"A": 177, "B": -102, "extraordinary": [], "count": 0}
+{"A": -72, "B": -343, "extraordinary": [5, 11], "count": 2}
+{"A": -361, "B": -122, "extraordinary": [7, 13, 79], "count": 3}
+{"A": 194, "B": 178, "extraordinary": [], "count": 0}
+{"A": -278, "B": 179, "extraordinary": [], "count": 0}
+{"A": -139, "B": -144, "extraordinary": [53], "count": 1}
+{"A": 197, "B": -385, "extraordinary": [31, 131], "count": 2}
+{"A": 68, "B": -309, "extraordinary": [5, 37, 53], "count": 3}
+{"A": -174, "B": -128, "extraordinary": [], "count": 0}
+{"A": -289, "B": 188, "extraordinary": [5, 29], "count": 2}
+{"A": -196, "B": -229, "extraordinary": [149], "count": 1}
+{"A": -191, "B": 330, "extraordinary": [7, 107], "count": 2}
+{"A": -135, "B": -168, "extraordinary": [], "count": 0}
+{"A": -208, "B": -76, "extraordinary": [233], "count": 1}
+{"A": -75, "B": -140, "extraordinary": [197], "count": 1}
+{"A": 64, "B": -59, "extraordinary": [5], "count": 1}
+{"A": 194, "B": -173, "extraordinary": [11], "count": 1}
+{"A": 336, "B": 204, "extraordinary": [11, 67], "count": 2}
+{"A": -328, "B": -331, "extraordinary": [], "count": 0}
+{"A": 390, "B": -76, "extraordinary": [], "count": 0}
+{"A": 378, "B": -134, "extraordinary": [197], "count": 1}
+{"A": 69, "B": 323, "extraordinary": [13], "count": 1}
+{"A": 176, "B": -80, "extraordinary": [163], "count": 1}
+{"A": 207, "B": -271, "extraordinary": [5, 61], "count": 2}
+{"A": 183, "B": 392, "extraordinary": [], "count": 0}
+{"A": 348, "B": -3, "extraordinary": [67, 197], "count": 2}
+{"A": 8, "B": -142, "extraordinary": [], "count": 0}
+{"A": 372, "B": -284, "extraordinary": [], "count": 0}
+{"A": 106, "B": -81, "extraordinary": [5, 11], "count": 2}
+{"A": 169, "B": 84, "extraordinary": [], "count": 0}
+{"A": -182, "B": -149, "extraordinary": [], "count": 0}
+{"A": -221, "B": -28, "extraordinary": [], "count": 0}
+{"A": 109, "B": -78, "extraordinary": [5], "count": 1}
+{"A": 132, "B": 312, "extraordinary": [5], "count": 1}
+{"A": -125, "B": -274, "extraordinary": [7, 17], "count": 2}
+{"A": -361, "B": 27, "extraordinary": [73], "count": 1}
+{"A": 225, "B": 180, "extraordinary": [], "count": 0}
+{"A": 278, "B": -145, "extraordinary": [], "count": 0}
+{"A": -282, "B": 117, "extraordinary": [43], "count": 1}
+{"A": 189, "B": -99, "extraordinary": [41], "count": 1}
+{"A": -11, "B": -371, "extraordinary": [], "count": 0}
+{"A": -124, "B": -112, "extraordinary": [], "count": 0}
+{"A": 3, "B": -128, "extraordinary": [7], "count": 1}
+{"A": 156, "B": 191, "extraordinary": [31], "count": 1}
+{"A": -200, "B": -390, "extraordinary": [], "count": 0}
+{"A": 357, "B": 337, "extraordinary": [5, 19], "count": 2}
+{"A": 273, "B": -35, "extraordinary": [], "count": 0}
+{"A": 25, "B": 313, "extraordinary": [131], "count": 1}
+{"A": 37, "B": -222, "extraordinary": [], "count": 0}
+{"A": 136, "B": -7, "extraordinary": [13], "count": 1}
+{"A": -8, "B": -351, "extraordinary": [17, 83], "count": 2}
+{"A": 267, "B": -288, "extraordinary": [], "count": 0}
+{"A": 193, "B": -128, "extraordinary": [5, 7], "count": 2}
+{"A": -69, "B": -16, "extraordinary": [53], "count": 1}
+{"A": -175, "B": -36, "extraordinary": [11, 13], "count": 2}
+{"A": 15, "B": 355, "extraordinary": [109], "count": 1}
+{"A": 300, "B": 127, "extraordinary": [], "count": 0}
+{"A": 53, "B": -121, "extraordinary": [5, 7], "count": 2}
+{"A": -115, "B": 40, "extraordinary": [], "count": 0}
+{"A": -373, "B": 264, "extraordinary": [5], "count": 1}
+{"A": -177, "B": -121, "extraordinary": [113, 197], "count": 2}
+{"A": 9, "B": -78, "extraordinary": [5], "count": 1}
+{"A": 218, "B": 393, "extraordinary": [], "count": 0}
+{"A": -164, "B": 231, "extraordinary": [23, 29], "count": 2}
+{"A": 12, "B": 320, "extraordinary": [11], "count": 1}
+{"A": 334, "B": 112, "extraordinary": [], "count": 0}
+{"A": -39, "B": -111, "extraordinary": [], "count": 0}
+{"A": -353, "B": -344, "extraordinary": [17], "count": 1}
+{"A": 372, "B": -200, "extraordinary": [127, 173], "count": 2}
+{"A": -21, "B": -136, "extraordinary": [], "count": 0}
+{"A": 314, "B": -30, "extraordinary": [31], "count": 1}
+{"A": 76, "B": 390, "extraordinary": [11, 79], "count": 2}
+{"A": -101, "B": -278, "extraordinary": [], "count": 0}
+{"A": -21, "B": -325, "extraordinary": [137], "count": 1}
+{"A": -38, "B": 136, "extraordinary": [11, 59], "count": 2}
+{"A": -282, "B": -368, "extraordinary": [17], "count": 1}
+{"A": -348, "B": -393, "extraordinary": [], "count": 0}
+{"A": 242, "B": 312, "extraordinary": [], "count": 0}
+{"A": 148, "B": 270, "extraordinary": [], "count": 0}
+{"A": -324, "B": -353, "extraordinary": [29], "count": 1}
+{"A": 49, "B": -380, "extraordinary": [11], "count": 1}
+{"A": 245, "B": 95, "extraordinary": [], "count": 0}
+{"A": -158, "B": -227, "extraordinary": [5], "count": 1}
+{"A": 367, "B": 10, "extraordinary": [], "count": 0}
+{"A": 26, "B": -394, "extraordinary": [83, 163], "count": 2}
+{"A": 351, "B": 64, "extraordinary": [5, 11, 19], "count": 3}
+{"A": -350, "B": -189, "extraordinary": [71, 199], "count": 2}
+{"A": 216, "B": 239, "extraordinary": [7], "count": 1}
+{"A": -70, "B": 323, "extraordinary": [], "count": 0}
+{"A": 175, "B": 384, "extraordinary": [], "count": 0}
+{"A": -181, "B": 131, "extraordinary": [], "count": 0}
+{"A": -211, "B": 138, "extraordinary": [19], "count": 1}
+{"A": -235, "B": -73, "extraordinary": [11], "count": 1}
+{"A": 158, "B": 285, "extraordinary": [53], "count": 1}
+{"A": -96, "B": -371, "extraordinary": [137], "count": 1}
+{"A": -194, "B": 287, "extraordinary": [], "count": 0}
+{"A": -144, "B": -374, "extraordinary": [7, 79], "count": 2}
+{"A": -382, "B": 122, "extraordinary": [5, 19, 31], "count": 3}
+{"A": 15, "B": 304, "extraordinary": [67, 167], "count": 2}
+{"A": -99, "B": -337, "extraordinary": [], "count": 0}
+{"A": 111, "B": -52, "extraordinary": [], "count": 0}
+{"A": -130, "B": 361, "extraordinary": [], "count": 0}
+{"A": -279, "B": 92, "extraordinary": [5, 7], "count": 2}
+{"A": -244, "B": -285, "extraordinary": [7, 59], "count": 2}
+{"A": 287, "B": -286, "extraordinary": [127], "count": 1}
+{"A": 383, "B": 40, "extraordinary": [17, 61], "count": 2}
+{"A": 248, "B": 271, "extraordinary": [], "count": 0}
+{"A": 268, "B": -283, "extraordinary": [], "count": 0}
+{"A": 152, "B": -172, "extraordinary": [199], "count": 1}
+{"A": 162, "B": -51, "extraordinary": [7, 11, 31, 37, 83], "count": 5}
+{"A": -81, "B": 66, "extraordinary": [19], "count": 1}
+{"A": 218, "B": 10, "extraordinary": [7, 11], "count": 2}
+{"A": -355, "B": 205, "extraordinary": [], "count": 0}
+{"A": -244, "B": 75, "extraordinary": [19], "count": 1}
+{"A": 334, "B": 381, "extraordinary": [7], "count": 1}
+{"A": -340, "B": 46, "extraordinary": [11], "count": 1}
+{"A": -311, "B": -246, "extraordinary": [], "count": 0}
+{"A": 110, "B": 237, "extraordinary": [19], "count": 1}
+{"A": 382, "B": -398, "extraordinary": [239], "count": 1}
+{"A": -349, "B": 45, "extraordinary": [], "count": 0}
+{"A": 93, "B": -278, "extraordinary": [5, 11, 13], "count": 3}
+{"A": -41, "B": 37, "extraordinary": [43], "count": 1}
+{"A": 56, "B": 125, "extraordinary": [163], "count": 1}
+{"A": 357, "B": -263, "extraordinary": [5, 13], "count": 2}
+{"A": 215, "B": 276, "extraordinary": [], "count": 0}
+{"A": 355, "B": -110, "extraordinary": [], "count": 0}

@@ -66,11 +66,11 @@ def is_ordinary(p, A, B):
     return coeff != 0
 
 
-def list_ordinary_primes(A, B, top_limit=1000):
+def list_ordinary_primes(A, B, top_limit=1000, start=3):
     result = []
     primes_total = 0
 
-    for p in range(3, top_limit):
+    for p in range(start, top_limit):
         if not fmpz(p).is_prime():
             continue
 
